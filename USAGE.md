@@ -84,6 +84,28 @@ STARS_USER=wangzhizhou python sync_stars.py
 两者现在是同一套分类（8 个）。想重排 Lists 用 `tools/reorganize_lists.py`，
 细节见 [tools/README.md](tools/README.md)。
 
+## 备注怎么写
+
+`notes.yml` 里的键是 `owner/repo`，**大小写不敏感**。
+
+写备注的原则是：**不要复述仓库描述**，README 里已经有了。只写三件事——
+
+1. 什么时候会想起它
+2. 怎么上手 / 关键命令
+3. 有什么坑，或者和同类工具的关系
+
+反例（等于白写）：`"uv": "一个用 Rust 写的 Python 包管理器"`
+正例：`"uv": "比 pip + venv 快一个数量级。新项目直接上"`
+
+拼错的键不会静默失败，同步时会打印警告：
+
+```
+⚠ notes.yml 有 2 个键不在你的 star 列表里（拼写错误？）：
+    foo/bar
+```
+
+当前仓库里有一份 171 条的草稿，随时改随时 push 即可。
+
 ## 注意事项
 
 - GitHub 的 schedule 工作流在仓库**连续 60 天无活动**后会被自动停用。本方案每次同步都会产生一次 commit（有变化时），足以保持活跃；万一被停了，去 Actions 页面点一下 Enable 即可。

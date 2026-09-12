@@ -308,7 +308,8 @@ def render_readme(
 
         shown = items[:max_per] if max_per else items
         for repo in shown:
-            out.append(render_entry(repo, notes.get(repo["full_name"], ""), show_topics))
+            note = notes.get(repo["full_name"].casefold(), "")
+            out.append(render_entry(repo, note, show_topics))
         if max_per and len(items) > max_per:
             out.append(f"- … 还有 {len(items) - max_per} 个（见 `data/stars.json`）")
         out.append("")
@@ -339,7 +340,8 @@ def main() -> int:
     raw_categories = config.get("categories") or []
     exclude = {str(x).lower() for x in (config.get("exclude") or [])}
     notes_raw = (load_yaml(ROOT / "notes.yml", {}) or {}).get("notes") or {}
-    notes = {str(k): str(v) for k, v in notes_raw.items()}
+    # 大小写不敏感：键用 lowercase 归一化
+    notes = {str(k).casefold(): str(v) for k, v in notes_raw.items()}
 
     if not raw_categories:
         raise SystemExit("categories.yml 里没有定义任何 categories，先补上再跑。")
@@ -357,6 +359,15 @@ def main() -> int:
     log(f"→ 用户：{user}（{'带 token' if token else '匿名，限额较低'}）")
     stars = fetch_stars(user, token)
     stars = [r for r in stars if r["full_name"].lower() not in exclude]
+
+    # 提示 notes.yml 里拼错、或已经不在 star 列表里的键
+    known = {r["full_name"].casefold() for r in stars}
+    stale = sorted(set(notes) - known)
+    if stale:
+        log(f"⚠ notes.yml 有 {len(stale)} 个键不在你的 star 列表里（拼写错误？）：")
+        for k in stale[:15]:
+            log(f"    {k}")
+
     log(f"→ 共 {len(stars)} 个仓库，开始分类…")
 
     buckets: dict[str, list[dict]] = {c["_name"]: [] for c in categories}

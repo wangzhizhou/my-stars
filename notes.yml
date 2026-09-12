@@ -1,12 +1,210 @@
-# 给单个仓库加备注：渲染成条目下方的一行引用，GitHub 全文搜索能搜到。
+# 单仓库备注
 #
-# 键必须是 owner/repo（大小写不敏感，建议按 GitHub 原样写）。
-# 建议写「为什么收藏 + 什么场景用它」，半年后你会感谢自己。
+# 会渲染成 README 里每条下面的一行引用（💡），并且能被 GitHub 全文搜索。
 #
-# 例：
-# notes:
-#   "microsoft/markitdown": "把 PDF/Office 转 Markdown，做 RAG 预处理时直接用"
-#   "jqlang/jq": "命令行处理 JSON，配合 curl 调试 API"
-#   "sindresorhus/awesome": "总入口，找不到方向时先翻这个"
+# 写备注的原则：不要复述 README 里已有的描述，只写三件事 ——
+#   1. 什么时候会想起它
+#   2. 怎么上手 / 关键命令
+#   3. 有什么坑，或者和同类工具的关系
+#
+# 键是 owner/repo（大小写不敏感）。想加新的直接往下加，改完 push 自动生效。
+# 全部 661 个仓库见 data/stars.json。
+#
+# 下面这份是机器按分类生成的草稿：我熟悉的部分写了实际内容，不确定的没写。
+# 空着不代表不重要，只代表「不该由我替你编」。
 
-notes: {}
+notes:
+  # ══════════════════════════════════════════ AI / LLM / 智能体
+  "ollama/ollama": "本地跑开源大模型的起手式。`ollama run qwen2.5` 就能跑，比手搓 llama.cpp 省心"
+  "openai/whisper": "语音转文字。长音频先切片再跑，否则内存/显存吃紧"
+  "RVC-Boss/GPT-SoVITS": "少样本语音克隆 + TTS，中文效果不错。需要 N 卡"
+  "BerriAI/litellm": "把 100+ 家 LLM 的 API 统一成 OpenAI 格式 多模型切换、成本统计、故障转移时用"
+  "microsoft/generative-ai-for-beginners": "生成式 AI 入门课，21 课带代码。想系统过一遍概念时看"
+  "microsoft/ML-For-Beginners": "经典机器学习入门课。和上面那门二选一，别同时开"
+  "opencv/opencv": "计算机视觉标配。Python 装 `opencv-python` 就够，只有写 C++ 才需要编这个仓库"
+  "Z4nzu/hackingtool": "安全工具全家桶的索引，当谱系图看。别在生产机上瞎跑"
+  "AntonOsika/gpt-engineer": "自然语言生成代码骨架的早期实验，看思路用，不是日常工具"
+  "koala73/worldmonitor": "AI 聚合新闻的实时情报面板，关注地缘/基建动态时用"
+  "bojieli/ai-agent-book": "《深入理解 AI Agent》中文开源书，带编译版 PDF 和按章代码"
+  "earendil-works/pi": "AI agent 工具箱：统一 LLM API + agent loop + TUI + 编码 CLI。自己写 agent 时当骨架参考"
+  "Fission-AI/OpenSpec": "给 AI 编码助手做规格驱动开发，先把需求写清楚再让 AI 动手"
+  "multica-ai/multica": "人与 AI agent 协作的平台，可自建"
+
+  # ══════════════════════════════════════════ Apple / iOS / macOS / Swift
+  "ohmyzsh/ohmyzsh": "zsh 配置框架。装完改 `~/.zshrc` 选主题和插件，别一股脑全开，会拖慢启动"
+  "tw93/Mole": "Mac 清理 / 卸载 / 磁盘分析，可以替代 CleanMyMac"
+  "WerWolv/ImHex": "逆向用的十六进制编辑器，能写 pattern 脚本解析自定义文件格式"
+  "vsouza/awesome-ios": "iOS 生态资源总入口，找轮子先翻这个"
+  "sickcodes/Docker-OSX": "Docker 里跑 macOS，用于安全研究和逆向。注意授权和性能"
+  "apple/container": "Apple Silicon 上用轻量虚拟机跑 Linux 容器，可以替代 Docker Desktop"
+  "iina/iina": "macOS 播放器，内核是 mpv。遇到奇怪格式播不了先用它试"
+  "Alamofire/Alamofire": "iOS 网络层首选。只有几个请求的话直接用 URLSession，别为这点需求引依赖"
+  "utmapp/UTM": "iOS / macOS 上的虚拟机，跑 Windows / Linux，基于 QEMU"
+  "AFNetworking/AFNetworking": "上一代 iOS 网络库（ObjC）。只有维护老项目才需要，新项目用 Alamofire"
+  "kodecocodes/swift-algorithm-club": "用 Swift 讲数据结构和算法，带解释。补算法基础用"
+  "ChartsOrg/Charts": "iOS 图表库，是 Android MPAndroidChart 的 Swift 版"
+  "matteocrippa/awesome-swift": "Swift 库清单，按类别找轮子"
+  "vapor/vapor": "服务端 Swift 的 Web 框架。想在 Swift 里写后端从它开始"
+  "SDWebImage/SDWebImage": "图片异步下载 + 缓存，ObjC 老项目标配。新项目用 Kingfisher"
+  "withfig/autocomplete": "给终端加 IDE 式补全，敲命令时会弹参数说明"
+  "ReactiveX/RxSwift": "Swift 响应式编程。上之前想清楚是否真需要，容易过度设计"
+  "onevcat/Kingfisher": "Swift 图片下载 + 缓存，比 SDWebImage 更贴合 Swift 风格"
+  "CodeEditApp/CodeEdit": "用 SwiftUI 写的 macOS 代码编辑器。看它怎么组织大型 SwiftUI 项目"
+  "HeroTransitions/Hero": "iOS 转场动画库，做页面间的 hero 动画"
+  "SnapKit/SnapKit": "Swift 版 Auto Layout DSL，写约束比原生 API 简洁"
+  "ExistentialAudio/BlackHole": "macOS 音频回环驱动，录系统声音 / 直播串流时用"
+  "realm/SwiftLint": "Swift 代码规范检查，接到 CI 里卡住风格问题"
+  "dortania/OpenCore-Legacy-Patcher": "让老 Mac 升到新 macOS，折腾老机器时装"
+  "OpenEmu/OpenEmu": "macOS 上的复古游戏模拟器前端"
+  "swiftlang/swift-evolution": "Swift 语言演进提案。想搞清某个语法为什么长这样时查"
+  "Moya/Moya": "Alamofire 之上的网络抽象层，把接口定义成 enum。接口多的大项目才值得"
+  "ochococo/Design-Patterns-In-Swift": "用 Swift 实现的设计模式，配合 GoF 那本书看"
+  "SwifterSwift/SwifterSwift": "500+ 个 Swift 原生类型扩展，抄代码比自己写快"
+  "Carthage/Carthage": "去中心化的 Cocoa 依赖管理。新项目基本都转 SPM 了"
+  "keycastr/keycastr": "按键可视化，录屏 / 演示时显示快捷键"
+  "pointfreeco/swift-composable-architecture": "TCA。项目复杂到状态管理失控时再上，小项目是负担"
+  "CocoaPods/CocoaPods": "Cocoa 依赖管理，老项目还在用。新项目优先 SPM"
+  "FLEXTool/FLEX": "App 内调试面板，看网络请求 / 视图层级 / 沙盒文件"
+  "altstoreio/AltStore": "非越狱设备上的第三方 App Store，用 Apple ID 自签"
+  "ibireme/YYKit": "YY 系列 iOS 组件（ObjC），高性能文本 / 图片。老项目参考"
+  "PerfectlySoft/Perfect": "早期的服务端 Swift 框架，已过时。现在看 Vapor"
+  "tw93/Pake": "把网页一行命令打包成桌面 App，做内部工具很省事"
+
+  # ══════════════════════════════════════════ Minecraft
+  "PaperMC/Paper": "Minecraft 服务端首选，性能和插件生态都比原版好"
+  "itzg/docker-minecraft-server": "用 Docker 起 MC 服务端，改环境变量就能配"
+  "HMCL-dev/HMCL": "跨平台 MC 启动器，多版本 / 多 Mod 加载器管理方便"
+  "MinecraftForge/MinecraftForge": "Forge Mod 加载器，老牌。新版本不少 Mod 已转向 NeoForge"
+  "GeyserMC/Geyser": "让基岩版客户端连上 Java 版服务器"
+  "MCSManager/MCSManager": "开服面板，多实例 / 多用户管理，适合给朋友开服"
+  "Querz/mcaselector": "从存档里挑区块删除或导出，存档瘦身用"
+  "MultiMC/Launcher": "多实例启动器，每个实例独立配置和 Mod"
+  "Mojang/brigadier": "Minecraft 的命令解析器，也适合搬到自己项目里写命令系统"
+  "overviewer/Minecraft-Overviewer": "把存档渲染成网页地图"
+  "Minestom/Minestom": "轻量 MC 服务端实现，不用魔改原版，适合自己写服务端逻辑"
+  "FabricMC/fabric-api": "Fabric 模组开发的前置 API，写 Fabric Mod 必需"
+  "YouHaveTrouble/minecraft-optimization": "服务端优化指南，卡顿时按条目排查"
+  "BlueMap-Minecraft/BlueMap": "生成 3D 网页地图，比 Overviewer 好看"
+  "Bukkit/Bukkit": "Bukkit API 本体，写插件时对着它查接口"
+  "LuckPerms/LuckPerms": "权限管理插件，几乎每个服务端都会装"
+  "louis-e/arnis": "把真实世界地图生成到 Minecraft 里"
+  "PaperMC/bibliothek": "PaperMC 的下载 API 库，写自动更新脚本时用"
+
+  # ══════════════════════════════════════════ 硬件 / 嵌入式 / IoT
+  "home-assistant/core": "智能家居中枢。能把小米 / Yeelight 等设备统一接入并做自动化"
+  "espressif/esp-idf": "ESP32 官方开发框架。用 ESP32 就先装这个"
+  "XiaoMi/ha_xiaomi_home": "小米设备接入 Home Assistant 的官方集成"
+  "thibmaek/awesome-raspberry-pi": "树莓派资源清单"
+  "project-chip/connectedhomeip": "Matter 协议参考实现，做智能家居互联互通时看"
+  "kitspace/awesome-electronics": "电子工程资源清单，画板子 / 选元件时翻"
+  "raspberrypi/documentation": "树莓派官方文档"
+  "raspberrypi/rpi-imager": "树莓派烧录工具，写卡用"
+  "idootop/open-xiaoai": "让小爱音箱接入自定义语音助手"
+  "esp-rs/esp-hal": "用 Rust 写 ESP32 固件的 HAL 层"
+  "usbarmory/usbarmory": "开源的 USB 安全计算设备，看硬件安全设计"
+  "espressif/vscode-esp-idf-extension": "VS Code 上的 ESP-IDF 插件，比命令行编译舒服"
+  "procount/pinn": "树莓派多系统启动管理器"
+  "mdeverdelhan/ACR122U-reader-writer": "读写 Mifare 卡的工具，门禁卡研究用"
+  "liquanhai/CSerialPort": "跨平台串口库，C++ 上位机通信用"
+  "sgbasaraner/yeelight-cli": "命令行控制 Yeelight 灯"
+
+  # ══════════════════════════════════════════ 网络 / 代理 / 自建服务
+  "fatedier/frp": "内网穿透，把家里 / 公司的服务映射到公网"
+  "caddyserver/caddy": "自动申请 HTTPS 证书的 Web 服务器，Caddyfile 比 nginx.conf 好写得多"
+  "FFmpeg/FFmpeg": "音视频处理瑞士军刀。转码 / 剪辑 / 推流都靠它，参数得查文档"
+  "acmesh-official/acme.sh": "纯 shell 的证书自动续期，比 certbot 轻"
+  "freefq/free": "免费节点收集，时效性差，当备用"
+  "blackmatrix7/ios_rule_script": "分流规则集合，Shadowrocket / Clash 等用"
+  "docmirror/dev-sidecar": "开发者边车，加速 github clone / release 下载"
+  "arut/nginx-rtmp-module": "给 Nginx 加 RTMP 推流能力，自建直播服务用"
+  "rofl0r/proxychains-ng": "让命令行程序走代理，`proxychains4 curl ...`"
+  "vi/websocat": "WebSocket 的命令行客户端，像 netcat 但走 ws"
+  "jacksonliam/mjpg-streamer": "把 USB 摄像头变成 MJPEG 流，树莓派监控用"
+  "plutinosoft/Platinum": "UPnP / DLNA SDK，做投屏 / 媒体服务器时参考"
+  "shadowsocks/shadowsocks-c": "轻量 Shadowsocks 实现，研究协议 / 自建时看"
+
+  # ══════════════════════════════════════════ 前端 / Web
+  "freeCodeCamp/freeCodeCamp": "免费编程课程，课程 + 项目 + 认证。打基础用"
+  "react/react": "React 本体。查 API 看文档就行，仓库代码不太用翻"
+  "twbs/bootstrap": "CSS 框架。快速搭原型或后台管理页时省事"
+  "vercel/next.js": "React 全栈框架，SSR / SSG / 路由都包了"
+  "electron/electron": "用 Web 技术写跨平台桌面 App。包体积大和内存占用是硬伤"
+  "gohugoio/hugo": "静态站生成器，构建快到离谱。建博客 / 文档站首选"
+  "leonardomso/33-js-concepts": "33 个 JS 核心概念清单，查漏补缺"
+  "microsoft/monaco-editor": "VS Code 的编辑器内核，网页里要嵌代码编辑器就用它"
+  "appsmithorg/appsmith": "拖拉拽搭内部管理后台，少写前端"
+  "xyflow/xyflow": "React / Svelte 的节点连线画布，做流程图 / 工作流编辑器"
+  "ReactiveX/rxjs": "JS 响应式编程，Angular 项目里常见"
+  "sunface/rust-course": "《Rust 语言圣经》中文教程，从入门到进阶"
+  "eslint/eslint": "JS / TS 代码检查，接 CI 拦截低级错误"
+  "lissy93/dashy": "自建个人导航页，把常用服务收在一个面板"
+  "simple-icons/simple-icons": "品牌 SVG 图标库，做网站 / 文档时找 logo"
+  "mkdocs/mkdocs": "用 Markdown 写文档站，配 mkdocs-material 主题最好看"
+  "kitao/pyxel": "Python 复古游戏引擎，写像素小游戏"
+  "rust-lang/rust-analyzer": "Rust 的 LSP，编辑器补全 / 跳转靠它"
+  "gohugo-ananke/ananke": "Hugo 官方示例主题，学 Hugo 模板语法从它入手"
+  "onweru/compose": "Hugo 文档站主题，自带搜索"
+  "expo/expo": "React Native 开发框架，免配置上手，用 Expo Go 真机预览"
+  "flutter/flutter": "Flutter 跨端框架，一套代码出 iOS / Android / 桌面 / Web"
+
+  # ══════════════════════════════════════════ 后端 / 架构 / 分布式
+  "ByteByteGoHq/system-design-101": "系统设计图解，面试和复习都用"
+  "pallets/flask": "Python 微框架，小服务 / 原型够用。大项目再考虑 FastAPI / Django"
+  "protocolbuffers/protobuf": "跨语言序列化格式，gRPC 的底座。比 JSON 小且快"
+  "DovAmir/awesome-design-patterns": "设计模式大全，各种语言的实现都有"
+  "karanpratapsingh/system-design": "系统设计教程，和 system-design-101 互补"
+  "aria2/aria2": "多线程下载器，配 AriaNg 当离线下载用"
+  "apple/foundationdb": "分布式事务 KV 数据库，研究分布式事务设计时看"
+  "swagger-api/swagger-editor": "在线写 OpenAPI 文档"
+  "gevent/gevent": "Python 协程库，用 monkey patch 让同步代码变并发"
+  "ReactiveX/RxPY": "Python 响应式编程"
+  "honmaple/maple-bbs": "Flask 写的论坛系统，看中型 Flask 项目怎么组织"
+
+  # ══════════════════════════════════════════ 开发工具 / 效率 / CLI
+  "yt-dlp/yt-dlp": "下载视频 / 音频的首选，比 youtube-dl 活跃得多"
+  "ytdl-org/youtube-dl": "上一代下载器，基本停止维护，新项目请用 yt-dlp"
+  "astral-sh/uv": "Python 包管理 + 虚拟环境，比 pip + venv 快一个数量级。新项目直接上"
+  "BurntSushi/ripgrep": "递归搜索，比 grep 快很多。`rg` 基本可以替代 grep + find"
+  "tiimgreen/github-cheat-sheet": "GitHub 隐藏操作速查，偶尔翻翻有惊喜"
+  "Textualize/rich": "Python 终端富文本输出，写 CLI 美化用"
+  "cli/cli": "GitHub 官方 CLI，把仓库 / PR / Issue 操作脚本化"
+  "vim/vim": "Vim 本体。改配置用 `:help` 查，别乱抄别人的 vimrc"
+  "jqlang/jq": "处理 JSON 的标配，`curl ... | jq` 起手"
+  "dandavison/delta": "git diff 的语法高亮分页器，配 `git config core.pager delta`"
+  "gitui-org/gitui": "终端 Git TUI，比命令行直观，比 GUI 轻"
+  "asciinema/asciinema": "录制终端会话，做教程演示用"
+  "pallets/click": "Python 写 CLI 的框架，参数 / 子命令 / 帮助都帮你处理"
+  "clap-rs/clap": "Rust 写 CLI 的参数解析，`#[derive(Parser)]` 起手"
+  "microsoft/vscode-extension-samples": "VS Code 插件开发示例，照着改比看文档快"
+  "yeoman/yeoman": "项目脚手架生成器，早期前端工程化工具"
+  "json-path/JsonPath": "Java 里用路径表达式取 JSON，类似用 SQL 查 JSON"
+  "weekend-project-space/top-rss-list": "优质中文 RSS 源清单"
+  "rust-lang/rust.vim": "Vim 的 Rust 语法和格式化支持"
+  "SCons/scons": "Python 写的构建工具，替代 make"
+  "Shopify/ruby-lsp": "Ruby 的 LSP，VS Code 里补全跳转靠它"
+  "vivo/MoonBox": "流量录制回放平台，线上问题复现用"
+  "remove-bg/remove-bg-cli": "命令行抠图去背景"
+  "Olwiba/Kickass-markdown": "GitHub Markdown 花式用法合集，写 README 时抄"
+
+  # ══════════════════════════════════════════ 系统 / 底层
+  "torvalds/linux": "Linux 内核源码。当资料库按需查，别指望通读"
+  "llvm/llvm-project": "LLVM / Clang 源码，搞编译器后端时看"
+  "brendangregg/FlameGraph": "火焰图工具。`perf` 采样后用它生成图，定位性能热点"
+  "jlevy/the-art-of-command-line": "命令行速查，一页纸。忘了某个命令时翻"
+
+  # ══════════════════════════════════════════ 学习 / 教程 / 资料
+  "sindresorhus/awesome": "所有 awesome 列表的总入口，找不到方向时先翻这个"
+  "awesome-selfhosted/awesome-selfhosted": "可自建的开源服务清单，想自托管什么先来这找"
+  "ossu/computer-science": "自学计算机科学的完整课程路径"
+  "krahets/hello-algo": "《Hello 算法》图解教程，多语言代码，入门数据结构首选"
+  "ruanyf/weekly": "阮一峰科技周刊，每周五更新"
+
+  # ══════════════════════════════════════════ 语言 / 生态
+  "rust-lang/rust": "Rust 语言本体，看 std 实现和 RFC 讨论"
+  "rust-lang/rustlings": "Rust 练习，小题目形式学语法，比看文档快"
+  "gogs/gogs": "自建 Git 服务，比 GitLab 轻得多，树莓派也能跑"
+
+  # ══════════════════════════════════════════ 其他
+  "n8n-io/n8n": "可视化工作流自动化，带 AI 能力，可以自建"
+  "obsproject/obs-studio": "录屏 / 直播软件"
+  "bitcoin/bitcoin": "比特币核心实现，看区块链底层"
