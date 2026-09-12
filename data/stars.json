@@ -1,6 +1,6 @@
 {
   "user": "wangzhizhou",
-  "generated_at": "2026-09-12T02:03:58+00:00",
+  "generated_at": "2026-09-12T02:08:00+00:00",
   "total": 661,
   "categories": {
     "🤖 AI / LLM / 智能体": [
@@ -37,6 +37,7 @@
       "tanweai/pua",
       "nesquena/hermes-webui",
       "sczhou/CodeFormer",
+      "opencv/opencv_contrib",
       "Visualize-ML/Book4_Power-of-Matrix",
       "nhivp/Awesome-Embedded",
       "jianchang512/clone-voice",
@@ -53,6 +54,7 @@
       "modelcontextprotocol/swift-sdk",
       "kimsungwhee/apple-docs-mcp",
       "kuleshov-group/bd3lms",
+      "opencv/opencv_extra",
       "AvdLee/RocketSimApp",
       "ryanlee-gemini/openclaw-qqbot-formal",
       "paean-ai/opencode"
@@ -370,6 +372,7 @@
       "X140Yu/debug_cocoapods_plugins_in_vscode",
       "shizhilya/KPAppMananger",
       "dito010/BLMethodInjecting",
+      "helloresolven/rested",
       "kodecocodes/mos-materials",
       "katoemba/SwiftUPnP",
       "brokenhandsio/SteamPressExample",
@@ -451,7 +454,9 @@
       "ez-plugins/EzShops",
       "chuushi/GetMeHome",
       "Tnze/Tnze-s-IME-MOD",
-      "Jelly-Pudding/simplehome"
+      "Jelly-Pudding/simplehome",
+      "OrzMC/GetMeHome",
+      "OrzMC/LoginSecurity"
     ],
     "🔌 嵌入式 / IoT / 智能家居": [
       "home-assistant/core",
@@ -463,7 +468,9 @@
       "kitspace/awesome-electronics",
       "raspberrypi/documentation",
       "raspberrypi/rpi-imager",
+      "idootop/open-xiaoai",
       "esp-rs/esp-hal",
+      "usbarmory/usbarmory",
       "espressif/vscode-esp-idf-extension",
       "procount/pinn",
       "qca/open-ath9k-htc-firmware",
@@ -486,6 +493,7 @@
       "SebLague/Chess-Challenge",
       "tencent-connect/openclaw-qqbot",
       "baidumapapi/wxapp-jsapi",
+      "opq-osc/OPQ",
       "larksuite/oapi-sdk-java",
       "tencent-connect/bot-docs",
       "tencent-connect/bot-oas",
@@ -503,9 +511,11 @@
       "rofl0r/proxychains-ng",
       "vi/websocat",
       "shadowsocksr-backup/shadowsocks-rss",
+      "jacksonliam/mjpg-streamer",
       "WireGuard/wireguard-monolithic-historical",
       "shadowsocksr-backup/shadowsocksr-libev",
       "atrandys/wireguard",
+      "plutinosoft/Platinum",
       "VeniZ/ShadowsocksX-NG-R8-Bakup",
       "maxshine/ShadowsocksR",
       "maxshine/ShadowsocksX-NG"
@@ -516,6 +526,7 @@
       "twbs/bootstrap",
       "vercel/next.js",
       "electron/electron",
+      "gohugoio/hugo",
       "leonardomso/33-js-concepts",
       "microsoft/monaco-editor",
       "appsmithorg/appsmith",
@@ -523,11 +534,15 @@
       "ReactiveX/rxjs",
       "sunface/rust-course",
       "eslint/eslint",
-      "sindresorhus/awesome-electron",
       "lissy93/dashy",
+      "simple-icons/simple-icons",
+      "mkdocs/mkdocs",
       "kitao/pyxel",
       "rust-lang/rust-analyzer",
       "r5n-labs/vscode-react-javascript-snippets",
+      "gohugo-ananke/ananke",
+      "onevcat/vno-jekyll",
+      "onweru/compose",
       "fewismuch/react-playground",
       "bufferhead-code/onthisday"
     ],
@@ -543,7 +558,8 @@
       "gevent/gevent",
       "ReactiveX/RxPY",
       "honmaple/maple-bbs",
-      "PaperMC/bibliothek"
+      "PaperMC/bibliothek",
+      "modeswitch/protobuf-rpc"
     ],
     "🗄️ 数据 / 数据库 / 存储": [
       "sqlitebrowser/sqlitebrowser",
@@ -568,11 +584,13 @@
       "rebeyond/JNDInjector",
       "HackBraid/Sec-Mind"
     ],
+    "💰 区块链 / Web3": [
+      "bitcoinj/bitcoinj"
+    ],
     "🎮 游戏 / 图形 / 音视频": [
       "obsproject/obs-studio",
       "mpv-player/mpv",
       "blender/blender",
-      "opencv/opencv_contrib",
       "darknessomi/musicbox",
       "Tencent/libpag",
       "DistroAV/DistroAV",
@@ -601,11 +619,15 @@
       "ruby/vscode-rdbg",
       "wangzhizhou/FlameGraph"
     ],
-    "🖥️ 桌面 / GUI / Electron": [],
+    "🖥️ 桌面 / GUI / Electron": [
+      "sindresorhus/awesome-electron",
+      "electron/electron-api-demos",
+      "appium/appium-desktop",
+      "round/CatchMouse"
+    ],
     "🛠️ 开发工具 / 效率 / CLI": [
       "yt-dlp/yt-dlp",
       "ytdl-org/youtube-dl",
-      "gohugoio/hugo",
       "astral-sh/uv",
       "BurntSushi/ripgrep",
       "tiimgreen/github-cheat-sheet",
@@ -615,7 +637,6 @@
       "jqlang/jq",
       "dandavison/delta",
       "gitui-org/gitui",
-      "mkdocs/mkdocs",
       "asciinema/asciinema",
       "pallets/click",
       "clap-rs/clap",
@@ -627,9 +648,11 @@
       "asciinema/asciinema-player",
       "SCons/scons",
       "Shopify/ruby-lsp",
+      "vivo/MoonBox",
       "ruby-debug/ruby-debug-ide",
       "Olwiba/Kickass-markdown",
       "remove-bg/remove-bg-cli",
+      "DevAtDawn/gh-fish",
       "Tnze/DormSignMaker"
     ],
     "📚 学习 / 教程 / Awesome 清单": [
@@ -638,17 +661,24 @@
       "krahets/hello-algo",
       "kdn251/interviews",
       "rust-lang/rustlings",
+      "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+      "pcottle/learnGitBranching",
       "squidfunk/mkdocs-material",
       "TheAlgorithms/Rust",
       "afatcoder/LeetcodeTop",
       "markets/awesome-ruby",
       "mezod/awesome-indie",
+      "greatghoul/remote-working",
+      "easychen/one-person-businesses-methodology",
       "wangdoc/bash-tutorial",
       "tomwhite/hadoop-book",
       "jobbole/awesome-web-dev-books",
       "michaelliao/itranswarp",
+      "inclement/kivycrashcourse",
       "brndnmtthws/idiomatic-rust-book",
       "brndnmtthws/code-like-a-pro-in-rust-book",
+      "hfl15/algorithm",
+      "PacktPublishing/Mastering-Python-Data-Analysis",
       "gocd/docs.go.cd",
       "kodecocodes/agit-materials"
     ],
@@ -665,40 +695,13 @@
     ],
     "📦 未分类": [
       "resume/resume.github.com",
-      "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
-      "pcottle/learnGitBranching",
       "sipeed/picoclaw",
-      "simple-icons/simple-icons",
-      "greatghoul/remote-working",
-      "electron/electron-api-demos",
-      "easychen/one-person-businesses-methodology",
-      "bitcoinj/bitcoinj",
-      "appium/appium-desktop",
-      "jacksonliam/mjpg-streamer",
-      "idootop/open-xiaoai",
-      "usbarmory/usbarmory",
-      "gohugo-ananke/ananke",
-      "vivo/MoonBox",
-      "opencv/opencv_extra",
-      "onevcat/vno-jekyll",
-      "plutinosoft/Platinum",
-      "opq-osc/OPQ",
-      "round/CatchMouse",
-      "inclement/kivycrashcourse",
-      "onweru/compose",
       "responsible-financial-innovation-act22/RFIA-bill",
-      "hfl15/algorithm",
-      "PacktPublishing/Mastering-Python-Data-Analysis",
       "minrk/jupyterhub-pydata-2016",
-      "helloresolven/rested",
-      "modeswitch/protobuf-rpc",
-      "DevAtDawn/gh-fish",
       "qman9501/ShadowPath",
       "axelelettronica/ArrowHandsOn",
       "michaelliao/redirect.liaoxuefeng.com",
       "travisgoodspeed/r2con2024",
-      "OrzMC/GetMeHome",
-      "OrzMC/LoginSecurity",
       "sakurazhu/work"
     ]
   },
@@ -727,7 +730,7 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": 104173,
+      "stars": 104174,
       "forks": 13051,
       "topics": [],
       "archived": false,
@@ -744,7 +747,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 220603,
+      "stars": 220606,
       "forks": 26136,
       "topics": [
         "ai-agents",
@@ -766,8 +769,8 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars": 123426,
-      "forks": 19002,
+      "stars": 123427,
+      "forks": 19003,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -883,14 +886,14 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 206771,
+      "stars": 206772,
       "forks": 27049,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "MIT",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-09-12T02:02:32Z",
+      "pushed_at": "2026-09-12T02:07:03Z",
       "starred_at": "2026-05-07T12:41:37Z"
     },
     {
@@ -917,7 +920,7 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars": 132380,
+      "stars": 132381,
       "forks": 9130,
       "topics": [
         "ai-tools",
@@ -978,7 +981,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 244619,
+      "stars": 244621,
       "forks": 50709,
       "topics": [
         "ai",
@@ -999,7 +1002,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-09-12T02:01:50Z",
+      "pushed_at": "2026-09-12T02:05:00Z",
       "starred_at": "2026-04-15T15:54:59Z"
     },
     {
@@ -1174,7 +1177,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2023-07-27T00:09:52Z",
-      "pushed_at": "2026-09-12T02:01:19Z",
+      "pushed_at": "2026-09-12T02:07:06Z",
       "starred_at": "2026-03-23T04:44:17Z"
     },
     {
@@ -1544,7 +1547,7 @@
       "url": "https://github.com/blender/blender",
       "description": "Official mirror of Blender",
       "language": "C++",
-      "stars": 20250,
+      "stars": 20251,
       "forks": 3224,
       "topics": [
         "3d",
@@ -1622,7 +1625,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-09-12T02:03:32Z",
+      "pushed_at": "2026-09-12T02:07:47Z",
       "starred_at": "2026-01-31T10:35:06Z"
     },
     {
@@ -3651,7 +3654,7 @@
       "url": "https://github.com/sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "language": "",
-      "stars": 505179,
+      "stars": 505180,
       "forks": 36837,
       "topics": [
         "awesome",
@@ -6604,7 +6607,7 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "stars": 180699,
-      "forks": 17818,
+      "forks": 17819,
       "topics": [
         "deepseek",
         "gemma",
@@ -9031,7 +9034,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2016-10-05T23:32:51Z",
-      "pushed_at": "2026-09-12T01:39:36Z",
+      "pushed_at": "2026-09-12T02:06:03Z",
       "starred_at": "2023-05-25T02:05:52Z"
     },
     {
@@ -9228,7 +9231,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2015-03-11T10:53:26Z",
-      "pushed_at": "2026-09-12T01:40:21Z",
+      "pushed_at": "2026-09-12T02:07:04Z",
       "starred_at": "2023-05-19T02:02:00Z"
     },
     {
@@ -10173,7 +10176,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 190503,
+      "stars": 190504,
       "forks": 16536,
       "topics": [
         "cli",
@@ -11418,7 +11421,7 @@
       "url": "https://github.com/apple/swift-collections",
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
-      "stars": 4491,
+      "stars": 4492,
       "forks": 405,
       "topics": [
         "collection",
@@ -12262,7 +12265,7 @@
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "",
       "stars": 318607,
-      "forks": 14989,
+      "forks": 14990,
       "topics": [
         "awesome",
         "awesome-list",
