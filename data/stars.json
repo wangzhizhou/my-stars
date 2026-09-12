@@ -1,6 +1,6 @@
 {
   "user": "wangzhizhou",
-  "generated_at": "2026-09-12T01:59:14+00:00",
+  "generated_at": "2026-09-12T02:01:45+00:00",
   "total": 661,
   "categories": {
     "🤖 AI / LLM / 智能体": [
@@ -744,7 +744,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 220596,
+      "stars": 220599,
       "forks": 26136,
       "topics": [
         "ai-agents",
@@ -766,7 +766,7 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars": 123425,
+      "stars": 123426,
       "forks": 19002,
       "topics": [],
       "archived": false,
@@ -815,7 +815,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
       "stars": 86084,
-      "forks": 13051,
+      "forks": 13052,
       "topics": [
         "agent",
         "ai",
@@ -1174,7 +1174,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2023-07-27T00:09:52Z",
-      "pushed_at": "2026-09-12T01:58:38Z",
+      "pushed_at": "2026-09-12T02:01:19Z",
       "starred_at": "2026-03-23T04:44:17Z"
     },
     {
@@ -1622,7 +1622,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-09-12T01:58:33Z",
+      "pushed_at": "2026-09-12T02:00:51Z",
       "starred_at": "2026-01-31T10:35:06Z"
     },
     {
@@ -2120,7 +2120,7 @@
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
-      "stars": 89729,
+      "stars": 89730,
       "forks": 3569,
       "topics": [
         "packaging",
@@ -2198,7 +2198,7 @@
       "url": "https://github.com/simple-icons/simple-icons",
       "description": "SVG icons for popular brands",
       "language": "JavaScript",
-      "stars": 25831,
+      "stars": 25830,
       "forks": 3162,
       "topics": [
         "brand",
@@ -2626,7 +2626,7 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 49863,
+      "stars": 49864,
       "forks": 1783,
       "topics": [],
       "archived": false,
@@ -2718,7 +2718,7 @@
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "language": "Go",
-      "stars": 32879,
+      "stars": 32880,
       "forks": 4953,
       "topics": [
         "github",
@@ -4112,7 +4112,7 @@
       "url": "https://github.com/khoj-ai/khoj",
       "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
       "language": "Python",
-      "stars": 37277,
+      "stars": 37278,
       "forks": 2470,
       "topics": [
         "agent",
@@ -10173,7 +10173,7 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 190502,
+      "stars": 190503,
       "forks": 16536,
       "topics": [
         "cli",

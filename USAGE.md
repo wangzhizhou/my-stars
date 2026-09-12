@@ -5,7 +5,7 @@
 ## 文件结构
 
 ```
-awesome-stars/
+my-stars/
 ├── categories.yml              # 分类规则（改这个）
 ├── notes.yml                   # 单仓库备注（改这个）
 ├── header.md                   # README 顶部内容（改这个）
@@ -26,15 +26,15 @@ STARS_USER=wangzhizhou python sync_stars.py
 
 ## 推到 GitHub
 
-1. 在 GitHub 新建一个**公开**仓库，名字建议就叫 `awesome-stars`（已经在 `header.md` 里引用了这个路径，改名的话记得同步改）。
+1. 在 GitHub 新建一个**公开**仓库，名字就叫 `my-stars`（`header.md` 和本文档里的仓库路径都是按它写的，改名需同步修改）。
 2. 推送代码：
 
    ```bash
-   cd awesome-stars
+   cd my-stars
    git init -b main
    git add .
    git commit -m "init"
-   git remote add origin https://github.com/wangzhizhou/awesome-stars.git
+   git remote add origin https://github.com/wangzhizhou/my-stars.git
    git push -u origin main
    ```
 
@@ -49,7 +49,7 @@ STARS_USER=wangzhizhou python sync_stars.py
 
 | 想做的事 | 怎么做 |
 | --- | --- |
-| 搜索收藏 | 打开仓库按 `t` 全文搜索，或 GitHub 搜索 `repo:wangzhizhou/awesome-stars 关键词` |
+| 搜索收藏 | 打开仓库按 `t` 全文搜索，或 GitHub 搜索 `repo:wangzhizhou/my-stars 关键词` |
 | 调整分类 | 改 `categories.yml`，push 后自动重新生成 |
 | 加备注 | 改 `notes.yml`，例如 `"owner/repo": "做 XX 时用它"` |
 | 排除某些仓库 | 加到 `categories.yml` 的 `exclude` 列表 |
