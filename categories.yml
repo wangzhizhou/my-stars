@@ -1,0 +1,258 @@
+# GitHub Stars 分类规则
+#
+# 匹配顺序自上而下，先命中哪个分类就归到哪个分类（first match wins）。
+# 所以：范围窄的、你特别在意的分类放前面，宽泛的放后面。
+#
+# 每个分类支持两种写法（可同时使用，需同时满足）：
+#   match:      单个条件块，块内所有键是 AND 关系
+#   match_any:  条件块列表，任意一块命中即可（OR）
+#
+# 可用条件键：
+#   topics_any         仓库 topics 中命中任意一个（精确匹配 topic，大小写不敏感）
+#   topics_all         必须包含全部 topics
+#   language           语言，可写字符串或列表，如 [Python, Rust]
+#   name_regex         正则匹配「仓库名 + owner/repo」
+#   description_regex  正则匹配描述
+#   min_stars / max_stars
+#   archived: true/false
+#
+# 名字、顺序随便改；改完 push 就会自动重新生成 README。
+
+settings:
+  sort: stars            # stars | starred | updated | name
+  fallback_name: "📦 未分类"
+  include_archived: true
+  show_topics: 0         # >0 时在每个条目后附带这么多 topic 标签
+  max_per_category: 0    # >0 时每个分类最多展示这么多条，其余折叠
+
+# 不想出现在清单里的仓库（完全匹配 full_name）
+exclude: []
+#  - "torvalds/linux"
+#  - "some/noisy-repo"
+
+categories:
+  # ---------------------------------------------------------------- AI
+  - name: "🤖 AI / LLM / 智能体"
+    description: "大模型、推理框架、RAG、Agent、扩散模型"
+    match_any:
+      - topics_any:
+          [llm, llms, ai, artificial-intelligence, machine-learning, deep-learning,
+           gpt, chatgpt, openai, claude, gemini, rag, retrieval-augmented-generation,
+           agent, agents, ai-agents, ai-agent, langchain, autogen, mcp, model-context-protocol,
+           vector-database, embeddings, embedding, semantic-search,
+           prompt-engineering, fine-tuning, transformers, pytorch, tensorflow,
+           stable-diffusion, diffusion, text-to-image, text-to-video, whisper, tts,
+           ocr, computer-vision, nlp, neural-network, cuda, inference, quantization,
+           3d-reconstruction, nerf, view-synthesis, gaussian-splatting, monocular, depth-estimation]
+      - name_regex: "(?i)(deepseek|qwen|llama|ollama|vllm|litellm|langchain|openai|gpt|claude|gemini|mistral|stable-diffusion|comfyui|whisper|diffusers|pix2pix|opencode|aiml|text-generation-webui)"
+      - description_regex: "(?i)(large language model|\\bLLM\\b|AI agent|coding agent|diffusion|text-to-(image|video|speech)|RAG\\b|fine-tun|machine learning|neural net|view synthesis)"
+
+  # ---------------------------------------------------------------- Mobile
+  - name: "📱 Android / Flutter / 跨端"
+    description: "放在 Apple 之前，避免跨端框架被 Apple 误收"
+    match_any:
+      - topics_any:
+          [android, android-app, android-application, android-library, android-sdk,
+           kotlin, kotlin-android, jetpack-compose, gradle, flutter, dart, dartlang,
+           react-native, expo, xamarin, maui, ionic, capacitor, harmonyos, arkts,
+           mobile-app, mobile-development, apk]
+
+  # ---------------------------------------------------------------- Apple
+  - name: "🍎 Apple / iOS / macOS / Swift"
+    description: "Swift 生态（含服务端 Swift）、iOS / macOS / watchOS 开发与工具"
+    match_any:
+      - topics_any:
+          [swift, swiftui, swift5, swift-library, swift-package-manager, swiftpm, swiftpm-plugin,
+           swiftlang, server-side-swift, vapor, spm, ios, ios-swift, ios-app, ipados, iphone,
+           ipad, macos, osx, mac, macos-app, appkit, uikit, watchos, tvos, visionos,
+           xcode, xcode-extension, cocoapods, carthage, homebrew, objc, objective-c,
+           apple, apple-silicon, m1, metal, coreml, core-data, combine, rxswift]
+      - language: [Swift, Objective-C, Objective-C++]
+      - name_regex: "(?i)(swift|cocoapods|xcode|dylib|airplay|objc|objective-c|appkit|uikit|sparkle|fastlane|instruments)"
+      - description_regex: "(?i)(\\biOS\\b|macOS|watchOS|tvOS|SwiftUI|Cocoa|Objective-C|Apple platform|Apple)"
+
+  # ---------------------------------------------------------------- Minecraft
+  - name: "⛏️ Minecraft / 插件 / 服务端"
+    description: "Minecraft 插件、模组、服务端、协议库"
+    match_any:
+      - topics_any:
+          [minecraft, minecraft-plugin, minecraft-mod, minecraft-server, minecraft-api,
+           minecraft-forge, minecraft-performance, minecraft-java-edition,
+           bukkit, bukkit-plugin, spigot, spigot-plugin, papermc, paper-plugin, purpur,
+           fabricmc, fabric-mod, fabricmc-mod, forge, neoforge, spongepowered, sponge-plugin,
+           bungeecord, velocity, rcon, rcon-client, nukkit, pocketmine, modrinth, curseforge,
+           eaglercraft, eaglercraftx, mcjs]
+      - name_regex: "(?i)minecraft|mcjs|eaglercraft"
+      - description_regex: "(?i)(minecraft|bukkit|spigot|paper (plugin|server)|mod for minecraft)"
+
+  # ---------------------------------------------------------------- IoT
+  - name: "🔌 嵌入式 / IoT / 智能家居"
+    description: "单片机、固件、传感器、Home Assistant 等"
+    match_any:
+      - topics_any:
+          [embedded, embedded-systems, firmware, microcontroller, mcu, arduino, esp32, esp8266,
+           esp-idf, stm32, riscv, raspberry-pi, raspi, rtos, freertos, iot, internet-of-things,
+           smart-home, home-automation, home-assistant, hass, homeassistant, mqtt, zigbee,
+           zwave, matter, connectedhomeip, serial-port, serialport, uart, rs232, rfid, nfc,
+           hardware, driver, kernel-module, lorawan]
+      - name_regex: "(?i)(esp32|esp8266|esp-idf|arduino|stm32|raspberry|rpi-|tuya|yeelight|zigbee)"
+      - description_regex: "(?i)(firmware|microcontroller|Home Assistant|smart home|IoT|embedded)"
+
+  # ---------------------------------------------------------------- IM bot
+  - name: "💬 IM 机器人 / 小程序 / 开放平台"
+    description: "QQ、微信、飞书、Discord、Telegram 机器人及小程序后端"
+    match_any:
+      - topics_any:
+          [qqbot, qq-bot, onebot, cqhttp, napcat, go-cqhttp, mirai, wechat, weixin,
+           wechat-bot, wechat-miniprogram, miniprogram, mini-program, weapp, wxapp,
+           wechat-robot, telegram, telegram-bot, discord, discord-bot, slack, slack-bot,
+           chatbot, chat-bot, bot, bots, bot-framework, openapi, oapi, lark, feishu]
+      - name_regex: "(?i)(qqbot|onebot|cqhttp|napcat|wechat|weixin|miniprogram|wxapp|lark|feishu|telegram|discord)"
+      - description_regex: "(?i)(机器人|小程序|公众号|微信|QQ 频道|bot|chatbot)"
+
+  # ---------------------------------------------------------------- Network
+  - name: "🌐 网络 / 代理 / 自建服务"
+    description: "代理、科学上网、DNS、证书、内网穿透、流媒体转发"
+    match_any:
+      - topics_any:
+          [shadowsocks, shadowsocksr, ssr, v2ray, v2fly, xray, trojan, clash, sing-box,
+           proxy, proxies, proxy-server, vpn, wireguard, openvpn, proxychains, socks5,
+           gfw, anticensorship, dns, dns-server, adguard, adblock, pi-hole, pihole,
+           certbot, letsencrypt, acme, ssl, tls, https, certificate,
+           frp, ngrok, tunnel, reverse-proxy, nginx, caddy, haproxy, iptv, rtmp, streaming-server]
+      - name_regex: "(?i)(shadowsocks|v2ray|xray|trojan|clash|wireguard|proxychains|certbot|frp|nginx)"
+      - description_regex: "(?i)(翻墙|科学上网|分流规则|代理|节点|梯子|proxy server|VPN|reverse proxy|Let's Encrypt)"
+
+  # ---------------------------------------------------------------- Frontend
+  - name: "🌐 前端 / Web"
+    match_any:
+      - topics_any:
+          [frontend, front-end, react, reactjs, vue, vuejs, svelte, angular, solidjs, qwik,
+           nextjs, nuxt, astro, remix, gatsby, tailwindcss, css, html, scss, sass, less,
+           typescript, javascript, vite, webpack, esbuild, rollup, parcel, bun, deno,
+           browser-extension, chrome-extension, firefox-addon, userscript, pwa, webgpu,
+           threejs, webgl, dom, jquery, element-ui, antd, electron]
+      - description_regex: "(?i)(front[- ]end|browser extension|web framework|CSS framework)"
+
+  # ---------------------------------------------------------------- Backend
+  - name: "⚙️ 后端 / 架构 / 分布式"
+    match_any:
+      - topics_any:
+          [backend, back-end, api, rest, rest-api, restful, graphql, grpc, rpc, json-rpc,
+           microservices, microservice, distributed-systems, distributed-database, consensus,
+           raft, paxos, message-queue, mq, websocket, websockets, server, http-server,
+           nodejs, node, express, fastapi, django, flask, spring-boot, springboot, gin,
+           actix, axum, caching, cache, load-balancing, system-design, high-performance,
+           high-concurrency, concurrency, coroutine, transaction, reactive, reactivex,
+           reactive-extensions, rx]
+      - description_regex: "(?i)(coroutine|reactive extensions|concurrency library)"
+
+  # ---------------------------------------------------------------- Data
+  - name: "🗄️ 数据 / 数据库 / 存储"
+    match_any:
+      - topics_any:
+          [database, databases, dbms, sql, nosql, postgres, postgresql, mysql, mariadb,
+           redis, mongodb, sqlite, clickhouse, duckdb, elasticsearch, opensearch, lucene,
+           kafka, pulsar, rabbitmq, etl, data-engineering, data-pipeline, data-warehouse,
+           data-analysis, data-science, dataframe, pandas, storage, object-storage, s3,
+           key-value-store, filesystem, search-engine, full-text-search, vector-search]
+      - description_regex: "(?i)(database|distributed storage|key-value store)"
+
+  # ---------------------------------------------------------------- DevOps
+  - name: "☁️ DevOps / 云原生 / 运维"
+    match_any:
+      - topics_any:
+          [devops, docker, docker-compose, container, containers, oci, kubernetes, k8s, helm,
+           istio, service-mesh, terraform, ansible, pulumi, chef, puppet,
+           ci, ci-cd, continuous-integration, continuous-delivery, github-actions, gitlab-ci,
+           jenkins, argo, argocd, aws, azure, gcp, cloud, cloud-native, serverless, lambda,
+           observability, monitoring, prometheus, grafana, opentelemetry, tracing, logging,
+           sysadmin, homelab, self-hosted, paas, iac, backup, deployment]
+
+  # ---------------------------------------------------------------- Security
+  - name: "🔐 安全 / 隐私"
+    match_any:
+      - topics_any:
+          [security, cybersecurity, infosec, pentest, penetration-testing, penetration-test,
+           hacking, hacker, ctf, ctf-writeups, exploit, exploitation, malware, phishing,
+           vulnerability, vulnerabilities, cve, security-tools, security-audit,
+           cryptography, crypto, encryption, cipher, hash, privacy, anonymity,
+           zero-trust, sast, dast, waf, firewall, authentication, authorization,
+           oauth, oauth2, jwt, secrets, vault, keycloak, sso, rbac, jndi, deserialization]
+      - description_regex: "(?i)(security|vulnerabilit|static analysis|JNDI|deserial|exploit|penetration|安全)"
+
+  # ---------------------------------------------------------------- Graphics
+  - name: "🎮 游戏 / 图形 / 音视频"
+    match_any:
+      - topics_any:
+          [game, games, gamedev, game-development, game-engine, game-server, unity,
+           unreal-engine, godot, pygame, bevy, chess, ffxiv,
+           graphics, opengl, vulkan, webgl, shader, shaders, rendering, raytracing,
+           image-processing, computer-graphics, cv, opencv,
+           video, video-processing, ffmpeg, audio, music, music-player, media, animation,
+           emulator, emulation, retro, iptv-player]
+      - description_regex: "(?i)(chess|game engine|ray trac|emulator)"
+
+  # ---------------------------------------------------------------- Systems
+  - name: "🖥️ 系统 / 底层 / 编译器"
+    match_any:
+      - topics_any:
+          [linux, linux-kernel, kernel, unix, bsd, operating-system, os, osdev, bare-metal,
+           compiler, compilers, interpreter, programming-language, language, jit, vm, bytecode,
+           assembly, reverse-engineering, disassembler, debugger, linker, llvm, gcc, gdb,
+           networking, tcp, tcp-ip, udp, protocol, protocols, filesystem, kernel-driver,
+           profiling, flamegraph, eBPF, ebpf, tracing, low-level]
+      - name_regex: "(?i)(^linux|kernel|llvm|gcc|clang|qemu|bochs|wine|sccache|ccache)"
+      - description_regex: "(?i)(kernel source|operating system|open source compiler|programming language|LLVM|stack trace|flame ?graph|compiler cache)"
+
+  # ---------------------------------------------------------------- Desktop
+  - name: "🖥️ 桌面 / GUI / Electron"
+    match_any:
+      - topics_any:
+          [electron, tauri, wails, desktop-app, desktop-application, desktop,
+           gui, gui-application, qt, gtk, wxwidgets, windows,
+           windows-app, linux-desktop, linux-app, tray-app, native-app]
+
+  # ---------------------------------------------------------------- DevTools
+  - name: "🛠️ 开发工具 / 效率 / CLI"
+    match_any:
+      - topics_any:
+          [cli, cli-app, command-line, command-line-tool, command-line-tools, cmd, console,
+           terminal, terminal-emulator, shell, bash, zsh, fish, powershell, tmux, screen,
+           vim, neovim, nvim, emacs, vscode, vscode-extension, visual-studio-code, ide, editor,
+           dotfiles, config, configuration, developer-tools, devtools, dev-tools,
+           productivity, automation, workflow, git, git-tools, github, linter, formatter,
+           testing, test, unit-testing, debug, package-manager, package-management,
+           version-manager, build-tool, build-system, boilerplate, template, scaffolding,
+           codegen, code-generation, note-taking, notes, markdown, static-site-generator,
+           rss, json, yaml, regex, screenshot, clipboard, downloader, file-manager, proxy-tool,
+           pip, pypi, packaging, virtualenv, pyenv, poetry, conda, venv, toolchain, runtime,
+           task-runner, makefile, code-search, refactoring]
+      - name_regex: "(?i)(vscode|yeoman|npm|pnpm|yarn|make|gradle|jsonpath|debug|\\.vim$|\\.fish$|cli$)"
+      - description_regex: "(?i)(command[- ]line|package manager|build tool|scaffold|json|parsing)"
+
+  # ---------------------------------------------------------------- Learning
+  - name: "📚 学习 / 教程 / Awesome 清单"
+    description: "教程、路线图、面试、书单、资源集合——当资料库翻"
+    match_any:
+      - topics_any:
+          [awesome, awesome-list, awesome-lists, list, lists, curated, collection, collections,
+           tutorial, tutorials, learning, learn, course, courses, education, educational,
+           book, books, ebook, ebooks, interview, interview-questions, interview-preparation,
+           roadmap, cheatsheet, cheat-sheets, cheatsheets, guide, guides, handbook,
+           documentation, docs, wiki, resources, examples, sample, samples, snippets,
+           best-practices, patterns, design-patterns, architecture-patterns,
+           algorithms, algorithm, data-structures, leetcode, computer-science, cs,
+           exercises, beginner-friendly, practice, style-guide, conventions]
+      - name_regex: "(?i)(^awesome|awesome-|-awesome|tutorial|tutorials|handbook|-book$|cheatsheet|roadmap|-101$|style-guide|materials|exercises|interview)"
+      - description_regex: "(?i)(awesome list|教程|指南|学习路线|入门|面试|资源大全|curated list|style guide|资料整理)"
+
+  # ---------------------------------------------------------------- Reading
+  - name: "📖 电子书 / 影音 / 中文资源"
+    match_any:
+      - topics_any:
+          [ebook, ebooks, book, books, reading, reader, novel, novels, manga, comic, comics,
+           audiobook, podcast, video, videos, youtube, youtube-dl, movie, movies, music,
+           music-player, netease-music, iptv, tv, chinese, zh-cn, chinese-resources]
+      - name_regex: "(?i)(book|books|weekly|reader|movie|music|iptv|ebook|downloader)"
+      - description_regex: "(?i)(电子书|书籍|周刊|影音|音乐|电影|电视剧|movie|music player|download videos)"

@@ -1,0 +1,59 @@
+name: Sync Stars
+
+on:
+  schedule:
+    # UTC 20:10 ≈ 北京时间 04:10
+    - cron: "10 20 * * *"
+  workflow_dispatch:
+
+  # 改配置后自动重新生成 README
+  push:
+    branches: [main]
+    paths:
+      - "categories.yml"
+      - "notes.yml"
+      - "header.md"
+      - "sync_stars.py"
+      - ".github/workflows/sync.yml"
+
+# 需要写权限才能把生成的 README 提交回来
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-stars
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Generate README
+        env:
+          # GITHUB_TOKEN 足够读公开 star，只是用来提高限额（匿名 60 次/小时）
+          GH_TOKEN: ${{ github.token }}
+          STARS_USER: ${{ github.repository_owner }}
+        run: python sync_stars.py
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/stars.json
+          if git diff --quiet --cached; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: sync stars [skip ci]"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

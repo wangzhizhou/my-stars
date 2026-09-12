@@ -1,0 +1,12 @@
+# 给单个仓库加备注：渲染成条目下方的一行引用，GitHub 全文搜索能搜到。
+#
+# 键必须是 owner/repo（大小写不敏感，建议按 GitHub 原样写）。
+# 建议写「为什么收藏 + 什么场景用它」，半年后你会感谢自己。
+#
+# 例：
+# notes:
+#   "microsoft/markitdown": "把 PDF/Office 转 Markdown，做 RAG 预处理时直接用"
+#   "jqlang/jq": "命令行处理 JSON，配合 curl 调试 API"
+#   "sindresorhus/awesome": "总入口，找不到方向时先翻这个"
+
+notes: {}
