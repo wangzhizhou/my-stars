@@ -1,6 +1,6 @@
 {
   "user": "wangzhizhou",
-  "generated_at": "2026-09-12T02:02:20+00:00",
+  "generated_at": "2026-09-12T02:03:41+00:00",
   "total": 661,
   "categories": {
     "🤖 AI / LLM / 智能体": [
@@ -744,7 +744,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 220601,
+      "stars": 220602,
       "forks": 26136,
       "topics": [
         "ai-agents",
@@ -890,7 +890,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-09-12T01:56:11Z",
+      "pushed_at": "2026-09-12T02:02:32Z",
       "starred_at": "2026-05-07T12:41:37Z"
     },
     {
@@ -917,7 +917,7 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars": 132379,
+      "stars": 132380,
       "forks": 9130,
       "topics": [
         "ai-tools",
@@ -1607,7 +1607,7 @@
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
-      "stars": 389459,
+      "stars": 389460,
       "forks": 81867,
       "topics": [
         "ai",
@@ -1622,7 +1622,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-09-12T02:01:57Z",
+      "pushed_at": "2026-09-12T02:03:32Z",
       "starred_at": "2026-01-31T10:35:06Z"
     },
     {
@@ -10278,7 +10278,7 @@
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
-      "stars": 40889,
+      "stars": 40888,
       "forks": 6136,
       "topics": [
         "c",
@@ -11324,7 +11324,7 @@
       "url": "https://github.com/utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
-      "stars": 35446,
+      "stars": 35447,
       "forks": 1816,
       "topics": [
         "apple",
@@ -11489,7 +11489,7 @@
       "url": "https://github.com/ruanyf/weekly",
       "description": "科技爱好者周刊，每周五发布",
       "language": "",
-      "stars": 102355,
+      "stars": 102354,
       "forks": 4398,
       "topics": [],
       "archived": false,
@@ -12261,7 +12261,7 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "",
-      "stars": 318606,
+      "stars": 318607,
       "forks": 14989,
       "topics": [
         "awesome",
