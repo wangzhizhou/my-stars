@@ -1,6 +1,6 @@
 {
   "user": "wangzhizhou",
-  "generated_at": "2026-09-12T02:03:41+00:00",
+  "generated_at": "2026-09-12T02:03:58+00:00",
   "total": 661,
   "categories": {
     "🤖 AI / LLM / 智能体": [
@@ -744,7 +744,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 220602,
+      "stars": 220603,
       "forks": 26136,
       "topics": [
         "ai-agents",
