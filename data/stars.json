@@ -1,6 +1,6 @@
 {
   "user": "wangzhizhou",
-  "generated_at": "2026-09-12T02:08:00+00:00",
+  "generated_at": "2026-09-12T02:08:29+00:00",
   "total": 661,
   "categories": {
     "🤖 AI / LLM / 智能体": [
@@ -747,7 +747,7 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 220606,
+      "stars": 220607,
       "forks": 26136,
       "topics": [
         "ai-agents",
@@ -1388,7 +1388,7 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
-      "stars": 75665,
+      "stars": 75666,
       "forks": 4951,
       "topics": [
         "acme",
@@ -6915,7 +6915,7 @@
       "url": "https://github.com/jqlang/jq",
       "description": "Command-line JSON processor",
       "language": "C",
-      "stars": 35584,
+      "stars": 35585,
       "forks": 1843,
       "topics": [
         "jq"
