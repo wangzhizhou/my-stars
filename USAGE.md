@@ -12,6 +12,7 @@ my-stars/
 ├── sync_stars.py               # 同步脚本
 ├── data/stars.json             # 原始快照（自动生成）
 ├── README.md                   # 最终清单（自动生成，别手改）
+├── tools/                      # GitHub Lists 重排工具（见 tools/README.md）
 └── .github/workflows/sync.yml  # 每天自动跑
 ```
 
@@ -74,6 +75,14 @@ STARS_USER=wangzhizhou python sync_stars.py
 ```
 
 `match` 是块内 AND，`match_any` 是列表内 OR；两者同时写则都要满足。
+
+## 和 GitHub Stars 页面上的 Lists 的关系
+
+本仓库的 `categories.yml` 负责**自动**分类所有 star；GitHub 页面上的 **Lists**
+则是**手动**维护的精选集合（目的是在 stars 页面左侧快速翻阅）。
+
+两者现在是同一套分类（8 个）。想重排 Lists 用 `tools/reorganize_lists.py`，
+细节见 [tools/README.md](tools/README.md)。
 
 ## 注意事项
 
