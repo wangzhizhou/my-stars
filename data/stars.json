@@ -1,6 +1,6 @@
 {
   "user": "wangzhizhou",
-  "generated_at": "2026-09-23T22:56:23+00:00",
+  "generated_at": "2026-09-24T23:11:55+00:00",
   "total": 659,
   "categories": {
     "🤖 AI / LLM / 智能体": [
@@ -134,8 +134,8 @@
       "Quick/Quick",
       "sparkle-project/Sparkle",
       "mac-cain13/R.swift",
-      "SwiftGen/SwiftGen",
       "ChenYilong/iOSInterviewQuestions",
+      "SwiftGen/SwiftGen",
       "PojavLauncherTeam/PojavLauncher",
       "Finb/Bark",
       "TelegramMessenger/Telegram-iOS",
@@ -167,8 +167,8 @@
       "nalexn/clean-architecture-swiftui",
       "Dimillian/MovieSwiftUI",
       "twostraws/HackingWithSwift",
-      "apple/swift-algorithms",
       "Lymphatus/caesium-image-compressor",
+      "apple/swift-algorithms",
       "Tencent/lemon-cleaner",
       "github/CopilotForXcode",
       "666OS/ClashMac",
@@ -184,8 +184,8 @@
       "tickstep/aliyunpan",
       "apple/swift-protobuf",
       "Daltron/NotificationBanner",
-      "Quick/Nimble",
       "twostraws/SwiftUI-Agent-Skill",
+      "Quick/Nimble",
       "XcodesOrg/xcodes",
       "devicekit/DeviceKit",
       "johnno1962/InjectionIII",
@@ -201,8 +201,8 @@
       "apple/swift-log",
       "EhPanda-Team/EhPanda",
       "DamascenoRafael/reminders-menubar",
-      "gonzalezreal/swift-markdown-ui",
       "AloneMonkey/frida-ios-dump",
+      "gonzalezreal/swift-markdown-ui",
       "swiftlang/sourcekit-lsp",
       "apple/swift-argument-parser",
       "apple/swift-async-algorithms",
@@ -211,8 +211,8 @@
       "onevcat/FengNiao",
       "krzysztofzablocki/Inject",
       "wikimedia/wikipedia-ios",
-      "malcommac/SwiftLocation",
       "swiftlang/swift-markdown",
+      "malcommac/SwiftLocation",
       "IFTTT/RazzleDazzle",
       "krzysztofzablocki/LifetimeTracker",
       "PojavLauncherTeam/PojavLauncher_iOS",
@@ -728,14 +728,14 @@
       "url": "https://github.com/earendil-works/pi",
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
-      "stars": 108906,
-      "forks": 13827,
+      "stars": 109178,
+      "forks": 13874,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "MIT",
       "created_at": "2025-08-09T14:03:50Z",
-      "pushed_at": "2026-09-23T22:31:11Z",
+      "pushed_at": "2026-09-24T22:09:55Z",
       "starred_at": "2026-08-21T19:03:26Z"
     },
     {
@@ -745,8 +745,8 @@
       "url": "https://github.com/deepseek-ai/deepseek-harness",
       "description": "DeepSeek Harness: Everything is a Plugin.",
       "language": "TypeScript",
-      "stars": 234296,
-      "forks": 28158,
+      "stars": 235121,
+      "forks": 28288,
       "topics": [
         "ai-agents",
         "cordis",
@@ -757,7 +757,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2026-08-13T11:56:32Z",
-      "pushed_at": "2026-09-23T13:30:24Z",
+      "pushed_at": "2026-09-24T14:10:21Z",
       "starred_at": "2026-08-15T09:22:58Z"
     },
     {
@@ -767,14 +767,14 @@
       "url": "https://github.com/openai/codex",
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
-      "stars": 126173,
-      "forks": 19657,
+      "stars": 126347,
+      "forks": 19702,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2025-04-13T05:37:54Z",
-      "pushed_at": "2026-09-23T22:53:10Z",
+      "pushed_at": "2026-09-24T22:54:48Z",
       "starred_at": "2026-08-02T10:57:36Z"
     },
     {
@@ -784,8 +784,8 @@
       "url": "https://github.com/bojieli/ai-agent-book",
       "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
-      "stars": 50428,
-      "forks": 5652,
+      "stars": 50784,
+      "forks": 5697,
       "topics": [
         "agent",
         "agent-memory",
@@ -805,7 +805,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2025-09-09T02:41:44Z",
-      "pushed_at": "2026-09-23T12:03:33Z",
+      "pushed_at": "2026-09-24T03:03:58Z",
       "starred_at": "2026-07-25T08:19:23Z"
     },
     {
@@ -815,8 +815,8 @@
       "url": "https://github.com/koala73/worldmonitor",
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "language": "TypeScript",
-      "stars": 87288,
-      "forks": 13292,
+      "stars": 87335,
+      "forks": 13303,
       "topics": [
         "agent",
         "ai",
@@ -835,7 +835,7 @@
       "fork": false,
       "license": "AGPL-3.0",
       "created_at": "2026-01-08T17:26:06Z",
-      "pushed_at": "2026-09-23T19:21:47Z",
+      "pushed_at": "2026-09-24T22:33:58Z",
       "starred_at": "2026-07-24T17:39:43Z"
     },
     {
@@ -867,7 +867,7 @@
       "url": "https://github.com/fancy88/iBook",
       "description": "收藏一些电子书",
       "language": "",
-      "stars": 5474,
+      "stars": 5476,
       "forks": 1457,
       "topics": [],
       "archived": false,
@@ -884,14 +884,14 @@
       "url": "https://github.com/anomalyco/opencode",
       "description": "The open source coding agent.",
       "language": "TypeScript",
-      "stars": 209660,
-      "forks": 27665,
+      "stars": 209888,
+      "forks": 27734,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "MIT",
       "created_at": "2025-04-30T20:08:00Z",
-      "pushed_at": "2026-09-23T22:43:15Z",
+      "pushed_at": "2026-09-24T22:50:39Z",
       "starred_at": "2026-05-07T12:41:37Z"
     },
     {
@@ -918,8 +918,8 @@
       "url": "https://github.com/farion1231/cc-switch",
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
-      "stars": 135590,
-      "forks": 9291,
+      "stars": 136451,
+      "forks": 9315,
       "topics": [
         "ai-tools",
         "claude-code",
@@ -946,7 +946,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2025-08-04T14:16:16Z",
-      "pushed_at": "2026-09-23T14:32:19Z",
+      "pushed_at": "2026-09-24T18:37:28Z",
       "starred_at": "2026-05-06T01:03:53Z"
     },
     {
@@ -956,8 +956,8 @@
       "url": "https://github.com/nesquena/hermes-webui",
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "language": "Python",
-      "stars": 18543,
-      "forks": 2625,
+      "stars": 18567,
+      "forks": 2632,
       "topics": [
         "agent",
         "ai-agents",
@@ -969,7 +969,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2026-03-30T21:50:12Z",
-      "pushed_at": "2026-09-23T22:05:22Z",
+      "pushed_at": "2026-09-24T19:24:30Z",
       "starred_at": "2026-04-15T23:09:58Z"
     },
     {
@@ -979,8 +979,8 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": 248387,
-      "forks": 52499,
+      "stars": 248708,
+      "forks": 52641,
       "topics": [
         "ai",
         "ai-agent",
@@ -1000,7 +1000,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2025-07-22T22:22:28Z",
-      "pushed_at": "2026-09-23T22:53:17Z",
+      "pushed_at": "2026-09-24T22:57:27Z",
       "starred_at": "2026-04-15T15:54:59Z"
     },
     {
@@ -1035,8 +1035,8 @@
       "url": "https://github.com/lissy93/dashy",
       "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
       "language": "Vue",
-      "stars": 26552,
-      "forks": 1937,
+      "stars": 26560,
+      "forks": 1939,
       "topics": [
         "awesome",
         "dashboard",
@@ -1056,7 +1056,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2021-02-28T10:35:44Z",
-      "pushed_at": "2026-09-22T16:59:00Z",
+      "pushed_at": "2026-09-24T11:39:24Z",
       "starred_at": "2026-04-13T06:46:49Z"
     },
     {
@@ -1066,14 +1066,14 @@
       "url": "https://github.com/multica-ai/multica",
       "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
       "language": "Go",
-      "stars": 51233,
-      "forks": 6636,
+      "stars": 51302,
+      "forks": 6650,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2026-01-13T17:59:46Z",
-      "pushed_at": "2026-09-23T20:33:16Z",
+      "pushed_at": "2026-09-24T21:01:58Z",
       "starred_at": "2026-04-03T01:10:30Z"
     },
     {
@@ -1083,8 +1083,8 @@
       "url": "https://github.com/blackmatrix7/ios_rule_script",
       "description": "分流规则、重写写规则及脚本。",
       "language": "JavaScript",
-      "stars": 28001,
-      "forks": 4094,
+      "stars": 28012,
+      "forks": 4093,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -1100,8 +1100,8 @@
       "url": "https://github.com/tanweai/pua",
       "description": "你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.",
       "language": "Python",
-      "stars": 19687,
-      "forks": 1200,
+      "stars": 19698,
+      "forks": 1201,
       "topics": [
         "agency",
         "agent",
@@ -1122,8 +1122,8 @@
       "url": "https://github.com/songquanpeng/one-api",
       "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
       "language": "JavaScript",
-      "stars": 37003,
-      "forks": 6866,
+      "stars": 37019,
+      "forks": 6869,
       "topics": [
         "api",
         "api-gateway",
@@ -1151,8 +1151,8 @@
       "url": "https://github.com/BerriAI/litellm",
       "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
       "language": "Python",
-      "stars": 59497,
-      "forks": 11717,
+      "stars": 59569,
+      "forks": 11755,
       "topics": [
         "ai-gateway",
         "anthropic",
@@ -1175,7 +1175,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2023-07-27T00:09:52Z",
-      "pushed_at": "2026-09-23T22:55:34Z",
+      "pushed_at": "2026-09-24T23:10:51Z",
       "starred_at": "2026-03-23T04:44:17Z"
     },
     {
@@ -1185,7 +1185,7 @@
       "url": "https://github.com/larksuite/openclaw-lark",
       "description": "飞书官方出品的 OpenClaw 飞书/Lark Channel 插件",
       "language": "TypeScript",
-      "stars": 2383,
+      "stars": 2382,
       "forks": 311,
       "topics": [],
       "archived": false,
@@ -1202,7 +1202,7 @@
       "url": "https://github.com/tencent-connect/openclaw-qqbot",
       "description": "qqbot",
       "language": "TypeScript",
-      "stars": 1555,
+      "stars": 1556,
       "forks": 199,
       "topics": [],
       "archived": false,
@@ -1219,7 +1219,7 @@
       "url": "https://github.com/666OS/ClashMac",
       "description": "Native Proxy Experience Built for macOS",
       "language": "",
-      "stars": 6300,
+      "stars": 6299,
       "forks": 267,
       "topics": [
         "clash",
@@ -1234,7 +1234,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2025-11-28T04:41:02Z",
-      "pushed_at": "2026-09-23T09:07:05Z",
+      "pushed_at": "2026-09-24T11:08:22Z",
       "starred_at": "2026-03-20T13:29:07Z"
     },
     {
@@ -1244,8 +1244,8 @@
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "language": "",
-      "stars": 4833,
-      "forks": 174,
+      "stars": 4844,
+      "forks": 175,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -1283,8 +1283,8 @@
       "url": "https://github.com/Fission-AI/OpenSpec",
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
-      "stars": 70041,
-      "forks": 4791,
+      "stars": 70222,
+      "forks": 4803,
       "topics": [
         "ai",
         "context-engineering",
@@ -1311,8 +1311,8 @@
       "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
       "description": "Experience macOS just like before",
       "language": "Python",
-      "stars": 18332,
-      "forks": 2000,
+      "stars": 18339,
+      "forks": 2001,
       "topics": [
         "big-sur",
         "macos",
@@ -1333,14 +1333,14 @@
       "url": "https://github.com/sipeed/picoclaw",
       "description": "Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity",
       "language": "Go",
-      "stars": 30013,
+      "stars": 30012,
       "forks": 4454,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "MIT",
       "created_at": "2026-02-04T12:32:35Z",
-      "pushed_at": "2026-09-17T18:15:14Z",
+      "pushed_at": "2026-09-24T17:14:08Z",
       "starred_at": "2026-03-06T05:56:41Z"
     },
     {
@@ -1350,8 +1350,8 @@
       "url": "https://github.com/acmesh-official/acme.sh",
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
-      "stars": 47694,
-      "forks": 5673,
+      "stars": 47704,
+      "forks": 5672,
       "topics": [
         "acme",
         "acme-challenge",
@@ -1386,8 +1386,8 @@
       "url": "https://github.com/caddyserver/caddy",
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "language": "Go",
-      "stars": 76034,
-      "forks": 4993,
+      "stars": 76058,
+      "forks": 4995,
       "topics": [
         "acme",
         "automatic-https",
@@ -1409,7 +1409,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2015-01-13T19:45:03Z",
-      "pushed_at": "2026-09-23T20:09:48Z",
+      "pushed_at": "2026-09-24T20:29:05Z",
       "starred_at": "2026-03-03T01:56:39Z"
     },
     {
@@ -1465,7 +1465,7 @@
       "url": "https://github.com/DistroAV/DistroAV",
       "description": "DistroAV (formerly OBS-NDI): NDI integration for OBS Studio",
       "language": "C++",
-      "stars": 4540,
+      "stars": 4543,
       "forks": 431,
       "topics": [
         "audio",
@@ -1513,7 +1513,7 @@
       "fork": false,
       "license": "",
       "created_at": "2025-06-02T23:30:27Z",
-      "pushed_at": "2026-09-23T12:31:07Z",
+      "pushed_at": "2026-09-24T22:01:15Z",
       "starred_at": "2026-02-04T01:15:01Z"
     },
     {
@@ -1545,8 +1545,8 @@
       "url": "https://github.com/blender/blender",
       "description": "Official mirror of Blender",
       "language": "C++",
-      "stars": 20506,
-      "forks": 3277,
+      "stars": 20515,
+      "forks": 3283,
       "topics": [
         "3d",
         "animation",
@@ -1559,7 +1559,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2019-10-09T12:47:28Z",
-      "pushed_at": "2026-09-23T16:35:51Z",
+      "pushed_at": "2026-09-24T20:30:51Z",
       "starred_at": "2026-02-02T02:26:41Z"
     },
     {
@@ -1598,7 +1598,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2024-12-06T13:56:05Z",
-      "pushed_at": "2026-09-21T09:37:25Z",
+      "pushed_at": "2026-09-24T14:46:06Z",
       "starred_at": "2026-02-01T02:11:07Z"
     },
     {
@@ -1608,8 +1608,8 @@
       "url": "https://github.com/openclaw/openclaw",
       "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞",
       "language": "TypeScript",
-      "stars": 390346,
-      "forks": 82120,
+      "stars": 390414,
+      "forks": 82137,
       "topics": [
         "ai",
         "assistant",
@@ -1623,7 +1623,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2025-11-24T10:16:47Z",
-      "pushed_at": "2026-09-23T22:54:58Z",
+      "pushed_at": "2026-09-24T23:10:35Z",
       "starred_at": "2026-01-31T10:35:06Z"
     },
     {
@@ -1709,8 +1709,8 @@
       "url": "https://github.com/n8n-io/n8n",
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
-      "stars": 205801,
-      "forks": 60864,
+      "stars": 205887,
+      "forks": 60879,
       "topics": [
         "ai",
         "apis",
@@ -1737,7 +1737,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2019-06-22T09:24:21Z",
-      "pushed_at": "2026-09-23T22:55:00Z",
+      "pushed_at": "2026-09-24T23:07:52Z",
       "starred_at": "2026-01-19T01:59:24Z"
     },
     {
@@ -1747,8 +1747,8 @@
       "url": "https://github.com/tw93/Mole",
       "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
       "language": "Shell",
-      "stars": 68219,
-      "forks": 2402,
+      "stars": 68375,
+      "forks": 2405,
       "topics": [
         "analyzer",
         "appcleaner",
@@ -1774,7 +1774,7 @@
       "fork": false,
       "license": "GPL-3.0",
       "created_at": "2025-09-23T06:38:40Z",
-      "pushed_at": "2026-09-23T04:48:20Z",
+      "pushed_at": "2026-09-24T08:38:30Z",
       "starred_at": "2025-12-24T14:21:26Z"
     },
     {
@@ -1829,8 +1829,8 @@
       "url": "https://github.com/apple-aiml-research/ml-sharp",
       "description": "Sharp Monocular View Synthesis in Less Than a Second",
       "language": "Python",
-      "stars": 8913,
-      "forks": 651,
+      "stars": 8917,
+      "forks": 650,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -1867,7 +1867,7 @@
       "url": "https://github.com/docmirror/dev-sidecar",
       "description": "开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速",
       "language": "JavaScript",
-      "stars": 24183,
+      "stars": 24191,
       "forks": 2968,
       "topics": [
         "dev-sidecar",
@@ -1912,7 +1912,7 @@
       "url": "https://github.com/rust-lang/rust.vim",
       "description": "Vim configuration for Rust.",
       "language": "Vim Script",
-      "stars": 4188,
+      "stars": 4190,
       "forks": 321,
       "topics": [],
       "archived": false,
@@ -1971,7 +1971,7 @@
       "url": "https://github.com/elain/mybooks",
       "description": "分享一些已读和在读的书籍",
       "language": "",
-      "stars": 795,
+      "stars": 797,
       "forks": 240,
       "topics": [],
       "archived": false,
@@ -2010,8 +2010,8 @@
       "url": "https://github.com/esp-rs/esp-hal",
       "description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers",
       "language": "Rust",
-      "stars": 2118,
-      "forks": 499,
+      "stars": 2121,
+      "forks": 500,
       "topics": [
         "embedded",
         "embedded-hal",
@@ -2022,7 +2022,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2021-11-18T19:26:54Z",
-      "pushed_at": "2026-09-23T14:33:39Z",
+      "pushed_at": "2026-09-24T16:41:38Z",
       "starred_at": "2025-08-21T06:07:11Z"
     },
     {
@@ -2112,8 +2112,8 @@
       "url": "https://github.com/astral-sh/uv",
       "description": "An extremely fast Python package and project manager, written in Rust.",
       "language": "Rust",
-      "stars": 90112,
-      "forks": 3606,
+      "stars": 90144,
+      "forks": 3610,
       "topics": [
         "packaging",
         "python",
@@ -2124,7 +2124,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2023-10-02T20:24:11Z",
-      "pushed_at": "2026-09-23T17:47:12Z",
+      "pushed_at": "2026-09-24T21:28:52Z",
       "starred_at": "2025-07-30T01:49:01Z"
     },
     {
@@ -2134,14 +2134,14 @@
       "url": "https://github.com/espressif/esp-idf",
       "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
-      "stars": 19079,
+      "stars": 19085,
       "forks": 8490,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2016-08-17T10:40:35Z",
-      "pushed_at": "2026-09-23T21:17:06Z",
+      "pushed_at": "2026-09-24T18:23:50Z",
       "starred_at": "2025-07-28T15:29:13Z"
     },
     {
@@ -2180,7 +2180,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2023-01-23T19:02:58Z",
-      "pushed_at": "2026-09-10T17:11:14Z",
+      "pushed_at": "2026-09-24T22:37:29Z",
       "starred_at": "2025-07-26T05:22:26Z"
     },
     {
@@ -2190,8 +2190,8 @@
       "url": "https://github.com/simple-icons/simple-icons",
       "description": "SVG icons for popular brands",
       "language": "JavaScript",
-      "stars": 25901,
-      "forks": 3169,
+      "stars": 25906,
+      "forks": 3170,
       "topics": [
         "brand",
         "brand-assets",
@@ -2217,7 +2217,7 @@
       "fork": false,
       "license": "CC0-1.0",
       "created_at": "2012-11-16T11:09:13Z",
-      "pushed_at": "2026-09-20T04:25:37Z",
+      "pushed_at": "2026-09-24T15:46:13Z",
       "starred_at": "2025-07-25T01:35:05Z"
     },
     {
@@ -2227,7 +2227,7 @@
       "url": "https://github.com/idootop/open-xiaoai",
       "description": "🔊 让小爱音箱「听见你的声音」，解锁无限可能。",
       "language": "Rust",
-      "stars": 2603,
+      "stars": 2604,
       "forks": 416,
       "topics": [],
       "archived": true,
@@ -2265,7 +2265,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2023-09-28T02:34:03Z",
-      "pushed_at": "2026-09-17T14:27:39Z",
+      "pushed_at": "2026-09-24T07:53:08Z",
       "starred_at": "2025-07-23T01:36:06Z"
     },
     {
@@ -2275,7 +2275,7 @@
       "url": "https://github.com/kimsungwhee/apple-docs-mcp",
       "description": "MCP server for Apple Developer Documentation - Search iOS/macOS/SwiftUI/UIKit docs, WWDC videos, Swift/Objective-C APIs & code examples in Claude, Cursor & AI assistants",
       "language": "TypeScript",
-      "stars": 1379,
+      "stars": 1377,
       "forks": 68,
       "topics": [
         "ai-assistant",
@@ -2365,7 +2365,7 @@
       "url": "https://github.com/FabricMC/fabric-api",
       "description": "Essential hooks for modding with Fabric.",
       "language": "Java",
-      "stars": 3177,
+      "stars": 3178,
       "forks": 566,
       "topics": [
         "fabric",
@@ -2386,7 +2386,7 @@
       "url": "https://github.com/lucko/spark",
       "description": "A performance profiler for Minecraft clients, servers, and proxies.",
       "language": "Java",
-      "stars": 1332,
+      "stars": 1334,
       "forks": 200,
       "topics": [
         "bukkit",
@@ -2437,7 +2437,7 @@
       "description": "A Bukkit plugin which exports minecraft server stats to Prometheus",
       "language": "Java",
       "stars": 539,
-      "forks": 77,
+      "forks": 76,
       "topics": [
         "bukkit-plugin",
         "metrics",
@@ -2484,7 +2484,7 @@
       "url": "https://github.com/itzg/docker-minecraft-bedrock-server",
       "description": "Containerized Minecraft Bedrock Dedicated Server with selectable version",
       "language": "Shell",
-      "stars": 1864,
+      "stars": 1866,
       "forks": 305,
       "topics": [
         "docker-image",
@@ -2505,7 +2505,7 @@
       "url": "https://github.com/overviewer/Minecraft-Overviewer",
       "description": "Render high-resolution maps of a Minecraft world with a Leaflet powered interface",
       "language": "Python",
-      "stars": 3498,
+      "stars": 3500,
       "forks": 470,
       "topics": [],
       "archived": false,
@@ -2522,8 +2522,8 @@
       "url": "https://github.com/itzg/docker-minecraft-server",
       "description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
       "language": "Shell",
-      "stars": 14330,
-      "forks": 1916,
+      "stars": 14332,
+      "forks": 1917,
       "topics": [
         "docker-image",
         "dockerfiles",
@@ -2535,7 +2535,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2014-05-17T22:38:17Z",
-      "pushed_at": "2026-09-23T12:41:22Z",
+      "pushed_at": "2026-09-24T23:04:30Z",
       "starred_at": "2025-07-15T01:18:32Z"
     },
     {
@@ -2545,7 +2545,7 @@
       "url": "https://github.com/rofl0r/proxychains-ng",
       "description": "proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.",
       "language": "C",
-      "stars": 10681,
+      "stars": 10683,
       "forks": 1115,
       "topics": [
         "hack",
@@ -2570,8 +2570,8 @@
       "url": "https://github.com/kata-containers/kata-containers",
       "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
       "language": "Rust",
-      "stars": 8781,
-      "forks": 1478,
+      "stars": 8787,
+      "forks": 1479,
       "topics": [
         "containers",
         "cri",
@@ -2591,7 +2591,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2017-12-07T05:01:12Z",
-      "pushed_at": "2026-09-23T18:48:47Z",
+      "pushed_at": "2026-09-24T21:17:33Z",
       "starred_at": "2025-06-12T02:27:49Z"
     },
     {
@@ -2618,14 +2618,14 @@
       "url": "https://github.com/apple/container",
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "language": "Swift",
-      "stars": 50141,
-      "forks": 1804,
+      "stars": 50158,
+      "forks": 1803,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2025-05-30T21:26:05Z",
-      "pushed_at": "2026-09-22T23:36:21Z",
+      "pushed_at": "2026-09-24T18:16:25Z",
       "starred_at": "2025-06-11T11:42:39Z"
     },
     {
@@ -2635,8 +2635,8 @@
       "url": "https://github.com/margelo/react-native-vision-camera",
       "description": "📸 A powerful, high-performance React Native Camera library.",
       "language": "TypeScript",
-      "stars": 9634,
-      "forks": 1390,
+      "stars": 9636,
+      "forks": 1391,
       "topics": [
         "android",
         "barcode",
@@ -2691,7 +2691,7 @@
       "description": "The official Swift SDK for Model Context Protocol servers and clients.",
       "language": "Swift",
       "stars": 1496,
-      "forks": 243,
+      "forks": 245,
       "topics": [
         "mcp",
         "swift"
@@ -2710,8 +2710,8 @@
       "url": "https://github.com/github/github-mcp-server",
       "description": "GitHub's official MCP Server",
       "language": "Go",
-      "stars": 33153,
-      "forks": 5040,
+      "stars": 33182,
+      "forks": 5046,
       "topics": [
         "github",
         "mcp",
@@ -2731,7 +2731,7 @@
       "url": "https://github.com/openapi-ts/openapi-typescript",
       "description": "Generate TypeScript types from OpenAPI 3 specs",
       "language": "TypeScript",
-      "stars": 8380,
+      "stars": 8381,
       "forks": 666,
       "topics": [
         "openapi",
@@ -2776,7 +2776,7 @@
       "url": "https://github.com/swagger-api/swagger-editor",
       "description": "Swagger Editor",
       "language": "JavaScript",
-      "stars": 9464,
+      "stars": 9465,
       "forks": 2359,
       "topics": [
         "hacktoberfest",
@@ -2805,7 +2805,7 @@
       "url": "https://github.com/RVC-Boss/GPT-SoVITS",
       "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
       "language": "Python",
-      "stars": 62097,
+      "stars": 62115,
       "forks": 6681,
       "topics": [
         "text-to-speech",
@@ -2829,8 +2829,8 @@
       "url": "https://github.com/swagger-api/swagger-ui",
       "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
       "language": "JavaScript",
-      "stars": 29018,
-      "forks": 9257,
+      "stars": 29021,
+      "forks": 9259,
       "topics": [
         "hacktoberfest",
         "oas",
@@ -2862,8 +2862,8 @@
       "url": "https://github.com/sqlitebrowser/sqlitebrowser",
       "description": "Official home of the DB Browser for SQLite (DB4S) project. Previously known as \"SQLite Database Browser\" and \"Database Browser for SQLite\". Website at:",
       "language": "C++",
-      "stars": 24619,
-      "forks": 2377,
+      "stars": 24625,
+      "forks": 2376,
       "topics": [
         "c-plus-plus",
         "cross-platform",
@@ -2900,7 +2900,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2015-10-23T21:15:45Z",
-      "pushed_at": "2026-09-23T18:41:56Z",
+      "pushed_at": "2026-09-24T16:23:45Z",
       "starred_at": "2025-02-28T10:36:27Z"
     },
     {
@@ -2910,8 +2910,8 @@
       "url": "https://github.com/BurntSushi/ripgrep",
       "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
       "language": "Rust",
-      "stars": 68549,
-      "forks": 3341,
+      "stars": 68580,
+      "forks": 3487,
       "topics": [
         "cli",
         "command-line",
@@ -2960,7 +2960,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2016-12-25T18:48:10Z",
-      "pushed_at": "2026-08-19T12:01:59Z",
+      "pushed_at": "2026-09-24T06:33:15Z",
       "starred_at": "2025-02-28T02:35:22Z"
     },
     {
@@ -2997,7 +2997,7 @@
       "url": "https://github.com/clap-rs/clap",
       "description": "A full featured, fast Command Line Argument Parser for Rust",
       "language": "Rust",
-      "stars": 16724,
+      "stars": 16725,
       "forks": 1266,
       "topics": [
         "argument-parser",
@@ -3078,7 +3078,7 @@
       "url": "https://github.com/sczhou/CodeFormer",
       "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
       "language": "Python",
-      "stars": 18153,
+      "stars": 18157,
       "forks": 3723,
       "topics": [
         "codebook",
@@ -3104,8 +3104,8 @@
       "url": "https://github.com/kitspace/awesome-electronics",
       "description": "A curated list of awesome resources for Electronic Engineers and hobbyists",
       "language": "",
-      "stars": 8155,
-      "forks": 539,
+      "stars": 8156,
+      "forks": 540,
       "topics": [
         "altium",
         "awesome",
@@ -3167,7 +3167,7 @@
       "url": "https://github.com/mezod/awesome-indie",
       "description": "Resources for independent developers to make money",
       "language": "",
-      "stars": 11819,
+      "stars": 11822,
       "forks": 758,
       "topics": [
         "awesome",
@@ -3194,7 +3194,7 @@
       "url": "https://github.com/k4m4/movies-for-hackers",
       "description": "🎬 A curated list of movies every hacker & cyberpunk must watch.",
       "language": "Shell",
-      "stars": 11913,
+      "stars": 11914,
       "forks": 936,
       "topics": [
         "awesome",
@@ -3220,7 +3220,7 @@
       "url": "https://github.com/skywind3000/awesome-cheatsheets",
       "description": "超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:",
       "language": "Shell",
-      "stars": 12579,
+      "stars": 12583,
       "forks": 2087,
       "topics": [
         "adb",
@@ -3247,7 +3247,7 @@
       "url": "https://github.com/markets/awesome-ruby",
       "description": "💎 A collection of awesome Ruby libraries, tools, frameworks and software",
       "language": "",
-      "stars": 14158,
+      "stars": 14160,
       "forks": 1767,
       "topics": [
         "awesome",
@@ -3271,8 +3271,8 @@
       "url": "https://github.com/thibmaek/awesome-raspberry-pi",
       "description": "📝 A curated list of awesome Raspberry Pi tools, projects, images and resources",
       "language": "Shell",
-      "stars": 16913,
-      "forks": 1144,
+      "stars": 16917,
+      "forks": 1146,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3295,7 +3295,7 @@
       "url": "https://github.com/pointfreeco/swift-snapshot-testing",
       "description": "📸 Delightful Swift snapshot testing.",
       "language": "Swift",
-      "stars": 4339,
+      "stars": 4341,
       "forks": 684,
       "topics": [
         "screenshot-testing",
@@ -3340,8 +3340,8 @@
       "url": "https://github.com/deepseek-ai/DeepSeek-R1",
       "description": "",
       "language": "",
-      "stars": 91975,
-      "forks": 11679,
+      "stars": 91972,
+      "forks": 11676,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -3357,7 +3357,7 @@
       "url": "https://github.com/tuist/Noora",
       "description": "🎨 A design system for Swift CLIs and Phoenix apps",
       "language": "Swift",
-      "stars": 393,
+      "stars": 394,
       "forks": 23,
       "topics": [
         "phoenix",
@@ -3368,7 +3368,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2023-11-28T12:10:25Z",
-      "pushed_at": "2026-09-23T19:04:44Z",
+      "pushed_at": "2026-09-24T04:40:11Z",
       "starred_at": "2025-02-10T01:25:12Z"
     },
     {
@@ -3378,8 +3378,8 @@
       "url": "https://github.com/easychen/one-person-businesses-methodology",
       "description": "一人公司方法论",
       "language": "",
-      "stars": 8375,
-      "forks": 607,
+      "stars": 8376,
+      "forks": 608,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -3430,7 +3430,7 @@
       "description": "A high-level build system based on llbuild, used by Xcode, Swift Playground, and the Swift Package Manager",
       "language": "Swift",
       "stars": 2241,
-      "forks": 216,
+      "forks": 217,
       "topics": [
         "build",
         "build-system",
@@ -3443,7 +3443,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2025-01-28T18:53:28Z",
-      "pushed_at": "2026-09-23T20:00:51Z",
+      "pushed_at": "2026-09-24T21:15:19Z",
       "starred_at": "2025-02-02T08:54:49Z"
     },
     {
@@ -3453,8 +3453,8 @@
       "url": "https://github.com/deepseek-ai/DeepSeek-V3",
       "description": "",
       "language": "Python",
-      "stars": 104485,
-      "forks": 16733,
+      "stars": 104488,
+      "forks": 16732,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -3495,8 +3495,8 @@
       "url": "https://github.com/louis-e/arnis",
       "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
-      "stars": 18050,
-      "forks": 1515,
+      "stars": 18056,
+      "forks": 1518,
       "topics": [
         "minecraft",
         "minecraft-world-generator",
@@ -3567,7 +3567,7 @@
       "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
       "language": "Rust",
       "stars": 33377,
-      "forks": 2072,
+      "forks": 2074,
       "topics": [
         "android",
         "classroom",
@@ -3619,7 +3619,7 @@
       "url": "https://github.com/XiaoMi/ha_xiaomi_home",
       "description": "Xiaomi Home Integration for Home Assistant",
       "language": "Python",
-      "stars": 22121,
+      "stars": 22122,
       "forks": 1175,
       "topics": [
         "home-assistant",
@@ -3634,7 +3634,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2024-09-09T02:14:48Z",
-      "pushed_at": "2026-09-23T08:47:57Z",
+      "pushed_at": "2026-09-24T05:06:18Z",
       "starred_at": "2024-12-17T02:16:45Z"
     },
     {
@@ -3644,8 +3644,8 @@
       "url": "https://github.com/sindresorhus/awesome",
       "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
       "language": "",
-      "stars": 509431,
-      "forks": 37019,
+      "stars": 509954,
+      "forks": 37056,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3697,7 +3697,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2024-10-28T21:29:37Z",
-      "pushed_at": "2026-09-23T15:36:33Z",
+      "pushed_at": "2026-09-24T16:21:25Z",
       "starred_at": "2024-12-11T00:38:42Z"
     },
     {
@@ -3741,7 +3741,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2017-03-29T17:30:02Z",
-      "pushed_at": "2026-09-23T21:47:29Z",
+      "pushed_at": "2026-09-24T14:42:09Z",
       "starred_at": "2024-12-04T01:33:17Z"
     },
     {
@@ -3751,7 +3751,7 @@
       "url": "https://github.com/amosgyamfi/open-swiftui-animations",
       "description": "You don't need an animation library to add a simple effect to your SwiftUI app. Create it yourself with SwiftUI. This repo inspires you to add helpful and expressive SwiftUI animations like loading/progress, looping, on-off, enter, exit, fade, spin, and background animations to your next project. The repo also contains tremendous spring animations.",
       "language": "Swift",
-      "stars": 5645,
+      "stars": 5650,
       "forks": 296,
       "topics": [
         "animations",
@@ -3825,8 +3825,8 @@
       "url": "https://github.com/tauri-apps/tauri",
       "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
       "language": "Rust",
-      "stars": 111315,
-      "forks": 4023,
+      "stars": 111380,
+      "forks": 4025,
       "topics": [
         "desktop-app",
         "high-performance",
@@ -3840,7 +3840,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2019-07-13T09:09:37Z",
-      "pushed_at": "2026-09-23T19:10:55Z",
+      "pushed_at": "2026-09-24T18:00:13Z",
       "starred_at": "2024-11-19T01:38:13Z"
     },
     {
@@ -3872,7 +3872,7 @@
       "url": "https://github.com/ruby/debug",
       "description": "Debugging functionality for Ruby",
       "language": "Ruby",
-      "stars": 1273,
+      "stars": 1274,
       "forks": 146,
       "topics": [
         "debug",
@@ -4021,7 +4021,7 @@
       "url": "https://github.com/rust-lang/mdBook",
       "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
       "language": "Rust",
-      "stars": 22166,
+      "stars": 22173,
       "forks": 1901,
       "topics": [],
       "archived": false,
@@ -4038,7 +4038,7 @@
       "url": "https://github.com/xyflow/xyflow",
       "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
       "language": "TypeScript",
-      "stars": 38480,
+      "stars": 38489,
       "forks": 2540,
       "topics": [
         "flowchart",
@@ -4057,7 +4057,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2019-07-15T14:47:30Z",
-      "pushed_at": "2026-09-23T14:01:38Z",
+      "pushed_at": "2026-09-24T16:24:14Z",
       "starred_at": "2024-11-15T00:35:13Z"
     },
     {
@@ -4078,7 +4078,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2018-02-28T04:46:47Z",
-      "pushed_at": "2026-09-23T06:16:21Z",
+      "pushed_at": "2026-09-24T01:50:34Z",
       "starred_at": "2024-11-14T01:42:17Z"
     },
     {
@@ -4105,8 +4105,8 @@
       "url": "https://github.com/khoj-ai/khoj",
       "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
       "language": "Python",
-      "stars": 37481,
-      "forks": 2489,
+      "stars": 37492,
+      "forks": 2493,
       "topics": [
         "agent",
         "ai",
@@ -4143,7 +4143,7 @@
       "url": "https://github.com/devMEremenko/XcodeBenchmark",
       "description": "XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro",
       "language": "Swift",
-      "stars": 3672,
+      "stars": 3674,
       "forks": 413,
       "topics": [
         "benchmark",
@@ -4207,8 +4207,8 @@
       "url": "https://github.com/kitao/pyxel",
       "description": "A retro game engine for Python",
       "language": "Rust",
-      "stars": 17905,
-      "forks": 933,
+      "stars": 17936,
+      "forks": 934,
       "topics": [
         "game",
         "game-development",
@@ -4241,7 +4241,7 @@
       "url": "https://github.com/rust-lang/rustlings",
       "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
       "language": "Rust",
-      "stars": 64205,
+      "stars": 64210,
       "forks": 11252,
       "topics": [
         "beginner-friendly",
@@ -4263,8 +4263,8 @@
       "url": "https://github.com/mozilla/sccache",
       "description": "Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.",
       "language": "Rust",
-      "stars": 7703,
-      "forks": 748,
+      "stars": 7707,
+      "forks": 750,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -4301,7 +4301,7 @@
       "url": "https://github.com/ReactiveX/rxjs",
       "description": "A reactive programming library for JavaScript",
       "language": "TypeScript",
-      "stars": 31705,
+      "stars": 31703,
       "forks": 2984,
       "topics": [
         "javascript",
@@ -4338,7 +4338,7 @@
       "url": "https://github.com/rust-lang/rust-analyzer",
       "description": "A Rust compiler front-end for IDEs",
       "language": "Rust",
-      "stars": 16868,
+      "stars": 16869,
       "forks": 2237,
       "topics": [
         "hacktoberfest",
@@ -4349,7 +4349,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2017-12-21T19:24:42Z",
-      "pushed_at": "2026-09-23T19:58:58Z",
+      "pushed_at": "2026-09-24T23:09:19Z",
       "starred_at": "2024-10-17T06:06:57Z"
     },
     {
@@ -4442,13 +4442,13 @@
       "description": "Java interopability support for Swift",
       "language": "Swift",
       "stars": 1250,
-      "forks": 124,
+      "forks": 125,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2024-09-24T17:01:00Z",
-      "pushed_at": "2026-09-16T12:36:37Z",
+      "pushed_at": "2026-09-24T07:17:04Z",
       "starred_at": "2024-09-26T18:32:26Z"
     },
     {
@@ -4505,7 +4505,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2021-05-18T11:57:41Z",
-      "pushed_at": "2026-09-10T21:26:07Z",
+      "pushed_at": "2026-09-24T22:49:25Z",
       "starred_at": "2024-09-12T01:44:34Z"
     },
     {
@@ -4515,7 +4515,7 @@
       "url": "https://github.com/NapNeko/NapCatQQ",
       "description": "Modern protocol-side framework based on NTQQ",
       "language": "TypeScript",
-      "stars": 10725,
+      "stars": 10737,
       "forks": 820,
       "topics": [
         "napcat",
@@ -4572,7 +4572,7 @@
       "url": "https://github.com/afatcoder/LeetcodeTop",
       "description": "汇总各大互联网公司容易考察的高频leetcode题🔥",
       "language": "",
-      "stars": 20047,
+      "stars": 20049,
       "forks": 2752,
       "topics": [
         "interview",
@@ -4622,8 +4622,8 @@
       "url": "https://github.com/m-bain/whisperX",
       "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
       "language": "Python",
-      "stars": 24210,
-      "forks": 2439,
+      "stars": 24229,
+      "forks": 2443,
       "topics": [
         "asr",
         "speech",
@@ -4645,8 +4645,8 @@
       "url": "https://github.com/openai/whisper",
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
-      "stars": 109522,
-      "forks": 13285,
+      "stars": 109560,
+      "forks": 13286,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -4711,7 +4711,7 @@
       "url": "https://github.com/sunface/rust-course",
       "description": "什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最酷、最安全、最快的语言吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book",
       "language": "Rust",
-      "stars": 30967,
+      "stars": 30971,
       "forks": 2594,
       "topics": [
         "book",
@@ -4889,8 +4889,8 @@
       "url": "https://github.com/fatedier/frp",
       "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "language": "Go",
-      "stars": 109593,
-      "forks": 15221,
+      "stars": 109609,
+      "forks": 15222,
       "topics": [
         "expose",
         "firewall",
@@ -4917,7 +4917,7 @@
       "url": "https://github.com/matteocrippa/awesome-swift",
       "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
       "language": "Ruby",
-      "stars": 26269,
+      "stars": 26275,
       "forks": 3145,
       "topics": [
         "awesome",
@@ -4948,7 +4948,7 @@
       "url": "https://github.com/pointfreeco/swift-concurrency-extras",
       "description": "Useful, testable Swift concurrency.",
       "language": "Swift",
-      "stars": 489,
+      "stars": 490,
       "forks": 46,
       "topics": [],
       "archived": false,
@@ -4966,7 +4966,7 @@
       "description": "Bringing simple and powerful navigation tools to all Swift platforms, inspired by SwiftUI.",
       "language": "Swift",
       "stars": 2288,
-      "forks": 179,
+      "forks": 180,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -4999,7 +4999,7 @@
       "url": "https://github.com/sickcodes/Docker-OSX",
       "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
       "language": "Shell",
-      "stars": 52946,
+      "stars": 52949,
       "forks": 2883,
       "topics": [
         "container",
@@ -5027,8 +5027,8 @@
       "url": "https://github.com/RSSNext/Folo",
       "description": "🧡 Folo is the AI RSS Reader",
       "language": "TypeScript",
-      "stars": 39013,
-      "forks": 2131,
+      "stars": 39010,
+      "forks": 2132,
       "topics": [
         "ai",
         "reader",
@@ -5119,8 +5119,8 @@
       "url": "https://github.com/tokio-rs/tokio",
       "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
       "language": "Rust",
-      "stars": 33215,
-      "forks": 3762,
+      "stars": 33229,
+      "forks": 3890,
       "topics": [
         "asynchronous",
         "networking",
@@ -5130,7 +5130,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2016-09-09T22:31:36Z",
-      "pushed_at": "2026-09-23T14:12:30Z",
+      "pushed_at": "2026-09-24T09:14:48Z",
       "starred_at": "2024-07-19T15:39:41Z"
     },
     {
@@ -5180,7 +5180,7 @@
       "url": "https://github.com/EmergeTools/Pow",
       "description": "Delightful SwiftUI effects for your app",
       "language": "Swift",
-      "stars": 4397,
+      "stars": 4398,
       "forks": 197,
       "topics": [
         "animation",
@@ -5206,7 +5206,7 @@
       "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
       "language": "C++",
       "stars": 8950,
-      "forks": 2475,
+      "forks": 2477,
       "topics": [
         "build-with-matter",
         "chip",
@@ -5224,7 +5224,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2020-03-03T17:05:10Z",
-      "pushed_at": "2026-09-23T21:32:53Z",
+      "pushed_at": "2026-09-24T22:21:46Z",
       "starred_at": "2024-06-27T01:32:23Z"
     },
     {
@@ -5305,7 +5305,7 @@
       "description": "A modern, expressive testing package for Swift",
       "language": "Swift",
       "stars": 2168,
-      "forks": 168,
+      "forks": 166,
       "topics": [
         "software-quality",
         "swift",
@@ -5317,7 +5317,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2022-12-19T23:51:30Z",
-      "pushed_at": "2026-09-23T22:27:36Z",
+      "pushed_at": "2026-09-24T20:29:24Z",
       "starred_at": "2024-06-12T17:47:50Z"
     },
     {
@@ -5327,7 +5327,7 @@
       "url": "https://github.com/weekend-project-space/top-rss-list",
       "description": "订阅人数最多的rss源，中文优质rss源",
       "language": "",
-      "stars": 6636,
+      "stars": 6638,
       "forks": 261,
       "topics": [
         "rss",
@@ -5365,8 +5365,8 @@
       "url": "https://github.com/2noise/ChatTTS",
       "description": "A generative speech model for daily dialogue.",
       "language": "Python",
-      "stars": 39865,
-      "forks": 4260,
+      "stars": 39868,
+      "forks": 4259,
       "topics": [
         "agent",
         "chat",
@@ -5423,7 +5423,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2024-01-26T07:11:52Z",
-      "pushed_at": "2026-09-23T07:39:57Z",
+      "pushed_at": "2026-09-24T18:43:56Z",
       "starred_at": "2024-06-04T00:51:46Z"
     },
     {
@@ -5433,7 +5433,7 @@
       "url": "https://github.com/phiresky/sql.js-httpvfs",
       "description": "Hosting read-only SQLite databases on static file hosters like Github Pages",
       "language": "TypeScript",
-      "stars": 3703,
+      "stars": 3704,
       "forks": 107,
       "topics": [],
       "archived": false,
@@ -5470,7 +5470,7 @@
       "url": "https://github.com/amber-lang/amber",
       "description": "💎 Amber the programming language compiled to Bash/Ksh/Zsh",
       "language": "Rust",
-      "stars": 5228,
+      "stars": 5227,
       "forks": 146,
       "topics": [
         "bash",
@@ -5494,8 +5494,8 @@
       "url": "https://github.com/sparkle-project/Sparkle",
       "description": "A software update framework for macOS",
       "language": "Objective-C",
-      "stars": 9748,
-      "forks": 1141,
+      "stars": 9759,
+      "forks": 1142,
       "topics": [
         "framework",
         "macos",
@@ -5516,8 +5516,8 @@
       "url": "https://github.com/tw93/Pake",
       "description": "🤱🏻 Turn any webpage into a desktop app with one command.",
       "language": "Rust",
-      "stars": 61685,
-      "forks": 12705,
+      "stars": 61712,
+      "forks": 12709,
       "topics": [
         "chatgpt",
         "claude",
@@ -5642,8 +5642,8 @@
       "url": "https://github.com/Querz/mcaselector",
       "description": "A tool to select chunks from Minecraft worlds for deletion or export.",
       "language": "Java",
-      "stars": 4837,
-      "forks": 238,
+      "stars": 4840,
+      "forks": 239,
       "topics": [
         "chunks",
         "delete",
@@ -5660,7 +5660,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2018-04-22T22:23:26Z",
-      "pushed_at": "2026-09-22T21:44:50Z",
+      "pushed_at": "2026-09-24T17:03:23Z",
       "starred_at": "2024-05-09T01:27:16Z"
     },
     {
@@ -5697,7 +5697,7 @@
       "url": "https://github.com/rileytestut/Delta",
       "description": "Delta is an all-in-one classic video game emulator for non-jailbroken iOS devices.",
       "language": "Swift",
-      "stars": 6124,
+      "stars": 6126,
       "forks": 479,
       "topics": [],
       "archived": false,
@@ -5739,7 +5739,7 @@
       "url": "https://github.com/lihaoyun6/QuickRecorder",
       "description": "A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具",
       "language": "Swift",
-      "stars": 8668,
+      "stars": 8670,
       "forks": 521,
       "topics": [],
       "archived": false,
@@ -5756,8 +5756,8 @@
       "url": "https://github.com/TelegramMessenger/Telegram-iOS",
       "description": "Telegram-iOS",
       "language": "Swift",
-      "stars": 8991,
-      "forks": 2933,
+      "stars": 8996,
+      "forks": 2939,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -5794,7 +5794,7 @@
       "url": "https://github.com/readium/swift-toolkit",
       "description": "A toolkit for ebooks, audiobooks and comics written in Swift",
       "language": "Swift",
-      "stars": 554,
+      "stars": 555,
       "forks": 247,
       "topics": [
         "audiobook",
@@ -5816,7 +5816,7 @@
       "fork": false,
       "license": "BSD-3-Clause",
       "created_at": "2021-11-02T09:57:12Z",
-      "pushed_at": "2026-09-23T14:20:54Z",
+      "pushed_at": "2026-09-24T15:41:53Z",
       "starred_at": "2024-04-09T00:48:39Z"
     },
     {
@@ -5868,7 +5868,7 @@
       "url": "https://github.com/milanvarady/Applite",
       "description": "A native macOS app store for software that isn't on the App Store, backed by Homebrew Cask",
       "language": "Swift",
-      "stars": 7055,
+      "stars": 7054,
       "forks": 179,
       "topics": [
         "homebrew",
@@ -5892,7 +5892,7 @@
       "url": "https://github.com/ashleymills/Reachability.swift",
       "description": "Replacement for Apple's Reachability re-written in Swift with closures",
       "language": "Swift",
-      "stars": 7969,
+      "stars": 7968,
       "forks": 943,
       "topics": [],
       "archived": false,
@@ -5909,8 +5909,8 @@
       "url": "https://github.com/mrkai77/Loop",
       "description": "Window management made elegant.",
       "language": "Swift",
-      "stars": 11663,
-      "forks": 274,
+      "stars": 11668,
+      "forks": 275,
       "topics": [
         "macos",
         "macos-app",
@@ -5925,7 +5925,7 @@
       "fork": false,
       "license": "GPL-3.0",
       "created_at": "2023-01-24T18:33:33Z",
-      "pushed_at": "2026-09-11T00:13:04Z",
+      "pushed_at": "2026-09-24T17:23:23Z",
       "starred_at": "2024-03-29T13:20:55Z"
     },
     {
@@ -6017,8 +6017,8 @@
       "url": "https://github.com/brendangregg/FlameGraph",
       "description": "Stack trace visualizer",
       "language": "Perl",
-      "stars": 19769,
-      "forks": 2109,
+      "stars": 19772,
+      "forks": 2108,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -6035,13 +6035,13 @@
       "description": "Language Server Protocol implementation for Swift and C-based languages",
       "language": "Swift",
       "stars": 3912,
-      "forks": 391,
+      "forks": 392,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2018-10-26T03:39:21Z",
-      "pushed_at": "2026-09-22T13:15:35Z",
+      "pushed_at": "2026-09-24T15:27:33Z",
       "starred_at": "2024-03-20T02:24:54Z"
     },
     {
@@ -6051,7 +6051,7 @@
       "url": "https://github.com/hummingbird-project/hummingbird",
       "description": "Lightweight, flexible HTTP server framework written in Swift",
       "language": "Swift",
-      "stars": 1885,
+      "stars": 1886,
       "forks": 100,
       "topics": [
         "http",
@@ -6078,7 +6078,7 @@
       "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
       "language": "Swift",
       "stars": 2195,
-      "forks": 193,
+      "forks": 194,
       "topics": [
         "architecture",
         "dependency-injection",
@@ -6130,7 +6130,7 @@
       "url": "https://github.com/gluonfield/enchanted",
       "description": "Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.",
       "language": "Swift",
-      "stars": 6003,
+      "stars": 6004,
       "forks": 426,
       "topics": [
         "ios",
@@ -6174,8 +6174,8 @@
       "url": "https://github.com/rust-lang/rust",
       "description": "Empowering everyone to build reliable and efficient software.",
       "language": "Rust",
-      "stars": 119082,
-      "forks": 16371,
+      "stars": 119127,
+      "forks": 16548,
       "topics": [
         "compiler",
         "language",
@@ -6185,7 +6185,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2010-06-16T20:39:03Z",
-      "pushed_at": "2026-09-23T22:32:41Z",
+      "pushed_at": "2026-09-24T21:32:36Z",
       "starred_at": "2024-03-07T16:50:43Z"
     },
     {
@@ -6235,7 +6235,7 @@
       "url": "https://github.com/Moya/Moya",
       "description": "Network abstraction layer written in Swift.",
       "language": "Swift",
-      "stars": 15354,
+      "stars": 15356,
       "forks": 1993,
       "topics": [
         "alamofire",
@@ -6259,7 +6259,7 @@
       "url": "https://github.com/asciinema/asciinema",
       "description": "Terminal session recorder, streamer and player 📹",
       "language": "Rust",
-      "stars": 17824,
+      "stars": 17826,
       "forks": 1042,
       "topics": [
         "asciicast",
@@ -6284,7 +6284,7 @@
       "url": "https://github.com/overtake/TelegramSwift",
       "description": "Source code of Telegram for macos on Swift 5.0",
       "language": "Swift",
-      "stars": 5768,
+      "stars": 5770,
       "forks": 1042,
       "topics": [],
       "archived": false,
@@ -6301,7 +6301,7 @@
       "url": "https://github.com/leptonai/search_with_lepton",
       "description": "Building a quick conversation-based search demo with Lepton AI.",
       "language": "TypeScript",
-      "stars": 8062,
+      "stars": 8061,
       "forks": 987,
       "topics": [
         "ai",
@@ -6323,8 +6323,8 @@
       "url": "https://github.com/docker/compose",
       "description": "Define and run multi-container applications with Docker",
       "language": "Go",
-      "stars": 38207,
-      "forks": 5833,
+      "stars": 38215,
+      "forks": 5835,
       "topics": [
         "docker",
         "docker-compose",
@@ -6336,7 +6336,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2013-12-09T11:40:58Z",
-      "pushed_at": "2026-09-23T16:15:57Z",
+      "pushed_at": "2026-09-24T18:08:13Z",
       "starred_at": "2024-01-24T12:12:24Z"
     },
     {
@@ -6385,7 +6385,7 @@
       "description": "Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.",
       "language": "D",
       "stars": 674,
-      "forks": 2921,
+      "forks": 2919,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -6401,8 +6401,8 @@
       "url": "https://github.com/karanpratapsingh/system-design",
       "description": "Learn how to design systems at scale and prepare for system design interviews",
       "language": "",
-      "stars": 46309,
-      "forks": 6059,
+      "stars": 46323,
+      "forks": 6061,
       "topics": [
         "architecture",
         "distributed-systems",
@@ -6448,8 +6448,8 @@
       "url": "https://github.com/Finb/Bark",
       "description": "Bark is an iOS App which allows you to push custom notifications to your iPhone",
       "language": "Swift",
-      "stars": 9160,
-      "forks": 708,
+      "stars": 9167,
+      "forks": 710,
       "topics": [
         "ios",
         "ios-app",
@@ -6476,7 +6476,7 @@
       "description": "Create Apple-like alerts & toasts using SwiftUI",
       "language": "Swift",
       "stars": 2447,
-      "forks": 221,
+      "forks": 220,
       "topics": [
         "alert",
         "alert-controller",
@@ -6556,7 +6556,7 @@
       "url": "https://github.com/jianchang512/clone-voice",
       "description": "A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频",
       "language": "Python",
-      "stars": 8973,
+      "stars": 8972,
       "forks": 987,
       "topics": [
         "clonevoice",
@@ -6596,8 +6596,8 @@
       "url": "https://github.com/ollama/ollama",
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
-      "stars": 181533,
-      "forks": 17981,
+      "stars": 181641,
+      "forks": 17998,
       "topics": [
         "deepseek",
         "gemma",
@@ -6619,7 +6619,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2023-06-26T19:39:32Z",
-      "pushed_at": "2026-09-23T22:20:47Z",
+      "pushed_at": "2026-09-24T22:03:28Z",
       "starred_at": "2024-01-10T10:27:45Z"
     },
     {
@@ -6629,7 +6629,7 @@
       "url": "https://github.com/opencv/opencv_contrib",
       "description": "Repository for OpenCV's extra modules",
       "language": "C++",
-      "stars": 10202,
+      "stars": 10203,
       "forks": 5954,
       "topics": [
         "opencv"
@@ -6638,7 +6638,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2013-09-11T13:28:04Z",
-      "pushed_at": "2026-09-23T07:45:13Z",
+      "pushed_at": "2026-09-24T13:06:22Z",
       "starred_at": "2024-01-10T02:31:48Z"
     },
     {
@@ -6648,8 +6648,8 @@
       "url": "https://github.com/gitui-org/gitui",
       "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
       "language": "Rust",
-      "stars": 22516,
-      "forks": 776,
+      "stars": 22518,
+      "forks": 775,
       "topics": [
         "async",
         "bash",
@@ -6675,7 +6675,7 @@
       "url": "https://github.com/SwiftUIX/SwiftUIX",
       "description": "An exhaustive expansion of the standard SwiftUI library.",
       "language": "Swift",
-      "stars": 8166,
+      "stars": 8167,
       "forks": 495,
       "topics": [
         "attributedstring",
@@ -6707,7 +6707,7 @@
       "url": "https://github.com/AudioKit/AudioKit",
       "description": "Audio synthesis, processing, & analysis platform for iOS, macOS and tvOS",
       "language": "Swift",
-      "stars": 11461,
+      "stars": 11462,
       "forks": 1621,
       "topics": [
         "audio",
@@ -6802,7 +6802,7 @@
       "url": "https://github.com/aheze/Popovers",
       "description": "A library to present popovers. Simple, modern, and highly customizable. Not boring!",
       "language": "Swift",
-      "stars": 2212,
+      "stars": 2213,
       "forks": 134,
       "topics": [
         "alert",
@@ -6879,8 +6879,8 @@
       "url": "https://github.com/home-assistant/core",
       "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
       "language": "Python",
-      "stars": 91122,
-      "forks": 38744,
+      "stars": 91136,
+      "forks": 38752,
       "topics": [
         "asyncio",
         "hacktoberfest",
@@ -6895,7 +6895,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2013-09-17T07:29:48Z",
-      "pushed_at": "2026-09-23T20:44:05Z",
+      "pushed_at": "2026-09-24T19:50:07Z",
       "starred_at": "2023-12-29T10:44:00Z"
     },
     {
@@ -6905,8 +6905,8 @@
       "url": "https://github.com/jqlang/jq",
       "description": "Command-line JSON processor",
       "language": "C",
-      "stars": 35673,
-      "forks": 2367,
+      "stars": 35687,
+      "forks": 2507,
       "topics": [
         "jq"
       ],
@@ -6924,7 +6924,7 @@
       "url": "https://github.com/noah-nuebling/mac-mouse-fix",
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
-      "stars": 10989,
+      "stars": 10990,
       "forks": 435,
       "topics": [
         "3rd-party-mouse",
@@ -6946,7 +6946,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2019-08-07T22:09:17Z",
-      "pushed_at": "2026-09-23T16:51:40Z",
+      "pushed_at": "2026-09-24T22:56:51Z",
       "starred_at": "2023-12-29T10:34:29Z"
     },
     {
@@ -6989,7 +6989,7 @@
       "fork": false,
       "license": "",
       "created_at": "2019-09-25T06:04:56Z",
-      "pushed_at": "2026-09-23T20:35:30Z",
+      "pushed_at": "2026-09-24T22:36:51Z",
       "starred_at": "2023-12-27T01:42:47Z"
     },
     {
@@ -7030,7 +7030,7 @@
       "url": "https://github.com/mas-cli/mas",
       "description": ":package: Mac App Store command-line interface",
       "language": "Swift",
-      "stars": 12358,
+      "stars": 12360,
       "forks": 299,
       "topics": [
         "app-store",
@@ -7055,7 +7055,7 @@
       "url": "https://github.com/vsouza/awesome-ios",
       "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
       "language": "Swift",
-      "stars": 53439,
+      "stars": 53451,
       "forks": 7009,
       "topics": [
         "apple-swift",
@@ -7086,7 +7086,7 @@
       "url": "https://github.com/mozilla-mobile/firefox-ios",
       "description": "Firefox for iOS",
       "language": "Swift",
-      "stars": 13043,
+      "stars": 13044,
       "forks": 3264,
       "topics": [
         "browser",
@@ -7099,7 +7099,7 @@
       "fork": false,
       "license": "MPL-2.0",
       "created_at": "2014-11-03T19:07:02Z",
-      "pushed_at": "2026-09-23T21:21:19Z",
+      "pushed_at": "2026-09-24T22:05:44Z",
       "starred_at": "2023-12-25T12:56:56Z"
     },
     {
@@ -7109,8 +7109,8 @@
       "url": "https://github.com/jart/cosmopolitan",
       "description": "build-once run-anywhere c library",
       "language": "C",
-      "stars": 21305,
-      "forks": 778,
+      "stars": 21306,
+      "forks": 777,
       "topics": [
         "bios",
         "containers",
@@ -7156,7 +7156,7 @@
       "url": "https://github.com/google/GoogleSignIn-iOS",
       "description": "Enables iOS and macOS apps to sign in with Google.",
       "language": "Objective-C",
-      "stars": 752,
+      "stars": 753,
       "forks": 282,
       "topics": [
         "authentication",
@@ -7168,7 +7168,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2021-03-24T17:01:02Z",
-      "pushed_at": "2026-09-23T22:05:26Z",
+      "pushed_at": "2026-09-24T00:49:12Z",
       "starred_at": "2023-12-20T01:08:12Z"
     },
     {
@@ -7201,8 +7201,8 @@
       "url": "https://github.com/altstoreio/AltStore",
       "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
-      "stars": 14442,
-      "forks": 1530,
+      "stars": 14450,
+      "forks": 1536,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -7218,8 +7218,8 @@
       "url": "https://github.com/mpv-player/mpv",
       "description": "🎥 Command line media player",
       "language": "C",
-      "stars": 37091,
-      "forks": 3540,
+      "stars": 37108,
+      "forks": 3541,
       "topics": [
         "audio",
         "c",
@@ -7305,7 +7305,7 @@
       "url": "https://github.com/ProxymanApp/Proxyman",
       "description": "The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅",
       "language": "",
-      "stars": 6990,
+      "stars": 6991,
       "forks": 237,
       "topics": [
         "debugging-tool",
@@ -7330,7 +7330,7 @@
       "url": "https://github.com/Tencent/QMUI_iOS",
       "description": "QMUI iOS——致力于提高项目 UI 开发效率的解决方案",
       "language": "Objective-C",
-      "stars": 7192,
+      "stars": 7193,
       "forks": 1447,
       "topics": [
         "ios",
@@ -7428,8 +7428,8 @@
       "url": "https://github.com/DovAmir/awesome-design-patterns",
       "description": "A curated list of software and architecture related design patterns.",
       "language": "",
-      "stars": 49033,
-      "forks": 3307,
+      "stars": 49050,
+      "forks": 3308,
       "topics": [
         "architecture",
         "awesome",
@@ -7455,8 +7455,8 @@
       "url": "https://github.com/tiimgreen/github-cheat-sheet",
       "description": "A list of cool features of Git and GitHub.",
       "language": "",
-      "stars": 59235,
-      "forks": 5456,
+      "stars": 59251,
+      "forks": 5459,
       "topics": [
         "awesome",
         "awesome-list",
@@ -7478,8 +7478,8 @@
       "url": "https://github.com/Alamofire/Alamofire",
       "description": "Elegant HTTP Networking in Swift",
       "language": "Swift",
-      "stars": 42417,
-      "forks": 7655,
+      "stars": 42419,
+      "forks": 7656,
       "topics": [
         "alamofire",
         "carthage",
@@ -7511,7 +7511,7 @@
       "url": "https://github.com/iina/iina",
       "description": "The modern video player for macOS.",
       "language": "Swift",
-      "stars": 46470,
+      "stars": 46475,
       "forks": 2926,
       "topics": [
         "hacktoberfest",
@@ -7525,7 +7525,7 @@
       "fork": false,
       "license": "GPL-3.0",
       "created_at": "2016-12-19T07:18:45Z",
-      "pushed_at": "2026-09-22T12:52:40Z",
+      "pushed_at": "2026-09-24T08:09:16Z",
       "starred_at": "2023-12-06T11:14:23Z"
     },
     {
@@ -7535,7 +7535,7 @@
       "url": "https://github.com/onevcat/Kingfisher",
       "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
       "language": "Swift",
-      "stars": 24403,
+      "stars": 24402,
       "forks": 2770,
       "topics": [
         "cache",
@@ -7582,7 +7582,7 @@
       "url": "https://github.com/dagronf/QRCode",
       "description": "A quick and beautiful macOS/iOS/tvOS/watchOS QR Code generator/detector library for SwiftUI, Swift and Objective-C.",
       "language": "Swift",
-      "stars": 718,
+      "stars": 719,
       "forks": 90,
       "topics": [
         "appkit",
@@ -7613,7 +7613,7 @@
       "url": "https://github.com/apple/swift-certificates",
       "description": "An implementation of X.509 for Swift",
       "language": "Swift",
-      "stars": 297,
+      "stars": 296,
       "forks": 103,
       "topics": [
         "certificates",
@@ -7652,7 +7652,7 @@
       "description": "Straightforward, type-safe argument parsing for Swift",
       "language": "Swift",
       "stars": 3775,
-      "forks": 414,
+      "forks": 415,
       "topics": [
         "cli",
         "command-line",
@@ -7673,7 +7673,7 @@
       "url": "https://github.com/go-ego/gse",
       "description": "Go efficient multilingual NLP and text segmentation; support English, Chinese, Japanese and others.",
       "language": "Go",
-      "stars": 2845,
+      "stars": 2846,
       "forks": 233,
       "topics": [
         "chinese",
@@ -7744,14 +7744,14 @@
       "url": "https://github.com/swiftlang/swift-markdown",
       "description": "A Swift package for parsing, building, editing, and analyzing Markdown documents.",
       "language": "Swift",
-      "stars": 3422,
-      "forks": 301,
+      "stars": 3423,
+      "forks": 302,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2021-07-19T16:42:24Z",
-      "pushed_at": "2026-09-22T22:20:17Z",
+      "pushed_at": "2026-09-24T14:56:51Z",
       "starred_at": "2023-12-01T11:15:10Z"
     },
     {
@@ -7761,7 +7761,7 @@
       "url": "https://github.com/tickstep/aliyunpan",
       "description": "阿里云盘命令行客户端，支持JavaScript插件，支持同步备份功能。",
       "language": "Go",
-      "stars": 5116,
+      "stars": 5119,
       "forks": 394,
       "topics": [
         "adrive",
@@ -7785,8 +7785,8 @@
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
-      "stars": 120385,
-      "forks": 63368,
+      "stars": 120470,
+      "forks": 63396,
       "topics": [
         "ai",
         "azure",
@@ -7807,7 +7807,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2023-06-19T16:28:59Z",
-      "pushed_at": "2026-09-18T13:48:35Z",
+      "pushed_at": "2026-09-24T03:43:20Z",
       "starred_at": "2023-11-17T00:41:16Z"
     },
     {
@@ -7855,7 +7855,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2022-01-07T13:06:37Z",
-      "pushed_at": "2026-09-22T14:06:12Z",
+      "pushed_at": "2026-09-24T12:28:40Z",
       "starred_at": "2023-11-16T01:34:06Z"
     },
     {
@@ -7865,7 +7865,7 @@
       "url": "https://github.com/kodecocodes/swift-style-guide",
       "description": "The official Swift style guide for Kodeco.",
       "language": "",
-      "stars": 13151,
+      "stars": 13153,
       "forks": 2095,
       "topics": [],
       "archived": false,
@@ -7907,8 +7907,8 @@
       "url": "https://github.com/ByteByteGoHq/system-design-101",
       "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
       "language": "",
-      "stars": 89867,
-      "forks": 9966,
+      "stars": 89906,
+      "forks": 9970,
       "topics": [
         "aws",
         "cloud-computing",
@@ -7935,8 +7935,8 @@
       "url": "https://github.com/sindresorhus/awesome-electron",
       "description": "Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]",
       "language": "",
-      "stars": 27290,
-      "forks": 2061,
+      "stars": 27293,
+      "forks": 2060,
       "topics": [
         "awesome",
         "awesome-list",
@@ -7957,7 +7957,7 @@
       "url": "https://github.com/google/bindiff",
       "description": "Quickly find differences and similarities in disassembled code",
       "language": "Java",
-      "stars": 3182,
+      "stars": 3186,
       "forks": 240,
       "topics": [
         "bindiff",
@@ -8003,8 +8003,8 @@
       "url": "https://github.com/aria2/aria2",
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
-      "stars": 42669,
-      "forks": 3932,
+      "stars": 42697,
+      "forks": 3936,
       "topics": [
         "bittorrent",
         "cpp11",
@@ -8029,7 +8029,7 @@
       "url": "https://github.com/Schlaubischlump/LocationSimulator",
       "description": "MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.",
       "language": "Swift",
-      "stars": 3127,
+      "stars": 3128,
       "forks": 241,
       "topics": [
         "appkit",
@@ -8086,8 +8086,8 @@
       "url": "https://github.com/XcodesOrg/xcodes",
       "description": "The best command-line tool to install and switch between multiple versions of Xcode.",
       "language": "Swift",
-      "stars": 4828,
-      "forks": 183,
+      "stars": 4832,
+      "forks": 185,
       "topics": [
         "hacktoberfest",
         "macos",
@@ -8108,8 +8108,8 @@
       "url": "https://github.com/XcodesOrg/XcodesApp",
       "description": "The easiest way to install and switch between multiple versions of Xcode - with a mouse click.",
       "language": "Swift",
-      "stars": 8572,
-      "forks": 389,
+      "stars": 8574,
+      "forks": 388,
       "topics": [
         "combine",
         "hacktoberfest",
@@ -8184,7 +8184,7 @@
       "url": "https://github.com/kean/Pulse",
       "description": "Network logger for Apple platforms",
       "language": "Swift",
-      "stars": 7223,
+      "stars": 7225,
       "forks": 377,
       "topics": [
         "ios",
@@ -8208,7 +8208,7 @@
       "url": "https://github.com/OAI/OpenAPI-Specification",
       "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
-      "stars": 31232,
+      "stars": 31234,
       "forks": 9154,
       "topics": [
         "apis",
@@ -8222,7 +8222,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2014-03-03T16:53:36Z",
-      "pushed_at": "2026-09-22T15:56:52Z",
+      "pushed_at": "2026-09-24T16:58:21Z",
       "starred_at": "2023-09-06T06:34:28Z"
     },
     {
@@ -8255,7 +8255,7 @@
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android",
       "language": "Java",
       "stars": 9381,
-      "forks": 2333,
+      "forks": 2337,
       "topics": [
         "minecraft",
         "minecraft-launcher"
@@ -8274,8 +8274,8 @@
       "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
       "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
       "language": "Objective-C",
-      "stars": 3244,
-      "forks": 1433,
+      "stars": 3245,
+      "forks": 1435,
       "topics": [
         "ios-app",
         "minecraft",
@@ -8368,7 +8368,7 @@
       "url": "https://github.com/Tencent/wcdb",
       "description": "WCDB is a cross-platform database framework developed by WeChat.",
       "language": "C",
-      "stars": 11636,
+      "stars": 11635,
       "forks": 1502,
       "topics": [
         "android",
@@ -8491,7 +8491,7 @@
       "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
       "description": "Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！",
       "language": "Jupyter Notebook",
-      "stars": 10082,
+      "stars": 10086,
       "forks": 1599,
       "topics": [
         "linear",
@@ -8515,8 +8515,8 @@
       "url": "https://github.com/microsoft/ML-For-Beginners",
       "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
       "language": "Jupyter Notebook",
-      "stars": 90887,
-      "forks": 22418,
+      "stars": 90940,
+      "forks": 22429,
       "topics": [
         "data-science",
         "education",
@@ -8579,8 +8579,8 @@
       "url": "https://github.com/expo/expo",
       "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
       "language": "TypeScript",
-      "stars": 52400,
-      "forks": 14149,
+      "stars": 52418,
+      "forks": 14181,
       "topics": [
         "android",
         "app-framework",
@@ -8603,7 +8603,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2016-08-15T17:14:25Z",
-      "pushed_at": "2026-09-23T22:51:31Z",
+      "pushed_at": "2026-09-24T21:48:33Z",
       "starred_at": "2023-07-07T01:22:51Z"
     },
     {
@@ -8613,7 +8613,7 @@
       "url": "https://github.com/AntonOsika/gpt-engineer",
       "description": "CLI platform to experiment with codegen. Precursor to: https://lovable.dev",
       "language": "Python",
-      "stars": 55086,
+      "stars": 55083,
       "forks": 7281,
       "topics": [
         "ai",
@@ -8641,7 +8641,7 @@
       "url": "https://github.com/nova-video-player/aos-AVP",
       "description": "NOVA opeN sOurce Video plAyer: main repository to build them all",
       "language": "HTML",
-      "stars": 4679,
+      "stars": 4683,
       "forks": 271,
       "topics": [
         "android",
@@ -8655,7 +8655,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2018-05-15T11:59:08Z",
-      "pushed_at": "2026-09-23T17:41:18Z",
+      "pushed_at": "2026-09-24T20:40:23Z",
       "starred_at": "2023-06-20T00:07:48Z"
     },
     {
@@ -8665,8 +8665,8 @@
       "url": "https://github.com/dandavison/delta",
       "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
       "language": "Rust",
-      "stars": 32315,
-      "forks": 580,
+      "stars": 32327,
+      "forks": 581,
       "topics": [
         "color-themes",
         "delta",
@@ -8691,7 +8691,7 @@
       "url": "https://github.com/FFmpeg/FFmpeg",
       "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
       "language": "C",
-      "stars": 64462,
+      "stars": 64488,
       "forks": 14280,
       "topics": [
         "audio",
@@ -8714,7 +8714,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2011-04-14T14:12:38Z",
-      "pushed_at": "2026-09-23T22:18:06Z",
+      "pushed_at": "2026-09-24T20:40:26Z",
       "starred_at": "2023-06-13T01:31:52Z"
     },
     {
@@ -8724,7 +8724,7 @@
       "url": "https://github.com/apple/foundationdb",
       "description": "FoundationDB - the open source, distributed, transactional key-value store",
       "language": "C++",
-      "stars": 16721,
+      "stars": 16723,
       "forks": 1574,
       "topics": [
         "acid",
@@ -8737,7 +8737,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2017-12-14T01:40:42Z",
-      "pushed_at": "2026-09-23T19:08:18Z",
+      "pushed_at": "2026-09-24T22:04:09Z",
       "starred_at": "2023-06-13T01:29:09Z"
     },
     {
@@ -8748,13 +8748,13 @@
       "description": "A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.",
       "language": "Swift",
       "stars": 3701,
-      "forks": 556,
+      "forks": 555,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2018-07-31T23:19:58Z",
-      "pushed_at": "2026-09-23T03:16:03Z",
+      "pushed_at": "2026-09-24T16:19:01Z",
       "starred_at": "2023-06-13T01:25:45Z"
     },
     {
@@ -8765,7 +8765,7 @@
       "description": "Generate Swift client and server code from an OpenAPI document.",
       "language": "Swift",
       "stars": 1972,
-      "forks": 186,
+      "forks": 185,
       "topics": [
         "ios-swift",
         "openapi",
@@ -8788,7 +8788,7 @@
       "url": "https://github.com/EhPanda-Team/EhPanda",
       "description": "An unofficial E-Hentai App for iOS built with SwiftUI & TCA.",
       "language": "Swift",
-      "stars": 3981,
+      "stars": 3982,
       "forks": 257,
       "topics": [
         "combine",
@@ -8845,7 +8845,7 @@
       "url": "https://github.com/wikimedia/wikipedia-ios",
       "description": "📱The official Wikipedia iOS app.",
       "language": "Swift",
-      "stars": 3447,
+      "stars": 3448,
       "forks": 922,
       "topics": [
         "objective-c",
@@ -8856,7 +8856,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2013-10-25T14:36:56Z",
-      "pushed_at": "2026-09-23T22:42:02Z",
+      "pushed_at": "2026-09-24T22:07:15Z",
       "starred_at": "2023-05-31T01:30:52Z"
     },
     {
@@ -8866,8 +8866,8 @@
       "url": "https://github.com/rust-lang/book",
       "description": "The Rust Programming Language",
       "language": "Rust",
-      "stars": 18327,
-      "forks": 4139,
+      "stars": 18331,
+      "forks": 4140,
       "topics": [
         "book",
         "mdbook",
@@ -8905,7 +8905,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2020-07-08T15:21:05Z",
-      "pushed_at": "2026-09-23T11:47:13Z",
+      "pushed_at": "2026-09-24T22:06:54Z",
       "starred_at": "2023-05-29T03:22:00Z"
     },
     {
@@ -8932,8 +8932,8 @@
       "url": "https://github.com/bitcoin/bitcoin",
       "description": "Bitcoin Core integration/staging tree",
       "language": "C++",
-      "stars": 90240,
-      "forks": 39399,
+      "stars": 90242,
+      "forks": 39405,
       "topics": [
         "bitcoin",
         "c-plus-plus",
@@ -8945,7 +8945,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2010-12-19T15:16:43Z",
-      "pushed_at": "2026-09-23T18:51:34Z",
+      "pushed_at": "2026-09-24T21:20:47Z",
       "starred_at": "2023-05-26T02:40:40Z"
     },
     {
@@ -8955,8 +8955,8 @@
       "url": "https://github.com/react/react",
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
-      "stars": 250670,
-      "forks": 51399,
+      "stars": 250703,
+      "forks": 51410,
       "topics": [
         "declarative",
         "frontend",
@@ -8979,8 +8979,8 @@
       "url": "https://github.com/eslint/eslint",
       "description": "Find and fix problems in your JavaScript code.",
       "language": "JavaScript",
-      "stars": 27515,
-      "forks": 5190,
+      "stars": 27516,
+      "forks": 5191,
       "topics": [
         "ecmascript",
         "eslint",
@@ -9002,8 +9002,8 @@
       "url": "https://github.com/vercel/next.js",
       "description": "The React Framework",
       "language": "JavaScript",
-      "stars": 142410,
-      "forks": 32651,
+      "stars": 142428,
+      "forks": 32802,
       "topics": [
         "blog",
         "browser",
@@ -9024,7 +9024,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2016-10-05T23:32:51Z",
-      "pushed_at": "2026-09-23T22:47:50Z",
+      "pushed_at": "2026-09-24T23:04:13Z",
       "starred_at": "2023-05-25T02:05:52Z"
     },
     {
@@ -9041,7 +9041,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2016-09-02T00:51:55Z",
-      "pushed_at": "2026-09-22T13:45:38Z",
+      "pushed_at": "2026-09-24T20:44:33Z",
       "starred_at": "2023-05-25T01:42:31Z"
     },
     {
@@ -9073,7 +9073,7 @@
       "url": "https://github.com/leonardomso/33-js-concepts",
       "description": "📜 33 JavaScript concepts every developer should know.",
       "language": "JavaScript",
-      "stars": 66531,
+      "stars": 66532,
       "forks": 9127,
       "topics": [
         "angular",
@@ -9104,8 +9104,8 @@
       "url": "https://github.com/electron/electron",
       "description": ":electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS",
       "language": "C++",
-      "stars": 123221,
-      "forks": 17552,
+      "stars": 123234,
+      "forks": 17555,
       "topics": [
         "c-plus-plus",
         "chrome",
@@ -9121,7 +9121,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2013-04-12T01:47:36Z",
-      "pushed_at": "2026-09-23T22:56:11Z",
+      "pushed_at": "2026-09-24T22:50:12Z",
       "starred_at": "2023-05-24T01:54:48Z"
     },
     {
@@ -9182,7 +9182,7 @@
       "url": "https://github.com/Quick/Quick",
       "description": "The Swift (and Objective-C) testing framework.",
       "language": "Swift",
-      "stars": 9827,
+      "stars": 9828,
       "forks": 895,
       "topics": [
         "bdd",
@@ -9207,7 +9207,7 @@
       "url": "https://github.com/kean/Nuke",
       "description": "Image loading system",
       "language": "Swift",
-      "stars": 8671,
+      "stars": 8672,
       "forks": 573,
       "topics": [
         "cache",
@@ -9221,7 +9221,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2015-03-11T10:53:26Z",
-      "pushed_at": "2026-09-23T22:51:45Z",
+      "pushed_at": "2026-09-24T21:13:16Z",
       "starred_at": "2023-05-19T02:02:00Z"
     },
     {
@@ -9231,14 +9231,14 @@
       "url": "https://github.com/torvalds/linux",
       "description": "Linux kernel source tree",
       "language": "C",
-      "stars": 249931,
-      "forks": 65399,
+      "stars": 250050,
+      "forks": 65592,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2011-09-04T22:48:12Z",
-      "pushed_at": "2026-09-23T22:30:27Z",
+      "pushed_at": "2026-09-24T22:05:37Z",
       "starred_at": "2023-05-19T01:51:58Z"
     },
     {
@@ -9248,8 +9248,8 @@
       "url": "https://github.com/microsoft/semantic-kernel",
       "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
       "language": "C#",
-      "stars": 28593,
-      "forks": 4786,
+      "stars": 28600,
+      "forks": 4788,
       "topics": [
         "ai",
         "artificial-intelligence",
@@ -9271,7 +9271,7 @@
       "url": "https://github.com/RevenueCat/purchases-ios",
       "description": "In-app purchases and subscriptions made easy. Support for iOS, watchOS, tvOS, macOS, and visionOS.",
       "language": "Swift",
-      "stars": 3069,
+      "stars": 3070,
       "forks": 443,
       "topics": [
         "apple",
@@ -9290,7 +9290,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2017-10-23T20:23:47Z",
-      "pushed_at": "2026-09-23T22:33:30Z",
+      "pushed_at": "2026-09-24T16:44:39Z",
       "starred_at": "2023-05-15T14:01:23Z"
     },
     {
@@ -9325,8 +9325,8 @@
       "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
       "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
       "language": "JavaScript",
-      "stars": 35806,
-      "forks": 5831,
+      "stars": 35811,
+      "forks": 5833,
       "topics": [
         "rtfm",
         "stfw",
@@ -9375,7 +9375,7 @@
       "description": "A set of Minecraft mods that provide a real time web-based map system for various Minecraft server implementations.",
       "language": "Java",
       "stars": 2224,
-      "forks": 492,
+      "forks": 491,
       "topics": [
         "fabricmc-mod",
         "forge-mod",
@@ -9397,7 +9397,7 @@
       "url": "https://github.com/krahets/hello-algo",
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Java",
-      "stars": 130423,
+      "stars": 130456,
       "forks": 15513,
       "topics": [
         "algo",
@@ -9426,8 +9426,8 @@
       "url": "https://github.com/discord/discord-api-docs",
       "description": "Official Discord Developer Docs",
       "language": "MDX",
-      "stars": 6504,
-      "forks": 1384,
+      "stars": 6505,
+      "forks": 1385,
       "topics": [
         "discord",
         "discord-api",
@@ -9438,7 +9438,7 @@
       "fork": false,
       "license": "CC-BY-SA-4.0",
       "created_at": "2016-03-29T17:11:53Z",
-      "pushed_at": "2026-09-23T15:51:59Z",
+      "pushed_at": "2026-09-24T20:54:09Z",
       "starred_at": "2023-04-28T11:34:33Z"
     },
     {
@@ -9455,7 +9455,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2023-01-19T19:22:40Z",
-      "pushed_at": "2026-09-23T20:12:32Z",
+      "pushed_at": "2026-09-24T18:08:32Z",
       "starred_at": "2023-04-27T03:05:00Z"
     },
     {
@@ -9465,7 +9465,7 @@
       "url": "https://github.com/pointfreeco/swift-composable-architecture",
       "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
-      "stars": 14933,
+      "stars": 14935,
       "forks": 1681,
       "topics": [
         "architecture",
@@ -9489,8 +9489,8 @@
       "url": "https://github.com/MacPaw/OpenAI",
       "description": "Swift community driven package for OpenAI public API",
       "language": "Swift",
-      "stars": 2944,
-      "forks": 518,
+      "stars": 2945,
+      "forks": 519,
       "topics": [
         "ai",
         "openai",
@@ -9513,8 +9513,8 @@
       "url": "https://github.com/OpenEmu/OpenEmu",
       "description": "🕹 Retro video game emulation for macOS",
       "language": "Swift",
-      "stars": 17787,
-      "forks": 1358,
+      "stars": 17791,
+      "forks": 1357,
       "topics": [
         "emulation",
         "emulator",
@@ -9537,8 +9537,8 @@
       "url": "https://github.com/groue/GRDB.swift",
       "description": "A toolkit for SQLite databases, with a focus on application development",
       "language": "Swift",
-      "stars": 8661,
-      "forks": 1052,
+      "stars": 8663,
+      "forks": 1053,
       "topics": [
         "database",
         "database-observation",
@@ -9580,7 +9580,7 @@
       "url": "https://github.com/DamascenoRafael/reminders-menubar",
       "description": "Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.",
       "language": "Swift",
-      "stars": 3945,
+      "stars": 3946,
       "forks": 169,
       "topics": [
         "apple-reminders",
@@ -9666,7 +9666,7 @@
       "description": "JSON viewer/editor for Mac OS X",
       "language": "Objective-C",
       "stars": 109,
-      "forks": 37,
+      "forks": 38,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -9682,7 +9682,7 @@
       "url": "https://github.com/Tencent/libpag",
       "description": "The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.",
       "language": "HTML",
-      "stars": 5791,
+      "stars": 5794,
       "forks": 531,
       "topics": [
         "after-effects",
@@ -9695,7 +9695,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2020-09-22T04:32:20Z",
-      "pushed_at": "2026-09-23T13:08:44Z",
+      "pushed_at": "2026-09-24T09:32:36Z",
       "starred_at": "2023-04-14T01:20:37Z"
     },
     {
@@ -9706,7 +9706,7 @@
       "description": "月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive",
       "language": "Java",
       "stars": 1345,
-      "forks": 225,
+      "forks": 226,
       "topics": [
         "capture",
         "hacktoberfest",
@@ -9756,7 +9756,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2022-06-20T18:47:31Z",
-      "pushed_at": "2026-09-22T01:38:21Z",
+      "pushed_at": "2026-09-24T18:50:27Z",
       "starred_at": "2023-04-13T01:24:56Z"
     },
     {
@@ -9800,7 +9800,7 @@
       "url": "https://github.com/raspberrypi/rpi-imager",
       "description": "The home of Raspberry Pi Imager, a user-friendly tool for creating bootable media for Raspberry Pi devices.",
       "language": "C++",
-      "stars": 2613,
+      "stars": 2612,
       "forks": 449,
       "topics": [
         "raspberry-pi",
@@ -9821,7 +9821,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2019-09-30T12:49:05Z",
-      "pushed_at": "2026-09-23T15:05:08Z",
+      "pushed_at": "2026-09-24T18:00:11Z",
       "starred_at": "2023-04-02T10:26:57Z"
     },
     {
@@ -9854,7 +9854,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2020-04-26T07:16:14Z",
-      "pushed_at": "2026-09-22T08:37:16Z",
+      "pushed_at": "2026-09-24T08:39:03Z",
       "starred_at": "2023-03-31T02:35:10Z"
     },
     {
@@ -9864,7 +9864,7 @@
       "url": "https://github.com/Kitura/Kitura",
       "description": "A Swift web framework and HTTP server.",
       "language": "Swift",
-      "stars": 7581,
+      "stars": 7582,
       "forks": 496,
       "topics": [
         "kitura",
@@ -9966,7 +9966,7 @@
       "url": "https://github.com/nalexn/ViewInspector",
       "description": "Runtime introspection and unit testing of SwiftUI views",
       "language": "Swift",
-      "stars": 2634,
+      "stars": 2635,
       "forks": 196,
       "topics": [
         "best-practices",
@@ -10078,7 +10078,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2021-07-19T16:39:16Z",
-      "pushed_at": "2026-09-23T12:25:01Z",
+      "pushed_at": "2026-09-23T23:56:16Z",
       "starred_at": "2023-03-08T02:14:40Z"
     },
     {
@@ -10088,14 +10088,14 @@
       "url": "https://github.com/llvm/llvm-project",
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
-      "stars": 40625,
-      "forks": 18768,
+      "stars": 40643,
+      "forks": 18785,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2016-12-07T09:39:33Z",
-      "pushed_at": "2026-09-23T22:42:40Z",
+      "pushed_at": "2026-09-24T23:06:48Z",
       "starred_at": "2023-03-08T02:12:48Z"
     },
     {
@@ -10106,13 +10106,13 @@
       "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
       "language": "Markdown",
       "stars": 15876,
-      "forks": 2475,
+      "forks": 2476,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2015-11-03T21:49:37Z",
-      "pushed_at": "2026-09-23T18:09:33Z",
+      "pushed_at": "2026-09-24T00:50:54Z",
       "starred_at": "2023-03-08T02:04:39Z"
     },
     {
@@ -10123,7 +10123,7 @@
       "description": "Vapor ORM (queries, models, and relations) for NoSQL and SQL databases",
       "language": "Swift",
       "stars": 1417,
-      "forks": 177,
+      "forks": 178,
       "topics": [
         "database",
         "nosql",
@@ -10149,8 +10149,8 @@
       "url": "https://github.com/yt-dlp/yt-dlp",
       "description": "A feature-rich command-line audio/video downloader",
       "language": "Python",
-      "stars": 193212,
-      "forks": 16767,
+      "stars": 193417,
+      "forks": 16790,
       "topics": [
         "cli",
         "downloader",
@@ -10254,8 +10254,8 @@
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
-      "stars": 40922,
-      "forks": 6133,
+      "stars": 40934,
+      "forks": 6134,
       "topics": [
         "c",
         "cross-platform",
@@ -10266,7 +10266,7 @@
       "fork": false,
       "license": "Vim",
       "created_at": "2015-08-18T21:03:56Z",
-      "pushed_at": "2026-09-21T20:42:56Z",
+      "pushed_at": "2026-09-24T19:20:08Z",
       "starred_at": "2023-03-06T01:42:44Z"
     },
     {
@@ -10363,7 +10363,7 @@
       "description": "The project source code for Hacking with iOS.",
       "language": "Swift",
       "stars": 6389,
-      "forks": 3229,
+      "forks": 3230,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -10379,8 +10379,8 @@
       "url": "https://github.com/kodecocodes/swift-algorithm-club",
       "description": "Algorithms and data structures in Swift, with explanations!",
       "language": "Swift",
-      "stars": 29087,
-      "forks": 4939,
+      "stars": 29086,
+      "forks": 4938,
       "topics": [
         "algorithms",
         "data-structures",
@@ -10401,7 +10401,7 @@
       "description": "Python script to fix some of the problems of the Minecraft save files (region files, *.mca).",
       "language": "Python",
       "stars": 621,
-      "forks": 117,
+      "forks": 116,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -10444,7 +10444,7 @@
       "url": "https://github.com/YouHaveTrouble/minecraft-optimization",
       "description": "Minecraft server optimization guide",
       "language": "",
-      "stars": 2873,
+      "stars": 2874,
       "forks": 93,
       "topics": [
         "airplane",
@@ -10477,8 +10477,8 @@
       "url": "https://github.com/EngineHub/WorldEdit",
       "description": "🗺️ Minecraft map editor and mod",
       "language": "Java",
-      "stars": 3509,
-      "forks": 963,
+      "stars": 3511,
+      "forks": 964,
       "topics": [
         "bukkit",
         "forge",
@@ -10494,7 +10494,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2010-09-28T08:11:57Z",
-      "pushed_at": "2026-09-23T09:47:41Z",
+      "pushed_at": "2026-09-24T10:27:44Z",
       "starred_at": "2023-03-03T01:49:41Z"
     },
     {
@@ -10528,7 +10528,7 @@
       "description": "The canonical list of repositories indexed by the Swift Package Index",
       "language": "Swift",
       "stars": 850,
-      "forks": 710,
+      "forks": 712,
       "topics": [
         "spm",
         "swift"
@@ -10537,7 +10537,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2019-05-14T07:20:31Z",
-      "pushed_at": "2026-09-23T22:07:22Z",
+      "pushed_at": "2026-09-24T21:53:03Z",
       "starred_at": "2023-03-02T01:03:36Z"
     },
     {
@@ -10547,8 +10547,8 @@
       "url": "https://github.com/Tencent/lemon-cleaner",
       "description": "腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。",
       "language": "Objective-C",
-      "stars": 6328,
-      "forks": 796,
+      "stars": 6330,
+      "forks": 797,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -10565,7 +10565,7 @@
       "description": "Animated top/bottom segmented control written in Swift.",
       "language": "Swift",
       "stars": 2516,
-      "forks": 322,
+      "forks": 321,
       "topics": [
         "animation",
         "carthage",
@@ -10676,8 +10676,8 @@
       "url": "https://github.com/CodeEditApp/CodeEdit",
       "description": "📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
       "language": "Swift",
-      "stars": 23041,
-      "forks": 1189,
+      "stars": 23042,
+      "forks": 1188,
       "topics": [
         "app",
         "appkit",
@@ -10709,8 +10709,8 @@
       "url": "https://github.com/cli/cli",
       "description": "GitHub’s official command line tool",
       "language": "Go",
-      "stars": 46383,
-      "forks": 9071,
+      "stars": 46395,
+      "forks": 9076,
       "topics": [
         "cli",
         "git",
@@ -10731,8 +10731,8 @@
       "url": "https://github.com/Z4nzu/hackingtool",
       "description": "ALL IN ONE Hacking Tool For Hackers",
       "language": "Python",
-      "stars": 79668,
-      "forks": 9033,
+      "stars": 79700,
+      "forks": 9038,
       "topics": [
         "allinonehackingtool",
         "besthackingtool",
@@ -10881,8 +10881,8 @@
       "url": "https://github.com/jlevy/the-art-of-command-line",
       "description": "Master the command line, in one page",
       "language": "",
-      "stars": 162492,
-      "forks": 14826,
+      "stars": 162502,
+      "forks": 14829,
       "topics": [
         "bash",
         "documentation",
@@ -10905,8 +10905,8 @@
       "url": "https://github.com/WerWolv/ImHex",
       "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
       "language": "C++",
-      "stars": 54885,
-      "forks": 2466,
+      "stars": 54895,
+      "forks": 2468,
       "topics": [
         "analyzer",
         "binary-analysis",
@@ -10943,7 +10943,7 @@
       "url": "https://github.com/hughkli/Lookin",
       "description": "Free macOS app for iOS view debugging.",
       "language": "Objective-C",
-      "stars": 1460,
+      "stars": 1461,
       "forks": 257,
       "topics": [],
       "archived": false,
@@ -11021,7 +11021,7 @@
       "url": "https://github.com/ochococo/Design-Patterns-In-Swift",
       "description": "📖 Design Patterns implemented in Swift 5.0",
       "language": "Swift",
-      "stars": 15254,
+      "stars": 15255,
       "forks": 1729,
       "topics": [
         "computer-science",
@@ -11088,8 +11088,8 @@
       "url": "https://github.com/rathena/rathena",
       "description": "rAthena is an open-source cross-platform MMORPG server.",
       "language": "C++",
-      "stars": 3576,
-      "forks": 2766,
+      "stars": 3577,
+      "forks": 2770,
       "topics": [
         "c-plus-plus",
         "education",
@@ -11118,7 +11118,7 @@
       "url": "https://github.com/johnno1962/InjectionIII",
       "description": "Re-write of Injection for Xcode in (mostly) Swift",
       "language": "Objective-C",
-      "stars": 4643,
+      "stars": 4644,
       "forks": 348,
       "topics": [
         "eval",
@@ -11146,7 +11146,7 @@
       "url": "https://github.com/devicekit/DeviceKit",
       "description": "DeviceKit is a value-type replacement of UIDevice.",
       "language": "Swift",
-      "stars": 4730,
+      "stars": 4732,
       "forks": 466,
       "topics": [
         "battery-level",
@@ -11186,7 +11186,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2014-10-01T17:12:53Z",
-      "pushed_at": "2026-09-21T23:03:55Z",
+      "pushed_at": "2026-09-24T23:03:19Z",
       "starred_at": "2022-12-01T23:56:37Z"
     },
     {
@@ -11197,7 +11197,7 @@
       "description": "WebSocket client library built on SwiftNIO",
       "language": "Swift",
       "stars": 312,
-      "forks": 86,
+      "forks": 87,
       "topics": [
         "server-side-swift",
         "spm",
@@ -11290,7 +11290,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2022-01-10T22:02:09Z",
-      "pushed_at": "2026-09-23T17:56:15Z",
+      "pushed_at": "2026-09-24T18:34:18Z",
       "starred_at": "2022-11-03T04:13:25Z"
     },
     {
@@ -11300,7 +11300,7 @@
       "url": "https://github.com/utmapp/UTM",
       "description": "Virtual machines for iOS and macOS",
       "language": "Swift",
-      "stars": 35607,
+      "stars": 35617,
       "forks": 1830,
       "topics": [
         "apple",
@@ -11317,7 +11317,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2019-04-12T16:09:24Z",
-      "pushed_at": "2026-09-23T19:21:59Z",
+      "pushed_at": "2026-09-24T15:38:17Z",
       "starred_at": "2022-11-03T04:12:56Z"
     },
     {
@@ -11327,7 +11327,7 @@
       "url": "https://github.com/SwifterSwift/SwifterSwift",
       "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
       "language": "Swift",
-      "stars": 15206,
+      "stars": 15210,
       "forks": 1659,
       "topics": [
         "awesome",
@@ -11394,7 +11394,7 @@
       "url": "https://github.com/apple/swift-collections",
       "description": "Commonly used data structures for Swift",
       "language": "Swift",
-      "stars": 4504,
+      "stars": 4505,
       "forks": 408,
       "topics": [
         "collection",
@@ -11465,8 +11465,8 @@
       "url": "https://github.com/ruanyf/weekly",
       "description": "科技爱好者周刊，每周五发布",
       "language": "",
-      "stars": 104564,
-      "forks": 4471,
+      "stars": 104655,
+      "forks": 4474,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -11516,8 +11516,8 @@
       "url": "https://github.com/ExistentialAudio/BlackHole",
       "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
       "language": "C",
-      "stars": 19805,
-      "forks": 840,
+      "stars": 19817,
+      "forks": 841,
       "topics": [
         "audio",
         "driver",
@@ -11539,8 +11539,8 @@
       "url": "https://github.com/github/codeql",
       "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
       "language": "CodeQL",
-      "stars": 10118,
-      "forks": 2093,
+      "stars": 10122,
+      "forks": 2096,
       "topics": [
         "codeql",
         "github-advanced-security",
@@ -11552,7 +11552,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2018-07-31T16:35:51Z",
-      "pushed_at": "2026-09-23T17:01:33Z",
+      "pushed_at": "2026-09-24T19:09:25Z",
       "starred_at": "2022-08-08T02:48:00Z"
     },
     {
@@ -11579,8 +11579,8 @@
       "url": "https://github.com/appsmithorg/appsmith",
       "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
       "language": "TypeScript",
-      "stars": 40928,
-      "forks": 4766,
+      "stars": 40933,
+      "forks": 4768,
       "topics": [
         "admin-dashboard",
         "admin-panels",
@@ -11607,7 +11607,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2020-06-30T04:07:36Z",
-      "pushed_at": "2026-09-23T14:00:46Z",
+      "pushed_at": "2026-09-24T22:32:02Z",
       "starred_at": "2022-06-25T17:52:23Z"
     },
     {
@@ -11635,7 +11635,7 @@
       "description": "The Spigot, Bungee and Velocity plugin that parses client IP addresses passed from the TCPShield network.",
       "language": "Java",
       "stars": 171,
-      "forks": 70,
+      "forks": 71,
       "topics": [
         "bukkit",
         "bungeecord",
@@ -11724,8 +11724,8 @@
       "url": "https://github.com/apple/swift-nio",
       "description": "Event-driven network application framework for high performance protocol servers & clients, non-blocking.",
       "language": "Swift",
-      "stars": 8523,
-      "forks": 801,
+      "stars": 8525,
+      "forks": 800,
       "topics": [
         "asynchronous-io",
         "event-driven",
@@ -11769,7 +11769,7 @@
       "url": "https://github.com/withfig/autocomplete",
       "description": "IDE-style autocomplete for your existing terminal & shell",
       "language": "TypeScript",
-      "stars": 25218,
+      "stars": 25219,
       "forks": 5418,
       "topics": [
         "autocomplete",
@@ -11799,8 +11799,8 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp",
       "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
       "language": "TypeScript",
-      "stars": 456048,
-      "forks": 46984,
+      "stars": 456088,
+      "forks": 47125,
       "topics": [
         "careers",
         "certification",
@@ -11822,7 +11822,7 @@
       "fork": false,
       "license": "BSD-3-Clause",
       "created_at": "2014-12-24T17:49:19Z",
-      "pushed_at": "2026-09-23T21:28:38Z",
+      "pushed_at": "2026-09-24T19:45:23Z",
       "starred_at": "2022-01-24T09:03:02Z"
     },
     {
@@ -11832,8 +11832,8 @@
       "url": "https://github.com/ossu/computer-science",
       "description": "🎓 Path to a free self-taught education in Computer Science!",
       "language": "HTML",
-      "stars": 209407,
-      "forks": 25908,
+      "stars": 209432,
+      "forks": 25910,
       "topics": [
         "awesome-list",
         "computer-science",
@@ -11854,7 +11854,7 @@
       "url": "https://github.com/scinfu/SwiftSoup",
       "description": "SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)",
       "language": "Swift",
-      "stars": 5124,
+      "stars": 5125,
       "forks": 402,
       "topics": [
         "dom",
@@ -11880,8 +11880,8 @@
       "url": "https://github.com/Lymphatus/caesium-image-compressor",
       "description": "Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.",
       "language": "C++",
-      "stars": 6339,
-      "forks": 363,
+      "stars": 6342,
+      "forks": 364,
       "topics": [
         "caesium",
         "compression",
@@ -11923,7 +11923,7 @@
       "url": "https://github.com/AloneMonkey/frida-ios-dump",
       "description": "pull decrypted ipa from jailbreak device",
       "language": "JavaScript",
-      "stars": 3932,
+      "stars": 3933,
       "forks": 736,
       "topics": [
         "decrypted",
@@ -11946,8 +11946,8 @@
       "url": "https://github.com/realm/SwiftLint",
       "description": "A tool to enforce Swift style and conventions.",
       "language": "Swift",
-      "stars": 19743,
-      "forks": 2330,
+      "stars": 19745,
+      "forks": 2329,
       "topics": [
         "code-quality",
         "hacktoberfest",
@@ -11996,7 +11996,7 @@
       "url": "https://github.com/AloneMonkey/MonkeyDev",
       "description": "CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.",
       "language": "Objective-C",
-      "stars": 6795,
+      "stars": 6794,
       "forks": 1237,
       "topics": [
         "cocoapods",
@@ -12071,7 +12071,7 @@
       "url": "https://github.com/PrismarineJS/prismarine-web-client",
       "description": "Minecraft web client running in your browser",
       "language": "JavaScript",
-      "stars": 549,
+      "stars": 550,
       "forks": 373,
       "topics": [
         "browser-game",
@@ -12117,8 +12117,8 @@
       "url": "https://github.com/EssentialsX/Essentials",
       "description": "The modern Essentials suite for Spigot and Paper.",
       "language": "Java",
-      "stars": 2293,
-      "forks": 1132,
+      "stars": 2292,
+      "forks": 1131,
       "topics": [
         "bukkit",
         "bukkit-plugin",
@@ -12154,7 +12154,7 @@
       "url": "https://github.com/Mrs4s/go-cqhttp",
       "description": "cqhttp的golang实现，轻量、原生跨平台.",
       "language": "Go",
-      "stars": 10630,
+      "stars": 10631,
       "forks": 1573,
       "topics": [
         "bot",
@@ -12237,8 +12237,8 @@
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
       "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
       "language": "",
-      "stars": 321302,
-      "forks": 15081,
+      "stars": 321528,
+      "forks": 15093,
       "topics": [
         "awesome",
         "awesome-list",
@@ -12286,7 +12286,7 @@
       "fork": false,
       "license": "LGPL-3.0",
       "created_at": "2016-12-08T17:34:11Z",
-      "pushed_at": "2026-09-22T13:43:54Z",
+      "pushed_at": "2026-09-24T15:44:28Z",
       "starred_at": "2021-07-05T09:24:22Z"
     },
     {
@@ -12313,7 +12313,7 @@
       "url": "https://github.com/trimstray/test-your-sysadmin-skills",
       "description": "A collection of Linux Sysadmin Test Questions and Answers. Test your knowledge and skills in different fields with these Q/A.",
       "language": "",
-      "stars": 11868,
+      "stars": 11869,
       "forks": 1736,
       "topics": [
         "answers",
@@ -12351,8 +12351,8 @@
       "url": "https://github.com/freefq/free",
       "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
       "language": "",
-      "stars": 42319,
-      "forks": 5632,
+      "stars": 42334,
+      "forks": 5631,
       "topics": [
         "bulink",
         "fanqiang",
@@ -12440,7 +12440,7 @@
       "description": "Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.",
       "language": "Kotlin",
       "stars": 1795,
-      "forks": 232,
+      "forks": 234,
       "topics": [
         "architectury",
         "bukkit",
@@ -12475,7 +12475,7 @@
       "url": "https://github.com/MCSManager/MCSManager",
       "description": "Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户，现代化的 Minecraft 和 Steam 游戏服务器管理面板",
       "language": "TypeScript",
-      "stars": 4970,
+      "stars": 4969,
       "forks": 553,
       "topics": [
         "docker",
@@ -12613,7 +12613,7 @@
       "url": "https://github.com/Instagram/IGListKit",
       "description": "A data-driven UICollectionView framework for building fast and flexible lists.",
       "language": "Objective-C",
-      "stars": 13067,
+      "stars": 13068,
       "forks": 1540,
       "topics": [
         "diffing",
@@ -12658,7 +12658,7 @@
       "url": "https://github.com/ReactiveX/RxSwift",
       "description": "Reactive Programming in Swift",
       "language": "Swift",
-      "stars": 24639,
+      "stars": 24640,
       "forks": 4152,
       "topics": [
         "functional",
@@ -12708,8 +12708,8 @@
       "url": "https://github.com/Textualize/rich",
       "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
       "language": "Python",
-      "stars": 57423,
-      "forks": 2367,
+      "stars": 57430,
+      "forks": 2369,
       "topics": [
         "ansi-colors",
         "emoji",
@@ -12799,7 +12799,7 @@
       "url": "https://github.com/GeyserMC/Geyser",
       "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
       "language": "Java",
-      "stars": 5817,
+      "stars": 5821,
       "forks": 886,
       "topics": [
         "bedrock",
@@ -12859,8 +12859,8 @@
       "url": "https://github.com/BlueMap-Minecraft/BlueMap",
       "description": "A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.",
       "language": "Java",
-      "stars": 2812,
-      "forks": 241,
+      "stars": 2814,
+      "forks": 242,
       "topics": [
         "bluemap",
         "minecraft",
@@ -12883,7 +12883,7 @@
       "url": "https://github.com/MultiMC/Launcher",
       "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once",
       "language": "C++",
-      "stars": 4674,
+      "stars": 4671,
       "forks": 1034,
       "topics": [
         "c-plus-plus",
@@ -13030,8 +13030,8 @@
       "url": "https://github.com/PaperMC/Paper",
       "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
       "language": "Java",
-      "stars": 12678,
-      "forks": 3538,
+      "stars": 12680,
+      "forks": 3540,
       "topics": [
         "bukkit",
         "java",
@@ -13048,7 +13048,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2016-01-22T05:40:19Z",
-      "pushed_at": "2026-09-23T18:48:40Z",
+      "pushed_at": "2026-09-24T20:20:35Z",
       "starred_at": "2020-12-03T04:02:37Z"
     },
     {
@@ -13131,8 +13131,8 @@
       "url": "https://github.com/fastlane/fastlane",
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
-      "stars": 42149,
-      "forks": 6035,
+      "stars": 42154,
+      "forks": 6036,
       "topics": [
         "android",
         "apps",
@@ -13244,8 +13244,8 @@
       "url": "https://github.com/MinecraftForge/MinecraftForge",
       "description": "Modifications to the Minecraft base files to assist in compatibility between mods. New Discord: https://discord.minecraftforge.net/",
       "language": "Java",
-      "stars": 7790,
-      "forks": 2808,
+      "stars": 7791,
+      "forks": 2809,
       "topics": [
         "forge",
         "java",
@@ -13266,8 +13266,8 @@
       "url": "https://github.com/gohugoio/hugo",
       "description": "The world’s fastest framework for building websites.",
       "language": "Go",
-      "stars": 89913,
-      "forks": 8384,
+      "stars": 89933,
+      "forks": 8387,
       "topics": [
         "blog-engine",
         "cms",
@@ -13281,7 +13281,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2013-07-04T15:26:26Z",
-      "pushed_at": "2026-09-23T17:32:41Z",
+      "pushed_at": "2026-09-24T15:51:46Z",
       "starred_at": "2019-10-22T04:55:38Z"
     },
     {
@@ -13345,7 +13345,7 @@
       "url": "https://github.com/ytdl-org/youtube-dl",
       "description": "Command-line program to download videos from YouTube.com and other video sites",
       "language": "Python",
-      "stars": 141327,
+      "stars": 141345,
       "forks": 10659,
       "topics": [],
       "archived": false,
@@ -13430,7 +13430,7 @@
       "url": "https://github.com/michaelliao/itranswarp",
       "description": "Full-featured CMS including blog, wiki, discussion, etc. Cloud native application that powered by SpringBoot.",
       "language": "Java",
-      "stars": 796,
+      "stars": 797,
       "forks": 342,
       "topics": [
         "blog",
@@ -13454,8 +13454,8 @@
       "url": "https://github.com/littlecodersh/ItChat",
       "description": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
       "language": "Python",
-      "stars": 26466,
-      "forks": 5601,
+      "stars": 26468,
+      "forks": 5600,
       "topics": [
         "api",
         "itchat",
@@ -13507,7 +13507,7 @@
       "fork": true,
       "license": "NOASSERTION",
       "created_at": "2017-05-13T00:52:01Z",
-      "pushed_at": "2026-09-23T13:58:44Z",
+      "pushed_at": "2026-09-24T06:44:58Z",
       "starred_at": "2019-09-07T14:15:37Z"
     },
     {
@@ -13559,8 +13559,8 @@
       "url": "https://github.com/ohmyzsh/ohmyzsh",
       "description": "🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
-      "stars": 189890,
-      "forks": 27321,
+      "stars": 189916,
+      "forks": 27476,
       "topics": [
         "cli",
         "cli-app",
@@ -13677,7 +13677,7 @@
       "url": "https://github.com/appium/appium-desktop",
       "description": "Appium Server in Desktop GUIs for Mac, Windows, and Linux",
       "language": "JavaScript",
-      "stars": 4804,
+      "stars": 4805,
       "forks": 1302,
       "topics": [
         "appium"
@@ -13747,8 +13747,8 @@
       "url": "https://github.com/pallets/click",
       "description": "Python composable command line interface toolkit",
       "language": "Python",
-      "stars": 17767,
-      "forks": 2561,
+      "stars": 17769,
+      "forks": 2718,
       "topics": [
         "cli",
         "click",
@@ -13769,7 +13769,7 @@
       "url": "https://github.com/kivy/kivy",
       "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
       "language": "Python",
-      "stars": 19024,
+      "stars": 19027,
       "forks": 3139,
       "topics": [
         "android",
@@ -13786,7 +13786,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2010-11-03T20:27:32Z",
-      "pushed_at": "2026-09-22T07:31:01Z",
+      "pushed_at": "2026-09-24T22:42:06Z",
       "starred_at": "2019-08-02T02:53:31Z"
     },
     {
@@ -13797,7 +13797,7 @@
       "description": "Coroutine-based concurrency library for Python",
       "language": "Python",
       "stars": 6447,
-      "forks": 968,
+      "forks": 969,
       "topics": [
         "asyncio",
         "coroutines",
@@ -13835,7 +13835,7 @@
       "url": "https://github.com/electron/electron-api-demos",
       "description": "Explore the Electron APIs",
       "language": "HTML",
-      "stars": 10232,
+      "stars": 10233,
       "forks": 2073,
       "topics": [],
       "archived": true,
@@ -13925,7 +13925,7 @@
       "url": "https://github.com/SwiftWebUI/SwiftWebUI",
       "description": "A demo implementation of SwiftUI for the Web",
       "language": "Swift",
-      "stars": 4276,
+      "stars": 4277,
       "forks": 160,
       "topics": [
         "swift-library",
@@ -14024,7 +14024,7 @@
       "description": "Self-contained Shadowsocks implementation in C with libuv, asynchronous DNS, and portable static builds for Linux, macOS, Windows, and FreeBSD.",
       "language": "C",
       "stars": 16177,
-      "forks": 6222,
+      "forks": 6220,
       "topics": [
         "c",
         "shadowsocks"
@@ -14060,7 +14060,7 @@
       "url": "https://github.com/mdeverdelhan/ACR122U-reader-writer",
       "description": "A simple tool to read/write Mifare RFID tags with an ACR122U device",
       "language": "Java",
-      "stars": 230,
+      "stars": 229,
       "forks": 98,
       "topics": [
         "java",
@@ -14084,7 +14084,7 @@
       "description": "ShadowsocksR update rss, SSR organization",
       "language": "",
       "stars": 4434,
-      "forks": 1580,
+      "forks": 1579,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -14185,7 +14185,7 @@
       "url": "https://github.com/keycastr/keycastr",
       "description": "KeyCastr, an open-source keystroke visualizer",
       "language": "Objective-C",
-      "stars": 15127,
+      "stars": 15129,
       "forks": 578,
       "topics": [],
       "archived": false,
@@ -14220,7 +14220,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2013-12-13T05:26:16Z",
-      "pushed_at": "2026-09-22T06:58:04Z",
+      "pushed_at": "2026-09-24T16:21:19Z",
       "starred_at": "2019-03-22T11:21:12Z"
     },
     {
@@ -14281,7 +14281,7 @@
       "url": "https://github.com/MinecraftForge/Documentation",
       "description": "Read the docs MinecraftForge documentation",
       "language": "HTML",
-      "stars": 513,
+      "stars": 514,
       "forks": 192,
       "topics": [],
       "archived": false,
@@ -14349,7 +14349,7 @@
       "url": "https://github.com/shadowsocks/ShadowsocksX-NG",
       "description": "Next Generation of ShadowsocksX",
       "language": "Swift",
-      "stars": 32879,
+      "stars": 32880,
       "forks": 7744,
       "topics": [
         "kcptun",
@@ -14421,8 +14421,8 @@
       "url": "https://github.com/protocolbuffers/protobuf",
       "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
-      "stars": 72062,
-      "forks": 16291,
+      "stars": 72064,
+      "forks": 16293,
       "topics": [
         "marshalling",
         "protobuf",
@@ -14437,7 +14437,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2014-08-26T15:52:15Z",
-      "pushed_at": "2026-09-23T22:46:27Z",
+      "pushed_at": "2026-09-24T22:52:04Z",
       "starred_at": "2018-10-28T15:49:59Z"
     },
     {
@@ -14464,8 +14464,8 @@
       "url": "https://github.com/obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
-      "stars": 76556,
-      "forks": 10289,
+      "stars": 76584,
+      "forks": 10297,
       "topics": [
         "c",
         "c-plus-plus",
@@ -14483,7 +14483,7 @@
       "fork": false,
       "license": "GPL-2.0",
       "created_at": "2013-10-01T02:40:31Z",
-      "pushed_at": "2026-09-23T22:53:20Z",
+      "pushed_at": "2026-09-24T22:11:23Z",
       "starred_at": "2018-09-26T14:02:20Z"
     },
     {
@@ -14549,7 +14549,7 @@
       "url": "https://github.com/squidfunk/mkdocs-material",
       "description": "Documentation that simply works",
       "language": "Python",
-      "stars": 27497,
+      "stars": 27500,
       "forks": 4148,
       "topics": [
         "documentation",
@@ -14573,8 +14573,8 @@
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
-      "stars": 179060,
-      "forks": 31836,
+      "stars": 179079,
+      "forks": 32004,
       "topics": [
         "android",
         "app-framework",
@@ -14600,7 +14600,7 @@
       "fork": false,
       "license": "BSD-3-Clause",
       "created_at": "2015-03-06T22:54:58Z",
-      "pushed_at": "2026-09-23T22:06:46Z",
+      "pushed_at": "2026-09-24T22:45:41Z",
       "starred_at": "2018-08-02T15:46:10Z"
     },
     {
@@ -14610,8 +14610,8 @@
       "url": "https://github.com/LWJGL/lwjgl3",
       "description": "LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.",
       "language": "Java",
-      "stars": 5457,
-      "forks": 716,
+      "stars": 5458,
+      "forks": 717,
       "topics": [
         "bindings",
         "fmod",
@@ -14667,7 +14667,7 @@
       "url": "https://github.com/HMCL-dev/HMCL",
       "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
       "language": "Java",
-      "stars": 10109,
+      "stars": 10114,
       "forks": 935,
       "topics": [
         "javafx",
@@ -14688,8 +14688,8 @@
       "url": "https://github.com/vapor/vapor",
       "description": "💧 A server-side Swift HTTP web framework.",
       "language": "Swift",
-      "stars": 26216,
-      "forks": 1530,
+      "stars": 26220,
+      "forks": 1531,
       "topics": [
         "framework",
         "http",
@@ -14704,7 +14704,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2016-01-18T22:37:52Z",
-      "pushed_at": "2026-09-23T13:05:58Z",
+      "pushed_at": "2026-09-24T15:49:10Z",
       "starred_at": "2018-07-13T14:28:53Z"
     },
     {
@@ -14714,14 +14714,14 @@
       "url": "https://github.com/swiftlang/swift-package-manager",
       "description": "The Package Manager for the Swift Programming Language",
       "language": "Swift",
-      "stars": 10223,
+      "stars": 10224,
       "forks": 1525,
       "topics": [],
       "archived": false,
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2015-10-23T21:41:12Z",
-      "pushed_at": "2026-09-23T17:01:05Z",
+      "pushed_at": "2026-09-24T19:52:02Z",
       "starred_at": "2018-07-04T02:53:54Z"
     },
     {
@@ -14772,7 +14772,7 @@
       "url": "https://github.com/FLEXTool/FLEX",
       "description": "An in-app debugging and exploration tool for iOS",
       "language": "Objective-C",
-      "stars": 14639,
+      "stars": 14642,
       "forks": 1791,
       "topics": [],
       "archived": false,
@@ -14871,8 +14871,8 @@
       "url": "https://github.com/erikdoe/ocmock",
       "description": "Mock objects for Objective-C",
       "language": "Objective-C",
-      "stars": 2168,
-      "forks": 609,
+      "stars": 2167,
+      "forks": 608,
       "topics": [
         "mock-objects",
         "objective-c",
@@ -14992,7 +14992,7 @@
       "url": "https://github.com/AFNetworking/AFNetworking",
       "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
       "language": "Objective-C",
-      "stars": 33370,
+      "stars": 33371,
       "forks": 10610,
       "topics": [],
       "archived": true,
@@ -15043,7 +15043,7 @@
       "url": "https://github.com/CodeTips/BaiduNetdiskPlugin-macOS",
       "description": "For macOS.百度网盘 破解SVIP、下载速度限制~",
       "language": "Objective-C",
-      "stars": 8878,
+      "stars": 8879,
       "forks": 1744,
       "topics": [],
       "archived": true,
@@ -15060,8 +15060,8 @@
       "url": "https://github.com/ChenYilong/iOSInterviewQuestions",
       "description": "iOS interview questions;iOS面试题集锦（附答案）",
       "language": "Swift",
-      "stars": 9549,
-      "forks": 2783,
+      "stars": 9550,
+      "forks": 2784,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -15223,8 +15223,8 @@
       "url": "https://github.com/opencv/opencv",
       "description": "Open Source Computer Vision Library",
       "language": "C++",
-      "stars": 90950,
-      "forks": 57037,
+      "stars": 90959,
+      "forks": 57036,
       "topics": [
         "c-plus-plus",
         "computer-vision",
@@ -15236,7 +15236,7 @@
       "fork": false,
       "license": "Apache-2.0",
       "created_at": "2012-07-19T09:40:17Z",
-      "pushed_at": "2026-09-23T13:20:34Z",
+      "pushed_at": "2026-09-24T13:05:29Z",
       "starred_at": "2018-03-05T02:16:32Z"
     },
     {
@@ -15246,8 +15246,8 @@
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
-      "stars": 174893,
-      "forks": 78580,
+      "stars": 174906,
+      "forks": 78581,
       "topics": [
         "bootstrap",
         "css",
@@ -15261,7 +15261,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2011-07-29T21:19:00Z",
-      "pushed_at": "2026-09-22T16:34:53Z",
+      "pushed_at": "2026-09-24T21:46:51Z",
       "starred_at": "2018-03-05T02:14:36Z"
     },
     {
@@ -15271,8 +15271,8 @@
       "url": "https://github.com/pcottle/learnGitBranching",
       "description": "An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!",
       "language": "JavaScript",
-      "stars": 34064,
-      "forks": 6034,
+      "stars": 34070,
+      "forks": 6036,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -15348,8 +15348,8 @@
       "url": "https://github.com/gogs/gogs",
       "description": "The painless way to host your own Git service",
       "language": "Go",
-      "stars": 47823,
-      "forks": 5070,
+      "stars": 47831,
+      "forks": 5072,
       "topics": [
         "docker",
         "git",
@@ -15412,7 +15412,7 @@
       "description": "The official documentation for Raspberry Pi computers and microcontrollers",
       "language": "Python",
       "stars": 5611,
-      "forks": 2066,
+      "forks": 2065,
       "topics": [
         "asciidoc",
         "documentation",
@@ -15434,7 +15434,7 @@
       "url": "https://github.com/kdn251/interviews",
       "description": "Everything you need to know to get the job.",
       "language": "Java",
-      "stars": 65254,
+      "stars": 65255,
       "forks": 12889,
       "topics": [
         "algorithm",
@@ -15472,7 +15472,7 @@
       "url": "https://github.com/xbmc/xbmc",
       "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
       "language": "C++",
-      "stars": 21247,
+      "stars": 21249,
       "forks": 6602,
       "topics": [
         "android",
@@ -15497,7 +15497,7 @@
       "fork": false,
       "license": "NOASSERTION",
       "created_at": "2011-01-03T21:18:51Z",
-      "pushed_at": "2026-09-23T16:47:16Z",
+      "pushed_at": "2026-09-24T14:51:21Z",
       "starred_at": "2018-03-05T01:51:04Z"
     },
     {
@@ -15507,7 +15507,7 @@
       "url": "https://github.com/greatghoul/remote-working",
       "description": "收集整理远程工作相关的资料",
       "language": "Ruby",
-      "stars": 11755,
+      "stars": 11757,
       "forks": 894,
       "topics": [
         "china",
@@ -15557,8 +15557,8 @@
       "url": "https://github.com/pallets/flask",
       "description": "The Python micro framework for building web applications.",
       "language": "Python",
-      "stars": 74765,
-      "forks": 17002,
+      "stars": 74773,
+      "forks": 17005,
       "topics": [
         "flask",
         "jinja",
@@ -15599,8 +15599,8 @@
       "url": "https://github.com/certbot/certbot",
       "description": "Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
       "language": "Python",
-      "stars": 33249,
-      "forks": 3504,
+      "stars": 33251,
+      "forks": 3502,
       "topics": [
         "acme",
         "acme-client",
@@ -15640,8 +15640,8 @@
       "url": "https://github.com/microsoft/monaco-editor",
       "description": "A browser based code editor",
       "language": "JavaScript",
-      "stars": 46794,
-      "forks": 4134,
+      "stars": 46803,
+      "forks": 4137,
       "topics": [
         "browser",
         "editor",
@@ -15653,7 +15653,7 @@
       "fork": false,
       "license": "MIT",
       "created_at": "2016-06-07T16:56:31Z",
-      "pushed_at": "2026-09-21T23:27:43Z",
+      "pushed_at": "2026-09-24T21:25:23Z",
       "starred_at": "2018-03-01T01:27:16Z"
     },
     {
@@ -15664,7 +15664,7 @@
       "description": "Smooth asynchronous user interfaces for iOS apps.",
       "language": "Objective-C++",
       "stars": 8180,
-      "forks": 1309,
+      "forks": 1310,
       "topics": [
         "asyncdisplaykit",
         "pinterest",
@@ -15686,8 +15686,8 @@
       "url": "https://github.com/HeroTransitions/Hero",
       "description": "Elegant transition library for iOS & tvOS",
       "language": "Swift",
-      "stars": 22488,
-      "forks": 1725,
+      "stars": 22489,
+      "forks": 1724,
       "topics": [
         "animation",
         "animations",
@@ -15755,7 +15755,7 @@
       "url": "https://github.com/resume/resume.github.com",
       "description": "Resumes generated using the GitHub informations",
       "language": "JavaScript",
-      "stars": 62888,
+      "stars": 62887,
       "forks": 1368,
       "topics": [],
       "archived": false,
@@ -15795,8 +15795,8 @@
       "url": "https://github.com/mkdocs/mkdocs",
       "description": "Project documentation with Markdown.",
       "language": "Python",
-      "stars": 22462,
-      "forks": 2647,
+      "stars": 22466,
+      "forks": 2649,
       "topics": [
         "documentation",
         "markdown",
@@ -15818,8 +15818,8 @@
       "url": "https://github.com/arut/nginx-rtmp-module",
       "description": "NGINX-based Media Streaming Server",
       "language": "C",
-      "stars": 14027,
-      "forks": 3578,
+      "stars": 14026,
+      "forks": 3577,
       "topics": [],
       "archived": false,
       "fork": false,
@@ -15836,7 +15836,7 @@
       "description": "Apple airplay and raop protocol server",
       "language": "C",
       "stars": 1406,
-      "forks": 233,
+      "forks": 234,
       "topics": [],
       "archived": false,
       "fork": false,
