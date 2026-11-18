@@ -9,13 +9,13 @@
 
 ---
 
-📊 **662** 个仓库 · **20** 个分类 · 最后同步：`2026-11-17 02:54 UTC` · [github.com/wangzhizhou?tab=stars](https://github.com/wangzhizhou?tab=stars)
+📊 **663** 个仓库 · **20** 个分类 · 最后同步：`2026-11-18 02:24 UTC` · [github.com/wangzhizhou?tab=stars](https://github.com/wangzhizhou?tab=stars)
 
 ## 目录
 
 - [🤖 AI / LLM / 智能体](#cat-1) · 58
 - [📱 Android / Flutter / 跨端](#cat-2) · 17
-- [🍎 Apple / iOS / macOS / Swift](#cat-3) · 308
+- [🍎 Apple / iOS / macOS / Swift](#cat-3) · 309
 - [⛏️ Minecraft / 插件 / 服务端](#cat-4) · 65
 - [🔌 嵌入式 / IoT / 智能家居](#cat-5) · 19
 - [💬 IM 机器人 / 小程序 / 开放平台](#cat-6) · 18
@@ -40,22 +40,22 @@
 
 > 大模型、推理框架、RAG、Agent、扩散模型
 
-- [**rea**](https://github.com/morluto/rea) · ⭐ 464.3k · `TypeScript` · `MIT` — Reverse engineer anything with agents, from app behavior down to native binaries.
-- [**openclaw**](https://github.com/openclaw/openclaw) · ⭐ 394.6k · `TypeScript` · `MIT` — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- [**deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) · ⭐ 282.4k · `TypeScript` · `MIT` — DeepSeek Harness: Everything is a Plugin.
-- [**hermes-agent**](https://github.com/NousResearch/hermes-agent) · ⭐ 263.9k · `Python` · `MIT` — The agent that grows with you
-- [**opencode**](https://github.com/anomalyco/opencode) · ⭐ 227.3k · `TypeScript` · `MIT` — The open source coding agent.
-- [**n8n**](https://github.com/n8n-io/n8n) · ⭐ 210.7k · `TypeScript` — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [**rea**](https://github.com/morluto/rea) · ⭐ 466.5k · `TypeScript` · `MIT` — Reverse engineer anything with agents, from app behavior down to native binaries.
+- [**openclaw**](https://github.com/openclaw/openclaw) · ⭐ 394.7k · `TypeScript` · `MIT` — The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
+- [**deepseek-harness**](https://github.com/deepseek-ai/deepseek-harness) · ⭐ 283.1k · `TypeScript` · `MIT` — DeepSeek Harness: Everything is a Plugin.
+- [**hermes-agent**](https://github.com/NousResearch/hermes-agent) · ⭐ 264.2k · `Python` · `MIT` — The agent that grows with you
+- [**opencode**](https://github.com/anomalyco/opencode) · ⭐ 227.6k · `TypeScript` · `MIT` — The open source coding agent.
+- [**n8n**](https://github.com/n8n-io/n8n) · ⭐ 210.9k · `TypeScript` — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
   > 💡 可视化工作流自动化，带 AI 能力，可以自建
-- [**ollama**](https://github.com/ollama/ollama) · ⭐ 187.3k · `Go` · `MIT` — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [**ollama**](https://github.com/ollama/ollama) · ⭐ 187.4k · `Go` · `MIT` — Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
   > 💡 本地跑开源大模型的起手式。`ollama run qwen2.5` 就能跑，比手搓 llama.cpp 省心
-- [**cc-switch**](https://github.com/farion1231/cc-switch) · ⭐ 155k · `Rust` · `MIT` — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
-- [**codex**](https://github.com/openai/codex) · ⭐ 135.5k · `Rust` · `Apache-2.0` — Lightweight coding agent that runs in your terminal
-- [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) · ⭐ 123.7k · `Jupyter Notebook` · `MIT` — 21 Lessons, Get Started Building with Generative AI
+- [**cc-switch**](https://github.com/farion1231/cc-switch) · ⭐ 155.2k · `Rust` · `MIT` — A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
+- [**codex**](https://github.com/openai/codex) · ⭐ 135.7k · `Rust` · `Apache-2.0` — Lightweight coding agent that runs in your terminal
+- [**generative-ai-for-beginners**](https://github.com/microsoft/generative-ai-for-beginners) · ⭐ 123.8k · `Jupyter Notebook` · `MIT` — 21 Lessons, Get Started Building with Generative AI
   > 💡 生成式 AI 入门课，21 课带代码。想系统过一遍概念时看
-- [**pi**](https://github.com/earendil-works/pi) · ⭐ 122.4k · `TypeScript` · `MIT` — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [**pi**](https://github.com/earendil-works/pi) · ⭐ 122.6k · `TypeScript` · `MIT` — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
   > 💡 AI agent 工具箱：统一 LLM API + agent loop + TUI + 编码 CLI。自己写 agent 时当骨架参考
-- [**whisper**](https://github.com/openai/whisper) · ⭐ 112.9k · `Python` · `MIT` — Robust Speech Recognition via Large-Scale Weak Supervision
+- [**whisper**](https://github.com/openai/whisper) · ⭐ 113.1k · `Python` · `MIT` — Robust Speech Recognition via Large-Scale Weak Supervision
   > 💡 语音转文字。长音频先切片再跑，否则内存/显存吃紧
 - [**DeepSeek-V3**](https://github.com/deepseek-ai/DeepSeek-V3) · ⭐ 104.9k · `Python` · `MIT`
 - [**ML-For-Beginners**](https://github.com/microsoft/ML-For-Beginners) · ⭐ 92.3k · `Jupyter Notebook` · `MIT` — 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
@@ -63,19 +63,19 @@
 - [**DeepSeek-R1**](https://github.com/deepseek-ai/DeepSeek-R1) · ⭐ 92k · `MIT`
 - [**opencv**](https://github.com/opencv/opencv) · ⭐ 91.6k · `C++` · `Apache-2.0` — Open Source Computer Vision Library
   > 💡 计算机视觉标配。Python 装 `opencv-python` 就够，只有写 C++ 才需要编这个仓库
-- [**worldmonitor**](https://github.com/koala73/worldmonitor) · ⭐ 90.8k · `TypeScript` · `AGPL-3.0` — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+- [**worldmonitor**](https://github.com/koala73/worldmonitor) · ⭐ 90.9k · `TypeScript` · `AGPL-3.0` — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
   > 💡 AI 聚合新闻的实时情报面板，关注地缘/基建动态时用
-- [**OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ⭐ 75k · `TypeScript` · `MIT` — Spec-driven development (SDD) for AI coding assistants.
+- [**OpenSpec**](https://github.com/Fission-AI/OpenSpec) · ⭐ 75.1k · `TypeScript` · `MIT` — Spec-driven development (SDD) for AI coding assistants.
   > 💡 给 AI 编码助手做规格驱动开发，先把需求写清楚再让 AI 动手
-- [**GPT-SoVITS**](https://github.com/RVC-Boss/GPT-SoVITS) · ⭐ 65.2k · `Python` · `MIT` — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [**GPT-SoVITS**](https://github.com/RVC-Boss/GPT-SoVITS) · ⭐ 65.3k · `Python` · `MIT` — 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
   > 💡 少样本语音克隆 + TTS，中文效果不错。需要 N 卡
-- [**Pake**](https://github.com/tw93/Pake) · ⭐ 63.7k · `Rust` · `GPL-3.0` — Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
+- [**Pake**](https://github.com/tw93/Pake) · ⭐ 63.8k · `Rust` · `GPL-3.0` — Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
   > 💡 把网页一行命令打包成桌面 App，做内部工具很省事
 - [**litellm**](https://github.com/BerriAI/litellm) · ⭐ 63.4k · `Python` — The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]
   > 💡 把 100+ 家 LLM 的 API 统一成 OpenAI 格式 多模型切换、成本统计、故障转移时用
-- [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) · ⭐ 58.4k · `Python` · `Apache-2.0` — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
+- [**ai-agent-book**](https://github.com/bojieli/ai-agent-book) · ⭐ 58.6k · `Python` · `Apache-2.0` — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
   > 💡 《深入理解 AI Agent》中文开源书，带编译版 PDF 和按章代码
-- [**multica**](https://github.com/multica-ai/multica) · ⭐ 56.4k · `Go` — Make humans and AI agents work as one team — open-source and self-hostable.
+- [**multica**](https://github.com/multica-ai/multica) · ⭐ 56.5k · `Go` — Make humans and AI agents work as one team — open-source and self-hostable.
   > 💡 人与 AI agent 协作的平台，可自建
 - [~~**gpt-engineer**~~ `已归档`](https://github.com/AntonOsika/gpt-engineer) · ⭐ 55k · `Python` · `MIT` — CLI platform to experiment with codegen. Precursor to: https://lovable.dev
   > 💡 自然语言生成代码骨架的早期实验，看思路用，不是日常工具
@@ -83,16 +83,16 @@
 - [**Folo**](https://github.com/RSSNext/Folo) · ⭐ 39.3k · `TypeScript` · `AGPL-3.0` — 🧡 Folo is the AI RSS Reader
 - [**khoj**](https://github.com/khoj-ai/khoj) · ⭐ 38.2k · `Python` · `AGPL-3.0` — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
 - [**one-api**](https://github.com/songquanpeng/one-api) · ⭐ 37.4k · `JavaScript` · `MIT` — LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-- [**github-mcp-server**](https://github.com/github/github-mcp-server) · ⭐ 34.5k · `Go` · `MIT` — GitHub's official MCP Server
+- [**github-mcp-server**](https://github.com/github/github-mcp-server) · ⭐ 34.6k · `Go` · `MIT` — GitHub's official MCP Server
 - [**semantic-kernel**](https://github.com/microsoft/semantic-kernel) · ⭐ 28.8k · `C#` · `MIT` — Integrate cutting-edge LLM technology quickly and easily into your apps
 - [**whisperX**](https://github.com/m-bain/whisperX) · ⭐ 25.4k · `Python` · `BSD-2-Clause` — WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [**pua**](https://github.com/tanweai/pua) · ⭐ 19.9k · `Python` — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. | Lead: Minwei Wang (https://www.minwei.wang · ORCID: 0009-0002-7976-4689 · DOI: 10.5281/zenodo.24156132)
-- [**hermes-webui**](https://github.com/nesquena/hermes-webui) · ⭐ 19.5k · `Python` · `MIT` — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
+- [**hermes-webui**](https://github.com/nesquena/hermes-webui) · ⭐ 19.6k · `Python` · `MIT` — Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!
 - [**CodeFormer**](https://github.com/sczhou/CodeFormer) · ⭐ 18.2k · `Python` — [NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer
-- [**mobile-mcp**](https://github.com/mobile-next/mobile-mcp) · ⭐ 10.6k · `TypeScript` · `Apache-2.0` — Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.
+- [**mobile-mcp**](https://github.com/mobile-next/mobile-mcp) · ⭐ 10.7k · `TypeScript` · `Apache-2.0` — Mobile MCP: let AI agents drive your iOS and Android apps. MCP server for simulators, emulators and real devices. Works with Claude Code, Codex, Cursor and any MCP client.
 - [**opencv_contrib**](https://github.com/opencv/opencv_contrib) · ⭐ 10.2k · `C++` · `Apache-2.0` — Repository for OpenCV's extra modules
 - [**Book4_Power-of-Matrix**](https://github.com/Visualize-ML/Book4_Power-of-Matrix) · ⭐ 10.2k · `Jupyter Notebook` — Book_4_《矩阵力量》 |   鸢尾花书：从加减乘除到机器学习；上架！
-- [**Awesome-Embedded**](https://github.com/nhivp/Awesome-Embedded) · ⭐ 9.3k · `Unlicense` — A curated list of awesome embedded programming.
+- [**Awesome-Embedded**](https://github.com/nhivp/Awesome-Embedded) · ⭐ 9.4k · `Unlicense` — A curated list of awesome embedded programming.
 - [**ml-sharp**](https://github.com/apple-aiml-research/ml-sharp) · ⭐ 9.1k · `Python` — Sharp Monocular View Synthesis in Less Than a Second
 - [~~**clone-voice**~~ `已归档`](https://github.com/jianchang512/clone-voice) · ⭐ 9k · `Python` — A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频
 - [**CopilotForXcode**](https://github.com/intitni/CopilotForXcode) · ⭐ 8.2k · `Swift` · `MIT` — The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
@@ -101,7 +101,7 @@
 - [**argmax-oss-swift**](https://github.com/argmaxinc/argmax-oss-swift) · ⭐ 6.5k · `Swift` · `MIT` — On-device Speech AI for Apple Silicon
 - [~~**swift**~~ `已归档`](https://github.com/tensorflow/swift) · ⭐ 6.1k · `Jupyter Notebook` · `Apache-2.0` — Swift for TensorFlow
 - [**enchanted**](https://github.com/gluonfield/enchanted) · ⭐ 6k · `Swift` · `Apache-2.0` — Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.
-- [**Swift-Agent-Skills**](https://github.com/twostraws/Swift-Agent-Skills) · ⭐ 3k · `MIT` — A curated directory of open-source AI agent skills for Swift and Apple platform development.
+- [**Swift-Agent-Skills**](https://github.com/twostraws/Swift-Agent-Skills) · ⭐ 3.1k · `MIT` — A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [**OpenAI**](https://github.com/MacPaw/OpenAI) · ⭐ 3k · `Swift` · `MIT` — Swift community driven package for OpenAI public API
 - [**gse**](https://github.com/go-ego/gse) · ⭐ 2.8k · `Go` · `Apache-2.0` — Go efficient fast multilingual NLP and text segmentation; support English, Chinese, Japanese and others.
 - [**MinecraftDev**](https://github.com/minecraft-dev/MinecraftDev) · ⭐ 1.8k · `Kotlin` · `LGPL-3.0` — Plugin for IntelliJ IDEA that gives special support for Minecraft modding projects.
@@ -111,7 +111,7 @@
 - [**opencv_extra**](https://github.com/opencv/opencv_extra) · ⭐ 979 — OpenCV extra data
 - [**RocketSimApp**](https://github.com/AvdLee/RocketSimApp) · ⭐ 814 · `Swift` — RocketSim — 30+ tools for Xcode's iOS Simulator. Testing, debugging, network monitoring, captures, accessibility, app actions, and AI agent automation via the RocketSim CLI. Used by 80k+ developers.
 - [**openclaw-qqbot-formal**](https://github.com/ryanlee-gemini/openclaw-qqbot-formal) · ⭐ 222 · `TypeScript` · `MIT` — QQ Bot Channel Plugin for OpenClaw
-- [**herdrchat**](https://github.com/cobanov/herdrchat) · ⭐ 73 · `TypeScript` · `Apache-2.0` — Control your herdr coding agents from your phone. On the App Store for iPhone and iPad.
+- [**herdrchat**](https://github.com/cobanov/herdrchat) · ⭐ 76 · `TypeScript` · `Apache-2.0` — Control your herdr coding agents from your phone. On the App Store for iPhone and iPad.
 - [**opencode**](https://github.com/paean-ai/opencode) · ⭐ 2 · `TypeScript` · `MIT` — The open source coding agent.
 
 <a id="cat-2"></a>
@@ -120,7 +120,7 @@
 
 > 放在 Apple 之前，避免跨端框架被 Apple 误收
 
-- [**flutter**](https://github.com/flutter/flutter) · ⭐ 181.3k · `Dart` · `BSD-3-Clause` — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- [**flutter**](https://github.com/flutter/flutter) · ⭐ 181.4k · `Dart` · `BSD-3-Clause` — Flutter makes it easy and fast to build beautiful apps for mobile and beyond
   > 💡 Flutter 跨端框架，一套代码出 iOS / Android / 桌面 / Web
 - [**expo**](https://github.com/expo/expo) · ⭐ 53.6k · `TypeScript` · `MIT` — An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
   > 💡 React Native 开发框架，免配置上手，用 Expo Go 真机预览
@@ -142,15 +142,15 @@
 
 <a id="cat-3"></a>
 
-## 🍎 Apple / iOS / macOS / Swift (308)
+## 🍎 Apple / iOS / macOS / Swift (309)
 
 > Swift 生态（含服务端 Swift）、iOS / macOS / watchOS 开发与工具
 
-- [**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) · ⭐ 190.6k · `Shell` · `MIT` — 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+- [**ohmyzsh**](https://github.com/ohmyzsh/ohmyzsh) · ⭐ 190.8k · `Shell` · `MIT` — 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
   > 💡 zsh 配置框架。装完改 `~/.zshrc` 选主题和插件，别一股脑全开，会拖慢启动
 - [**the-art-of-command-line**](https://github.com/jlevy/the-art-of-command-line) · ⭐ 162.8k — Master the command line, in one page
   > 💡 命令行速查，一页纸。忘了某个命令时翻
-- [**Mole**](https://github.com/tw93/Mole) · ⭐ 75.3k · `Shell` · `GPL-3.0` — 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
+- [**Mole**](https://github.com/tw93/Mole) · ⭐ 75.4k · `Shell` · `GPL-3.0` — 🐹 Open-source Mac and PC cleaner. Keep your machine clean, light, and running like new. Fast CLI, plus native Mac and Windows apps.
   > 💡 Mac 清理 / 卸载 / 磁盘分析，可以替代 CleanMyMac
 - [**ImHex**](https://github.com/WerWolv/ImHex) · ⭐ 55.9k · `C++` · `GPL-2.0` — 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
   > 💡 逆向用的十六进制编辑器，能写 pattern 脚本解析自定义文件格式
@@ -158,9 +158,9 @@
   > 💡 iOS 生态资源总入口，找轮子先翻这个
 - [**Docker-OSX**](https://github.com/sickcodes/Docker-OSX) · ⭐ 53k · `Shell` · `GPL-3.0` — Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
   > 💡 Docker 里跑 macOS，用于安全研究和逆向。注意授权和性能
-- [**container**](https://github.com/apple/container) · ⭐ 51.7k · `Swift` · `Apache-2.0` — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+- [**container**](https://github.com/apple/container) · ⭐ 51.8k · `Swift` · `Apache-2.0` — A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
   > 💡 Apple Silicon 上用轻量虚拟机跑 Linux 容器，可以替代 Docker Desktop
-- [**iina**](https://github.com/iina/iina) · ⭐ 47.1k · `Swift` · `GPL-3.0` — The modern video player for macOS.
+- [**iina**](https://github.com/iina/iina) · ⭐ 47.2k · `Swift` · `GPL-3.0` — The modern video player for macOS.
   > 💡 macOS 播放器，内核是 mpv。遇到奇怪格式播不了先用它试
 - [**Alamofire**](https://github.com/Alamofire/Alamofire) · ⭐ 42.4k · `Swift` · `MIT` — Elegant HTTP Networking in Swift
   > 💡 iOS 网络层首选。只有几个请求的话直接用 URLSession，别为这点需求引依赖
@@ -219,7 +219,7 @@
   > 💡 非越狱设备上的第三方 App Store，用 Apple ID 自签
 - [**CocoaPods**](https://github.com/CocoaPods/CocoaPods) · ⭐ 14.8k · `Ruby` — The Cocoa Dependency Manager.
   > 💡 Cocoa 依赖管理，老项目还在用。新项目优先 SPM
-- [**FLEX**](https://github.com/FLEXTool/FLEX) · ⭐ 14.6k · `Objective-C` — An in-app debugging and exploration tool for iOS
+- [**FLEX**](https://github.com/FLEXTool/FLEX) · ⭐ 14.7k · `Objective-C` — An in-app debugging and exploration tool for iOS
   > 💡 App 内调试面板，看网络请求 / 视图层级 / 沙盒文件
 - [**YYKit**](https://github.com/ibireme/YYKit) · ⭐ 14k · `Objective-C` · `MIT` — A collection of iOS components.
   > 💡 YY 系列 iOS 组件（ObjC），高性能文本 / 图片。老项目参考
@@ -243,7 +243,7 @@
 - [**R.swift**](https://github.com/mac-cain13/R.swift) · ⭐ 9.5k · `Swift` · `MIT` — Strong typed, autocompleted resources like images, fonts and segues in Swift projects
 - [**SwiftGen**](https://github.com/SwiftGen/SwiftGen) · ⭐ 9.5k · `Swift` · `MIT` — The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
 - [~~**PojavLauncher**~~ `已归档`](https://github.com/PojavLauncherTeam/PojavLauncher) · ⭐ 9.5k · `Java` · `LGPL-3.0` — A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-Android
-- [**Telegram-iOS**](https://github.com/TelegramMessenger/Telegram-iOS) · ⭐ 9.4k · `Swift` — Telegram-iOS
+- [**Telegram-iOS**](https://github.com/TelegramMessenger/Telegram-iOS) · ⭐ 9.5k · `Swift` — Telegram-iOS
 - [~~**BaiduNetdiskPlugin-macOS**~~ `已归档`](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) · ⭐ 8.9k · `Objective-C` · `MIT` — For macOS.百度网盘 破解SVIP、下载速度限制~
 - [**YYText**](https://github.com/ibireme/YYText) · ⭐ 8.9k · `Objective-C` · `MIT` — Powerful text framework for iOS to display and edit rich text.
 - [**QuickRecorder**](https://github.com/lihaoyun6/QuickRecorder) · ⭐ 8.8k · `Swift` · `AGPL-3.0` — A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
@@ -352,8 +352,8 @@
 - [**Pageboy**](https://github.com/uias/Pageboy) · ⭐ 2k · `Swift` · `MIT` — 📖 A simple, highly informative page view controller
 - [**cliclick**](https://github.com/BlueM/cliclick) · ⭐ 2k · `Objective-C` — macOS CLI tool for emulating mouse and keyboard events
 - [~~**C-41**~~ `已归档`](https://github.com/ashfurrow/C-41) · ⭐ 2k · `Objective-C` · `MIT` — C-41 is an application to help people develop film at home by providing a series of "recipes" for photographers to use.
-- [**Plot**](https://github.com/JohnSundell/Plot) · ⭐ 2k · `Swift` · `MIT` — A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [**idevicerestore**](https://github.com/libimobiledevice/idevicerestore) · ⭐ 2k · `C` · `LGPL-3.0` — Restore/upgrade firmware of iOS devices
+- [**Plot**](https://github.com/JohnSundell/Plot) · ⭐ 2k · `Swift` · `MIT` — A DSL for writing type-safe HTML, XML and RSS in Swift.
 - [**swift-book**](https://github.com/swiftlang/swift-book) · ⭐ 2k · `Markdown` · `Apache-2.0` — The Swift Programming Language book
 - [**swift-openapi-generator**](https://github.com/apple/swift-openapi-generator) · ⭐ 2k · `Swift` · `Apache-2.0` — Generate Swift client and server code from an OpenAPI document.
 - [**hummingbird**](https://github.com/hummingbird-project/hummingbird) · ⭐ 1.9k · `Swift` · `Apache-2.0` — Lightweight, flexible HTTP server framework written in Swift
@@ -388,7 +388,7 @@
 - [**swift-embedded-examples**](https://github.com/swiftlang/swift-embedded-examples) · ⭐ 1k · `Swift` · `Apache-2.0` — A collection of example projects using Embedded Swift
 - [**swift-http-types**](https://github.com/apple/swift-http-types) · ⭐ 1k · `Swift` · `Apache-2.0` — Version-independent HTTP currency types for Swift
 - [**Roadmap**](https://github.com/AvdLee/Roadmap) · ⭐ 983 · `Swift` · `MIT` — Publish your roadmap inside your app and allow users to vote for upcoming features
-- [**swiftly**](https://github.com/swiftlang/swiftly) · ⭐ 978 · `Swift` · `Apache-2.0` — A Swift toolchain installer and manager, written in Swift.
+- [**swiftly**](https://github.com/swiftlang/swiftly) · ⭐ 979 · `Swift` · `Apache-2.0` — A Swift toolchain installer and manager, written in Swift.
 - [**ios-icon-generator**](https://github.com/smallmuou/ios-icon-generator) · ⭐ 970 · `Shell` — This script is use to generate iOS/macOS/watchOS app icons more easier.
 - [**iOSSampleApp**](https://github.com/igorkulman/iOSSampleApp) · ⭐ 899 · `Swift` · `MIT` — Sample iOS app demonstrating Coordinators, Dependency Injection, MVVM, Binding
 - [**APNSwift**](https://github.com/kylebrowning/APNSwift) · ⭐ 860 · `Swift` · `Apache-2.0` — 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
@@ -404,10 +404,10 @@
 - [**GoogleSignIn-iOS**](https://github.com/google/GoogleSignIn-iOS) · ⭐ 759 · `Objective-C` · `Apache-2.0` — Enables iOS and macOS apps to sign in with Google.
 - [**swift-subprocess**](https://github.com/swiftlang/swift-subprocess) · ⭐ 743 · `Swift` · `Apache-2.0` — Subprocess is a cross-platform package for spawning processes in Swift.
 - [**QRCode**](https://github.com/dagronf/QRCode) · ⭐ 726 · `Swift` · `MIT` — A quick and beautiful macOS/iOS/tvOS/watchOS QR Code generator/detector library for SwiftUI, Swift and Objective-C.
-- [**JWTDecode.swift**](https://github.com/auth0/JWTDecode.swift) · ⭐ 710 · `Swift` · `MIT` — A JWT decoder for iOS, macOS, tvOS, and watchOS
+- [**JWTDecode.swift**](https://github.com/auth0/JWTDecode.swift) · ⭐ 711 · `Swift` · `MIT` — A JWT decoder for iOS, macOS, tvOS, and watchOS
 - [**SwiftPackageIndex-Server**](https://github.com/SwiftPackageIndex/SwiftPackageIndex-Server) · ⭐ 700 · `Swift` · `Apache-2.0` — The Swift Package Index is the place to find and explore Swift packages
 - [**AppOrderFiles**](https://github.com/yulingtianxia/AppOrderFiles) · ⭐ 692 · `Objective-C` · `MIT` — The easiest way to generate order files for Mach-O using Clang. Improving App Performance.
-- [**Provision**](https://github.com/Dadoum/Provision) · ⭐ 688 · `D` — Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
+- [**Provision**](https://github.com/Dadoum/Provision) · ⭐ 687 · `D` — Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.
 - [**swift-distributed-actors**](https://github.com/apple/swift-distributed-actors) · ⭐ 679 · `Swift` · `Apache-2.0` — Peer-to-peer cluster implementation for Swift Distributed Actors
 - [**LSSafeProtector**](https://github.com/lsmakethebest/LSSafeProtector) · ⭐ 670 · `Objective-C` · `MIT` — 强大的防止crash框架，不改变原代码支持KVO自释放，可以检测到dealloc时未释放的kvo，等19种crash
 - [**protobuf-objc**](https://github.com/alexeyxo/protobuf-objc) · ⭐ 663 · `Objective-C` · `Apache-2.0` — Google Protocol Buffers for Objective-C
@@ -493,6 +493,7 @@
 - [**AiloveReel**](https://github.com/PoisonousJohn/AiloveReel) · ⭐ 5 · `Objective-C` — Cocos2d implementation of 3d slot machine reel
 - [**video-dii-materials**](https://github.com/kodecocodes/video-dii-materials) · ⭐ 5 · `Swift` · `Apache-2.0` — The projects and the materials that accompany the Drawing in iOS with SwiftUI course
 - [**WLAssertionHandler**](https://github.com/stoneeagle/WLAssertionHandler) · ⭐ 2 · `Objective-C` · `MIT` — 用弹窗的方式来处理NSAssert/NSCAssert & NSParameterAssert / NSCParameterAssert
+- [**APNs-Helper**](https://github.com/wangzhizhou/APNs-Helper) · ⭐ 1 · `Swift` · `Apache-2.0` — A Tool run on MacOS that can send APNs Notifications for Test
 
 <a id="cat-4"></a>
 
@@ -558,7 +559,7 @@
 - [**Documentation**](https://github.com/MinecraftForge/Documentation) · ⭐ 513 · `HTML` · `MIT` — Read the docs MinecraftForge documentation
 - [**triumph-gui**](https://github.com/TriumphTeam/triumph-gui) · ⭐ 463 · `Java` · `MIT` — Simple lib to create inventory GUIs for Bukkit platforms.
 - [**MCprep**](https://github.com/Moo-Ack-Productions/MCprep) · ⭐ 391 · `Python` · `GPL-3.0` — Blender python addon to increase workflow for creating minecraft renders and animations
-- [**run-task**](https://github.com/jpenilla/run-task) · ⭐ 366 · `Kotlin` · `Apache-2.0` — Gradle plugins adding tasks to run Minecraft server and proxy software
+- [**run-task**](https://github.com/jpenilla/run-task) · ⭐ 365 · `Kotlin` · `Apache-2.0` — Gradle plugins adding tasks to run Minecraft server and proxy software
 - [**GriefPrevention**](https://github.com/GriefPrevention/GriefPrevention) · ⭐ 334 · `Java` · `GPL-3.0` — The official self-service anti-griefing Bukkit plugin for Minecraft servers since 2011.
 - [**paperweight**](https://github.com/PaperMC/paperweight) · ⭐ 320 · `Kotlin` — Gradle build system plugin for Paper and Paper forks
 - [**Hangar**](https://github.com/HangarMC/Hangar) · ⭐ 285 · `Java` · `MIT` — A plugin repository used for paper plugins
@@ -572,7 +573,7 @@
 - [**MinecraftSystemdUnit**](https://github.com/agowa/MinecraftSystemdUnit) · ⭐ 106 · `MIT` — Systemd Unit file for Minecraft Server
 - [**mcipc**](https://github.com/conqp/mcipc) · ⭐ 83 · `Python` · `GPL-3.0` — A Minecraft server inter-process communication library.
 - [**diff-viewer**](https://github.com/PaperMC/diff-viewer) · ⭐ 53 · `TypeScript` — Featureful and performant web-based diff viewer
-- [**EaglerXPaper**](https://github.com/PlanetDogeCodes/EaglerXPaper) · ⭐ 23 · `Java` — A fork of the EaglerXServer plugin that allows native PaperMC compatibility up to 26.x and down to 1.8.x
+- [**EaglerXPaper**](https://github.com/PlanetDogeCodes/EaglerXPaper) · ⭐ 24 · `Java` — A fork of the EaglerXServer plugin that allows native PaperMC compatibility up to 26.x and down to 1.8.x
 - [**SiS**](https://github.com/miaoscraft/SiS) · ⭐ 23 · `Go` · `MIT` — Minecraft服务器Q群白名单与综合管理系统
 - [**death-chest**](https://github.com/DevCyntrix/death-chest) · ⭐ 19 · `Java` · `MIT` — A spigot plugin for spawning a chest when the player dies. It supports ProtocolLib, WorldGuard, and PlotSquared for additional features
 - [**hangar-publish-plugin**](https://github.com/HangarMC/hangar-publish-plugin) · ⭐ 17 · `Kotlin` · `Apache-2.0` — Gradle plugin for publishing artifacts to Hangar
@@ -589,7 +590,7 @@
 
 > 单片机、固件、传感器、Home Assistant 等
 
-- [**core**](https://github.com/home-assistant/core) · ⭐ 92.3k · `Python` · `Apache-2.0` — :house_with_garden: Open source home automation that puts local control and privacy first.
+- [**core**](https://github.com/home-assistant/core) · ⭐ 92.5k · `Python` · `Apache-2.0` — :house_with_garden: Open source home automation that puts local control and privacy first.
   > 💡 智能家居中枢。能把小米 / Yeelight 等设备统一接入并做自动化
 - [**gogs**](https://github.com/gogs/gogs) · ⭐ 47.9k · `Go` · `MIT` — The painless way to host your own Git service
   > 💡 自建 Git 服务，比 GitLab 轻得多，树莓派也能跑
@@ -618,7 +619,7 @@
 - [**pinn**](https://github.com/procount/pinn) · ⭐ 1.4k · `Makefile` — An enhanced Operating System installer for the Raspberry Pi
   > 💡 树莓派多系统启动管理器
 - [**open-ath9k-htc-firmware**](https://github.com/qca/open-ath9k-htc-firmware) · ⭐ 487 · `C` — The firmware for QCA AR7010/AR9271 802.11n USB NICs
-- [**ACR122U-reader-writer**](https://github.com/mdeverdelhan/ACR122U-reader-writer) · ⭐ 231 · `Java` · `MIT` — A simple tool to read/write Mifare RFID tags with an ACR122U device
+- [**ACR122U-reader-writer**](https://github.com/mdeverdelhan/ACR122U-reader-writer) · ⭐ 230 · `Java` · `MIT` — A simple tool to read/write Mifare RFID tags with an ACR122U device
   > 💡 读写 Mifare 卡的工具，门禁卡研究用
 - [**CSerialPort**](https://github.com/liquanhai/CSerialPort) · ⭐ 83 · `C++` — The latest modified version of Remon Spekreijse's serial port class
   > 💡 跨平台串口库，C++ 上位机通信用
@@ -661,7 +662,7 @@
   > 💡 内网穿透，把家里 / 公司的服务映射到公网
 - [**caddy**](https://github.com/caddyserver/caddy) · ⭐ 79.1k · `Go` · `Apache-2.0` — Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
   > 💡 自动申请 HTTPS 证书的 Web 服务器，Caddyfile 比 nginx.conf 好写得多
-- [**FFmpeg**](https://github.com/FFmpeg/FFmpeg) · ⭐ 67.4k · `C` — Mirror of https://git.ffmpeg.org/ffmpeg.git
+- [**FFmpeg**](https://github.com/FFmpeg/FFmpeg) · ⭐ 67.6k · `C` — Mirror of https://git.ffmpeg.org/ffmpeg.git
   > 💡 音视频处理瑞士军刀。转码 / 剪辑 / 推流都靠它，参数得查文档
 - [**acme.sh**](https://github.com/acmesh-official/acme.sh) · ⭐ 48k · `Shell` · `GPL-3.0` — A pure Unix shell script ACME client for SSL / TLS certificate automation
   > 💡 纯 shell 的证书自动续期，比 certbot 轻
@@ -682,7 +683,7 @@
   > 💡 把 USB 摄像头变成 MJPEG 流，树莓派监控用
 - [~~**wireguard-monolithic-historical**~~ `已归档`](https://github.com/WireGuard/wireguard-monolithic-historical) · ⭐ 2.3k · `C` · `GPL-2.0` — Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat.
 - [**shadowsocksr-libev**](https://github.com/shadowsocksr-backup/shadowsocksr-libev) · ⭐ 768 · `C` · `GPL-3.0` — libev port of ShadowsocksR
-- [**wireguard**](https://github.com/atrandys/wireguard) · ⭐ 752 · `Shell`
+- [**wireguard**](https://github.com/atrandys/wireguard) · ⭐ 753 · `Shell`
 - [**Platinum**](https://github.com/plutinosoft/Platinum) · ⭐ 525 · `C++` — UPnP SDK
   > 💡 UPnP / DLNA SDK，做投屏 / 媒体服务器时参考
 - [**ShadowsocksX-NG-R8-Bakup**](https://github.com/VeniZ/ShadowsocksX-NG-R8-Bakup) · ⭐ 135 — Backup for ShadowsocksX-NG-R8.
@@ -693,15 +694,15 @@
 
 ## 🌐 前端 / Web (24)
 
-- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) · ⭐ 459.2k · `TypeScript` · `BSD-3-Clause` — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+- [**freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp) · ⭐ 459.3k · `TypeScript` · `BSD-3-Clause` — freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
   > 💡 免费编程课程，课程 + 项目 + 认证。打基础用
-- [**react**](https://github.com/react/react) · ⭐ 252.7k · `JavaScript` · `MIT` — The library for web and native user interfaces.
+- [**react**](https://github.com/react/react) · ⭐ 252.9k · `JavaScript` · `MIT` — The library for web and native user interfaces.
   > 💡 React 本体。查 API 看文档就行，仓库代码不太用翻
 - [**bootstrap**](https://github.com/twbs/bootstrap) · ⭐ 175.1k · `MDX` · `MIT` — The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
   > 💡 CSS 框架。快速搭原型或后台管理页时省事
-- [**next.js**](https://github.com/vercel/next.js) · ⭐ 143.6k · `JavaScript` · `MIT` — The React Framework
+- [**next.js**](https://github.com/vercel/next.js) · ⭐ 143.7k · `JavaScript` · `MIT` — The React Framework
   > 💡 React 全栈框架，SSR / SSG / 路由都包了
-- [**electron**](https://github.com/electron/electron) · ⭐ 123.9k · `C++` · `MIT` — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
+- [**electron**](https://github.com/electron/electron) · ⭐ 124k · `C++` · `MIT` — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
   > 💡 用 Web 技术写跨平台桌面 App。包体积大和内存占用是硬伤
 - [**hugo**](https://github.com/gohugoio/hugo) · ⭐ 90.5k · `Go` · `Apache-2.0` — The world’s fastest framework for building websites.
   > 💡 静态站生成器，构建快到离谱。建博客 / 文档站首选
@@ -711,7 +712,7 @@
   > 💡 VS Code 的编辑器内核，网页里要嵌代码编辑器就用它
 - [**appsmith**](https://github.com/appsmithorg/appsmith) · ⭐ 41.3k · `TypeScript` · `Apache-2.0` — Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
   > 💡 拖拉拽搭内部管理后台，少写前端
-- [**xyflow**](https://github.com/xyflow/xyflow) · ⭐ 39k · `TypeScript` · `MIT` — React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+- [**xyflow**](https://github.com/xyflow/xyflow) · ⭐ 39.1k · `TypeScript` · `MIT` — React Flow | Svelte Flow | Vue Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev) and Vue (https://vueflow.dev). Ready out-of-the-box and infinitely customizable.
   > 💡 React / Svelte 的节点连线画布，做流程图 / 工作流编辑器
 - [**rxjs**](https://github.com/ReactiveX/rxjs) · ⭐ 31.7k · `TypeScript` · `Apache-2.0` — A reactive programming library for JavaScript
   > 💡 JS 响应式编程，Angular 项目里常见
@@ -742,16 +743,16 @@
 
 ## ⚙️ 后端 / 架构 / 分布式 (14)
 
-- [**tauri**](https://github.com/tauri-apps/tauri) · ⭐ 112.9k · `Rust` · `Apache-2.0` — Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [**system-design-101**](https://github.com/ByteByteGoHq/system-design-101) · ⭐ 91.2k — Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [**tauri**](https://github.com/tauri-apps/tauri) · ⭐ 113.1k · `Rust` · `Apache-2.0` — Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+- [**system-design-101**](https://github.com/ByteByteGoHq/system-design-101) · ⭐ 91.3k — Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
   > 💡 系统设计图解，面试和复习都用
-- [**flask**](https://github.com/pallets/flask) · ⭐ 75.2k · `Python` · `BSD-3-Clause` — The Python micro framework for building web applications.
+- [**flask**](https://github.com/pallets/flask) · ⭐ 75.4k · `Python` · `BSD-3-Clause` — The Python micro framework for building web applications.
   > 💡 Python 微框架，小服务 / 原型够用。大项目再考虑 FastAPI / Django
 - [**protobuf**](https://github.com/protocolbuffers/protobuf) · ⭐ 72.2k · `C++` — Protocol Buffers - Google's data interchange format
   > 💡 跨语言序列化格式，gRPC 的底座。比 JSON 小且快
 - [**awesome-design-patterns**](https://github.com/DovAmir/awesome-design-patterns) · ⭐ 49.8k — A curated list of software and architecture related design patterns.
   > 💡 设计模式大全，各种语言的实现都有
-- [**system-design**](https://github.com/karanpratapsingh/system-design) · ⭐ 46.9k — Learn how to design systems at scale and prepare for system design interviews
+- [**system-design**](https://github.com/karanpratapsingh/system-design) · ⭐ 47k — Learn how to design systems at scale and prepare for system design interviews
   > 💡 系统设计教程，和 system-design-101 互补
 - [**aria2**](https://github.com/aria2/aria2) · ⭐ 43.5k · `C++` · `GPL-2.0` — aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
   > 💡 多线程下载器，配 AriaNg 当离线下载用
@@ -782,9 +783,9 @@
 
 ## ☁️ DevOps / 云原生 / 运维 (7)
 
-- [**awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) · ⭐ 337.8k — A list of Free Software network services and web applications which can be hosted on your own servers
+- [**awesome-selfhosted**](https://github.com/awesome-selfhosted/awesome-selfhosted) · ⭐ 338.1k — A list of Free Software network services and web applications which can be hosted on your own servers
   > 💡 可自建的开源服务清单，想自托管什么先来这找
-- [**compose**](https://github.com/docker/compose) · ⭐ 38.9k · `Go` · `Apache-2.0` — Define and run multi-container applications with Docker
+- [**compose**](https://github.com/docker/compose) · ⭐ 39.1k · `Go` · `Apache-2.0` — Define and run multi-container applications with Docker
 - [**cosmopolitan**](https://github.com/jart/cosmopolitan) · ⭐ 21.4k · `C` · `ISC` — build-once run-anywhere c library
 - [**kata-containers**](https://github.com/kata-containers/kata-containers) · ⭐ 9.2k · `Rust` · `Apache-2.0` — Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [**gocd**](https://github.com/gocd/gocd) · ⭐ 7.4k · `Java` · `Apache-2.0` — GoCD - Continuous Delivery server main repository
@@ -814,10 +815,10 @@
 
 ## 🎮 游戏 / 图形 / 音视频 (11)
 
-- [**obs-studio**](https://github.com/obsproject/obs-studio) · ⭐ 79.6k · `C` · `GPL-2.0` — OBS Studio - Free and open source software for live streaming and screen recording
+- [**obs-studio**](https://github.com/obsproject/obs-studio) · ⭐ 79.8k · `C` · `GPL-2.0` — OBS Studio - Free and open source software for live streaming and screen recording
   > 💡 录屏 / 直播软件
 - [**mpv**](https://github.com/mpv-player/mpv) · ⭐ 38.2k · `C` — 🎥 Command line media player
-- [**blender**](https://github.com/blender/blender) · ⭐ 22.1k · `C++` — Official mirror of Blender
+- [**blender**](https://github.com/blender/blender) · ⭐ 22.2k · `C++` — Official mirror of Blender
 - [**musicbox**](https://github.com/darknessomi/musicbox) · ⭐ 9.9k · `Python` · `MIT` — 网易云音乐命令行版本
 - [**libpag**](https://github.com/Tencent/libpag) · ⭐ 5.8k · `HTML` — The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 - [**DistroAV**](https://github.com/DistroAV/DistroAV) · ⭐ 4.6k · `C++` · `GPL-2.0` — DistroAV (formerly OBS-NDI): NDI integration for OBS Studio
@@ -825,15 +826,15 @@
 - [**nsfplay**](https://github.com/bbbradsmith/nsfplay) · ⭐ 327 · `C++` — Nintendo NES sound file NSF music player
 - [**Fish-eye-Image-Correction-Code**](https://github.com/wangzhizhou/Fish-eye-Image-Correction-Code) · ⭐ 271 · `Python` · `MIT` — This is my paper "Correction of single circular fisheye image" related program code
 - [**ffxiv-best-craft**](https://github.com/Tnze/ffxiv-best-craft) · ⭐ 240 · `Vue` · `AGPL-3.0` — A crafting simulator and solver for FF14 with friendly GUI.
-- [**keygen-music**](https://github.com/sxiii/keygen-music) · ⭐ 125 · `Shell` — Keygen Music Opensource Radio Repository
+- [**keygen-music**](https://github.com/sxiii/keygen-music) · ⭐ 126 · `Shell` — Keygen Music Opensource Radio Repository
 
 <a id="cat-15"></a>
 
 ## 🖥️ 系统 / 底层 / 编译器 (16)
 
-- [**linux**](https://github.com/torvalds/linux) · ⭐ 255.9k · `C` — Linux kernel source tree
+- [**linux**](https://github.com/torvalds/linux) · ⭐ 256.2k · `C` — Linux kernel source tree
   > 💡 Linux 内核源码。当资料库按需查，别指望通读
-- [**rust**](https://github.com/rust-lang/rust) · ⭐ 122.1k · `Rust` · `Apache-2.0` — Empowering everyone to build reliable and efficient software.
+- [**rust**](https://github.com/rust-lang/rust) · ⭐ 122.3k · `Rust` · `Apache-2.0` — Empowering everyone to build reliable and efficient software.
   > 💡 Rust 语言本体，看 std 实现和 RFC 讨论
 - [**llvm-project**](https://github.com/llvm/llvm-project) · ⭐ 41.5k · `LLVM` — The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
   > 💡 LLVM / Clang 源码，搞编译器后端时看
@@ -865,25 +866,25 @@
 
 ## 🛠️ 开发工具 / 效率 / CLI (28)
 
-- [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) · ⭐ 208.4k · `Python` · `Unlicense` — A feature-rich command-line audio/video downloader
+- [**yt-dlp**](https://github.com/yt-dlp/yt-dlp) · ⭐ 208.7k · `Python` · `Unlicense` — A feature-rich command-line audio/video downloader
   > 💡 下载视频 / 音频的首选，比 youtube-dl 活跃得多
 - [**youtube-dl**](https://github.com/ytdl-org/youtube-dl) · ⭐ 141.6k · `Python` · `Unlicense` — Command-line program to download videos from YouTube.com and other video sites
   > 💡 上一代下载器，基本停止维护，新项目请用 yt-dlp
-- [**uv**](https://github.com/astral-sh/uv) · ⭐ 92k · `Rust` · `Apache-2.0` — An extremely fast Python package and project manager, written in Rust.
+- [**uv**](https://github.com/astral-sh/uv) · ⭐ 92.2k · `Rust` · `Apache-2.0` — An extremely fast Python package and project manager, written in Rust.
   > 💡 Python 包管理 + 虚拟环境，比 pip + venv 快一个数量级。新项目直接上
 - [**ripgrep**](https://github.com/BurntSushi/ripgrep) · ⭐ 70k · `Rust` · `Unlicense` — ripgrep recursively searches directories for a regex pattern while respecting your gitignore
   > 💡 递归搜索，比 grep 快很多。`rg` 基本可以替代 grep + find
-- [**github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet) · ⭐ 60.4k · `MIT` — A list of cool features of Git and GitHub.
+- [**github-cheat-sheet**](https://github.com/tiimgreen/github-cheat-sheet) · ⭐ 60.5k · `MIT` — A list of cool features of Git and GitHub.
   > 💡 GitHub 隐藏操作速查，偶尔翻翻有惊喜
 - [**rich**](https://github.com/Textualize/rich) · ⭐ 57.8k · `Python` · `MIT` — Rich is a Python library for rich text and beautiful formatting in the terminal.
   > 💡 Python 终端富文本输出，写 CLI 美化用
-- [**cli**](https://github.com/cli/cli) · ⭐ 47k · `Go` · `MIT` — GitHub’s official command line tool
+- [**cli**](https://github.com/cli/cli) · ⭐ 47.1k · `Go` · `MIT` — GitHub’s official command line tool
   > 💡 GitHub 官方 CLI，把仓库 / PR / Issue 操作脚本化
-- [**vim**](https://github.com/vim/vim) · ⭐ 41.3k · `Vim Script` · `Vim` — The official Vim repository
+- [**vim**](https://github.com/vim/vim) · ⭐ 41.4k · `Vim Script` · `Vim` — The official Vim repository
   > 💡 Vim 本体。改配置用 `:help` 查，别乱抄别人的 vimrc
 - [**jq**](https://github.com/jqlang/jq) · ⭐ 36.2k · `C` — Command-line JSON processor
   > 💡 处理 JSON 的标配，`curl ... | jq` 起手
-- [**delta**](https://github.com/dandavison/delta) · ⭐ 32.7k · `Rust` · `MIT` — A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
+- [**delta**](https://github.com/dandavison/delta) · ⭐ 32.8k · `Rust` · `MIT` — A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
   > 💡 git diff 的语法高亮分页器，配 `git config core.pager delta`
 - [**gitui**](https://github.com/gitui-org/gitui) · ⭐ 22.7k · `Rust` · `MIT` — Blazing 💥 fast terminal-ui for git written in rust 🦀
   > 💡 终端 Git TUI，比命令行直观，比 GUI 轻
@@ -924,7 +925,7 @@
 
 > 教程、路线图、面试、书单、资源集合——当资料库翻
 
-- [**awesome**](https://github.com/sindresorhus/awesome) · ⭐ 538k · `CC0-1.0` — 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
+- [**awesome**](https://github.com/sindresorhus/awesome) · ⭐ 538.6k · `CC0-1.0` — 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
   > 💡 所有 awesome 列表的总入口，找不到方向时先翻这个
 - [**computer-science**](https://github.com/ossu/computer-science) · ⭐ 211.2k · `HTML` · `MIT` — 🎓 Path to a free self-taught education in Computer Science!
   > 💡 自学计算机科学的完整课程路径
@@ -958,7 +959,7 @@
 
 ## 📖 电子书 / 影音 / 中文资源 (8)
 
-- [**weekly**](https://github.com/ruanyf/weekly) · ⭐ 108.2k — 科技爱好者周刊，每周五发布
+- [**weekly**](https://github.com/ruanyf/weekly) · ⭐ 108.3k — 科技爱好者周刊，每周五发布
   > 💡 阮一峰科技周刊，每周五更新
 - [**mdBook**](https://github.com/rust-lang/mdBook) · ⭐ 22.3k · `Rust` · `MPL-2.0` — Create book from markdown files. Like Gitbook but implemented in Rust
 - [**iBook**](https://github.com/fancy88/iBook) · ⭐ 5.6k — 收藏一些电子书
